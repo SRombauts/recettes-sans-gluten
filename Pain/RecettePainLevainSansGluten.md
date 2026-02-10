@@ -1,8 +1,8 @@
 # Pain sans gluten au levain cuit à la cocotte (≈1 kg cuit)
 
-## Ingrédients (pâte crue 1240 g)
+## Ingrédients (pâte crue 1230 g)
 
-* 430 g d'eau environ, selon les farines utilisées (le pâtton doit être très souple et assez collant - hydratation 90 %)
+* 420 g d'eau environ, selon les farines utilisées (le pâton doit être très souple et assez collant - hydratation 88 %)
 *  70 g de graines (mélanges lin, sésame, pavot, tournesol etc)
 *  14 g psyllium blond
 
@@ -11,7 +11,7 @@
 
 * 500 g mélange farines/fécules
 *  10 g sel
-*   4 g gomme xanthane
+*   3 g gomme xanthane
 
 ## Préparation (10-11h)
 
