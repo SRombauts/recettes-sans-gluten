@@ -7,6 +7,7 @@
 *  17 g psyllium blond
 
 * 240 g levain actif (≈33 % du poids des farines)
+*  30 g miel
 *  14 g huile d'olive
 
 * 600 g mélange farines/fécules
