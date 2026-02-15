@@ -4,3 +4,5 @@
 * 25% farine de sarrasin
 * 25% farine de sorgho
 * 20% farine de millet
+
+Voir la [recette du levain](RecetteLevain.md)
