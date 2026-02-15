@@ -1,6 +1,6 @@
-# Mix de farines pour pâtisserie sans gluten
+# Mix farines pour pâtisserie
 
-* 30 % farine de riz semi-complète
+* 30 % farine de riz demi-complet
 * 15 % fécule de tapioca
 * 15 % fécule de maïs
 * 15 % farine de sorgho

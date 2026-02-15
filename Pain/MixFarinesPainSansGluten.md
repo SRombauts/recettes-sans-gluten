@@ -1,6 +1,6 @@
-# Mélanges de farines et fécules (amidons) pour pain
+# Mix faarines et fécules pour pain
 
-* 25% farine de riz semi-complète
+* 25% farine de riz demi-complet
 * 20% farine de sorgho
 * 15% fécule de tapioca
 * 15% fécule de maïs
