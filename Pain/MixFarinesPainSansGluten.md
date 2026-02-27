@@ -1,4 +1,4 @@
-# Mix faarines et fécules pour pain
+# Mix farines et fécules pour pain
 
 * 25% farine de riz demi-complet
 * 20% farine de sorgho

@@ -26,13 +26,10 @@
 * Laisser fermenter (pointage) 4-5 h à 28 °C, gonflement ~50 %.
 * Fariner, scarifier et enfourner immédiatement dans la cocotte brulante.
 
-## Cuisson (1h20)
+## Cuisson (55 min)
 
-* Four et cocotte préchauffés 30 minutes à 240 °C
+* Four et cocotte préchauffés 40 minutes à 240 °C
 * Cuire 35 min couvercle fermé à 240 °C
-* Poursuivre 25 min couvercle ouvert à 220 °C
-* Prolonger 10 min sur grille four éteint pour bien sécher la mie.
+* Poursuivre 20 min couvercle ouvert à 210 °C
 
-Note : Vérifier que votre cocotte peut contenir un pâton de ~1,5 kg.
-
-Refroidir 4 h sur grille avant de couper.
+Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
