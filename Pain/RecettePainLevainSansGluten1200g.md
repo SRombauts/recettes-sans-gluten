@@ -1,23 +1,23 @@
-# Pain au levain sans gluten à la cocotte (≈1,0 kg cuit)
+# Pain au levain sans gluten à la cocotte (≈1,2 kg cuit)
 
-## Ingrédients (pâte crue ≈1284 g)
+## Ingrédients (pâte crue 1512 g)
 
-* 450 g d'eau environ, selon les farines utilisées
+* 540 g d'eau environ, selon les farines utilisées
   (le pâton doit être très souple et assez collant - hydratation 92 %)
-*  70 g de graines (mélanges lin, sésame, pavot, tournesol etc)
-*  14 g psyllium blond
-*   3 g gomme xanthane
+*  84 g de graines (mélanges lin, sésame, pavot, tournesol etc)
+*  17 g psyllium blond
+*   4 g gomme xanthane
 
-* 200 g levain actif (≈40 % du poids des farines)
-*  25 g miel
-*  12 g huile d'olive
+* 240 g levain actif (≈33 % du poids des farines)
+*  30 g miel
+*  14 g huile d'olive
 
-* 500 g [mélange farines/fécules pour pain](MixFarinesPainSansGluten.md)
-*  10 g sel
+* 600 g [mélange farines/fécules pour pain](MixFarinesPainSansGluten.md)
+*  12 g sel
 
 ## Préparation (~10h)
 
-* Rafraichir le levain (40 g / 80 g / 80 g) environ 3-4h à ~28 °C.
+* Rafraichir le levain (48 g / 96 g / 96 g) environ 3-4h à ~28 °C.
 * Faire tremper les graines de lin dans l'eau au moins 2h avant.
 * Mélanger le psyllium et la gomme xanthane avec l’eau, laisser gélifier 5 min.
 * Ajouter le levain et l'huile.
