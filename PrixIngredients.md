@@ -18,5 +18,17 @@
 
 * Gomme xanthane 11.98€/250g = 47.92€/kg
 * Psylium 27.99€/kg
+
 * Huile d'olive 12€/L
+* Huile de noix 10,12€/L
+* Huile de colza 1,88€/L
+
 * Sel 2.81€/250g = 11.24€/kg
+
+* Purée de noisettes 23€/700g = 32.86€/kg
+
+* Chocolat lait pâtissier Nestlé dessert 3,23€/170g = 19,53€/kg
+* Chocolat noir pâtissier Nestlé dessert 3,17€/205g = 15,47€/kg
+* Chocolat noir corsé pâtissier Nestlé dessert 3,41€/205g = 17,05€/kg
+
+* Lait demi écrémé 1,27€/L
