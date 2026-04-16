@@ -2,23 +2,23 @@
 
 ## Ingrédients
 
-- 170 g (44,1 %) de chocolat Nestlé Dessert Lait 39 %
-  - soit 17,2 % de cacao
-- 150 g (38,9 %) de purée de noisettes
-- 45 g (11,7 %) de lait demi-écrémé
-- 20 g (5,2 %) d'huile de colza
-- 0,5 g (0,1 %) de sel fin
+- 205 g (43,5 %) de chocolat Nestlé Dessert Noir 52 %
+  - soit 22,6 % de cacao
+- 180 g (38,2 %) de purée de noisettes
+- 60 g (12,7 %) de lait demi-écrémé
+- 26 g (5,5 %) d'huile de colza
+- 0,6 g (0,1 %) de sel fin
 
-## Analyse nutritionnelle moyenne pour 100 g
+## Analyse nutritionnelle pour 100 g
 
-- Énergie : 557 kcal
-- Matières grasses : 44,9 g
-  - dont acides gras saturés : 11,4 g
-- Glucides : 26,1 g
-  - dont sucres : 24,2 g
-- Fibres : 4,8 g
-- Protéines : 9,8 g
-- Sel : 0,21 g
+- Énergie : 550 kcal
+- Matières grasses : 44,6 g
+  - dont acides gras saturés : 11,3 g
+- Glucides : 24,8 g
+  - dont sucres : 22,0 g
+- Fibres : 6,3 g
+- Protéines : 9,3 g
+- Sel : 0,15 g
 
 ## Préparation
 
@@ -36,10 +36,10 @@
 
 | Ingrédient | Quantité | Prix |
 |---|---|---|
-| Chocolat Nestlé Dessert Lait | 170 g | 3,23 € |
-| Purée de noisettes | 150 g | 5,59 € |
-| Lait demi-écrémé | 45 g | 0,06 € |
-| Huile de colza | 20 g | 0,04 € |
-| Sel fin | 0,5 g | 0,01 € |
-| **Total (~386 g)** | | **8,93 €** |
-| **Prix au kg** | | **23,2 €** |
+| Chocolat Nestlé Dessert Noir | 205 g | 2,95 € |
+| Purée de noisettes | 180 g | 6,71 € |
+| Lait demi-écrémé | 60 g | 0,08 € |
+| Huile de colza | 26 g | 0,05 € |
+| Sel fin | 0,6 g | 0,01 € |
+| **Total (~472 g)** | | **9,80 €** |
+| **Prix au kg** | | **20,8 €** |

@@ -3,12 +3,12 @@
 ## Ingrédients
 
 - 205 g (42,4 %) de chocolat Nestlé Dessert Corsé 65 %
-  - soit 27,6 %
+  - soit 27,6 % de cacao
 - 246 g (50,9 %) de purée de noisettes
 - 31 g (6,4 %) d'huile de colza
 - 1 g (0,2 %) de sel fin
 
-## Analyse nutritionnelle moyenne pour 100 g
+## Analyse nutritionnelle pour 100 g
 
 - Énergie : 634 kcal
 - Matières grasses : 54,3 g
