@@ -8,3 +8,7 @@ Par orde de priorité décroissante
 * légèreté, aération
 * indice glycémique (IG) modéré grace à un taux élevé de protéines
 * prix contenu
+
+## Workflow
+
+N'hesite pas à éditer directement les fichiers, en créer de nouveaux, et faire le commit à ma place immédiatement.
