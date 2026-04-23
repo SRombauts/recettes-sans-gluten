@@ -5,8 +5,9 @@ Ce projet contient des mélanges de farines et des recettes de boulangerie et de
 Par orde de priorité décroissante
 
 * goût agréable, doux mais riche, subtil
-* légèreté, aération
+* texture, consistance, légèreté, aération
 * indice glycémique (IG) modéré grace à un taux élevé de protéines
+* limiter les graisses saturées
 * prix contenu
 
 ## Workflow
