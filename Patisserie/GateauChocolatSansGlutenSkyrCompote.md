@@ -16,19 +16,25 @@ farine généreuse donnent une mie type gâteau (non-brownie).
 
 # Préparation
 
-1. Préchauffer le four à 165°C. Sortir Skyr et compote du frigo 15-20 min
-   avant.
-2. Faire fondre le chocolat doucement (bain-marie ou micro-ondes par tranches
-   courtes).
-3. Mélanger dans un bol les ingrédients secs : farine, levure, sel, cannelle.
+1. Préchauffer le four à 165°C.
+2. Casser le chocolat en morceaux dans un bol, ajouter la compote (pas le
+   Skyr), et faire chauffer au micro-ondes par tranches de 30 s en remuant à
+   chaque fois, jusqu'à ce que le chocolat soit complètement fondu et le
+   mélange lisse (sorte de ganache à la compote). Laisser tiédir, puis
+   incorporer le Skyr (pas besoin de le tempérer, l'émulsion est déjà faite et
+   ne risque plus de figer).
+3. Mélanger dans un autre bol les ingrédients secs : farine, levure, sel, cannelle.
 4. Fouetter les oeufs avec le sucre vanillé jusqu'à ce qu'ils prennent un peu de volume.
-5. Incorporer le Skyr tempéré puis la compote, sans insister.
-6. Verser le chocolat fondu en filet sur cette base en mélangeant pour
-   homogénéiser.
-7. Ajouter les ingrédients secs en deux fois, mélanger juste assez pour qu'il
+5. Verser le mélange chocolat-compote-Skyr en filet sur les oeufs battus, en fouettant doucement pour homogénéiser.
+6. Ajouter les ingrédients secs en deux fois, mélanger juste assez pour qu'il
    n'y ait plus de grumeaux.
-8. Verser dans un moule métallique chemisé d'environ 22 cm (rond) ou 20 x 25 cm
+7. Verser dans un moule métallique chemisé d'environ 22 cm (rond) ou 20 x 25 cm
    (rectangulaire).
+
+Méthode alternative : faire fondre le chocolat seul (bain-marie ou micro-ondes
+par tranches courtes), tempérer Skyr et compote 15-20 min hors du frigo, puis
+incorporer Skyr et compote aux oeufs battus avant de verser le chocolat fondu
+en filet. Donne le même résultat, en plusieurs étapes au lieu d'une.
 
 # Cuisson
 
@@ -47,8 +53,16 @@ Laisser tiédir dans le moule avant démoulage, la mie se raffermit.
 * Levure chimique nécessaire car sans gras fouetté pour aérer la pâte. Le
   bicarbonate (~ 3 g) fonctionne aussi et réagit avec l'acidité du Skyr et
   de la compote.
-* Tempérer le Skyr (sortir du frigo 15-20 min avant) pour éviter qu'il ne
-  fige le chocolat fondu.
+* Faire fondre le chocolat directement avec la compote au micro-ondes
+  fonctionne très bien : c'est en fait une ganache à la compote. Le piège du
+  chocolat qui « tranche » concerne les très petites quantités d'eau (< 1 c.
+  à soupe pour 50 g de chocolat) ; ici on est largement au-dessus du seuil,
+  donc émulsion stable et lisse. Le Skyr s'incorpore ensuite sans risque dans
+  cette ganache tiédie. Important : ne pas chauffer le Skyr au micro-ondes,
+  ses protéines acides risquent de cailler.
+* Si on utilise la méthode alternative (chocolat fondu seul) : tempérer le
+  Skyr (sortir du frigo 15-20 min avant) pour éviter qu'il ne fige le chocolat
+  fondu au contact.
 * Test cure-dent : doit ressortir quasi sec (typique du gâteau bien cuit,
   contrairement au brownie).
 * Variante plus protéinée : remplacer 20 g de farine par 20 g de poudre
