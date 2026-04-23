@@ -4,7 +4,7 @@ Variante allégée du [Brownie sans gluten](BrownieSansGluten.md) où la compote
 de pommes remplace le beurre (1:1 en poids).
 
 * 205 g chocolat dessert noir
-* 110 g compote de pommes non sucrée
+* 110 g compote de pommes sans sucre ajouté
 *  70 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
 *  80 g de noix, noix de pécans, noisettes ou amandes
 *   3 oeufs

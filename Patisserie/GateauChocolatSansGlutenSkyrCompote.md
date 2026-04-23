@@ -6,7 +6,7 @@ farine généreuse donnent une mie type gâteau (non-brownie).
 
 * 205 g chocolat dessert noir
 *  80 g Skyr nature
-* 100 g compote de pommes non sucrée
+* 100 g compote de pommes sans sucre ajouté
 * 140 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
 *   4 oeufs
 *   5 g levure chimique (~ 1 c. à café bombée)

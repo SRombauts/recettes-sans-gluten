@@ -8,7 +8,7 @@ dense.
 
 * 205 g chocolat dessert noir
 * 100 g Skyr nature
-* 110 g compote de pommes non sucrée
+* 110 g compote de pommes sans sucre ajouté
 *  75 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
 *  80 g de noix, noix de pécans, noisettes ou amandes
 *   3 oeufs
