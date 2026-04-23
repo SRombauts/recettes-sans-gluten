@@ -9,8 +9,7 @@ farine généreuse donnent une mie type gâteau (non-brownie).
 * 100 g compote de pommes sans sucre ajouté
 * 140 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
 *   4 oeufs
-*   5 g levure chimique (~ 1 c. à café bombée)
-*   2 g extrait de vanille (~ 1/2 c. à café)
+*   1 sachet levure chimique
 *   1 sachet sucre vanillé (optionnel, donne un petit coup de pouce sucré)
 *   1 g cannelle (optionnel, met en valeur la pomme)
 * 1-2 g de sel
@@ -22,8 +21,7 @@ farine généreuse donnent une mie type gâteau (non-brownie).
 2. Faire fondre le chocolat doucement (bain-marie ou micro-ondes par tranches
    courtes).
 3. Mélanger dans un bol les ingrédients secs : farine, levure, sel, cannelle.
-4. Fouetter les oeufs avec le sucre vanillé (si utilisé) et l'extrait de
-   vanille jusqu'à ce qu'ils prennent un peu de volume.
+4. Fouetter les oeufs avec le sucre vanillé jusqu'à ce qu'ils prennent un peu de volume.
 5. Incorporer le Skyr tempéré puis la compote, sans insister.
 6. Verser le chocolat fondu en filet sur cette base en mélangeant pour
    homogénéiser.
