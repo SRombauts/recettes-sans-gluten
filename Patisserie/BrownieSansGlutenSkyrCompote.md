@@ -1,43 +1,48 @@
 # Brownie sans gluten au Skyr et compote de pommes
 
-Variante brownie sans beurre, sans huile et sans sucre ajouté, riche en
-protéines. Dérivée du [Brownie sans gluten](BrownieSansGluten.md) : le Skyr
-remplace le beurre (crémeux protéique, sans matière grasse), la compote
-remplace le sucre (sucrosité naturelle). Sans levure, dans l'esprit brownie
-dense.
+Version la plus protéinée et la plus technique du
+[Brownie sans gluten](BrownieSansGluten.md). Le Skyr apporte de la tenue et du
+crémeux, la compote arrondit l'amertume du chocolat, mais la texture s'éloigne
+plus facilement du brownie classique si on met trop d'eau. Sans levure, dans
+l'esprit brownie dense.
 
 * 205 g chocolat dessert noir
-* 100 g Skyr nature
-* 110 g compote de pommes sans sucre ajouté
-*  75 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
+*  80 g Skyr nature
+*  60 g compote de pommes sans sucre ajouté, assez épaisse
+*  70 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
 *  80 g de noix, noix de pécans, noisettes ou amandes
 *   3 oeufs
 *   1 sachet sucre vanillé (optionnel, se marie bien avec le chocolat)
 *   1 g cannelle (optionnel, met en valeur la pomme)
 * 1-2 g de sel
 
+# Préparation
+
+1. Sortir Skyr et compote du frigo 20 min avant.
+2. Faire fondre le chocolat doucement.
+3. Fouetter brièvement les oeufs et le sucre vanillé.
+4. Incorporer le Skyr puis la compote, puis verser le chocolat fondu en filet.
+5. Ajouter farine et sel, mélanger juste assez, puis incorporer les noix.
+6. Verser dans un moule métallique chemisé d'environ 20 x 20 cm.
+
 # Cuisson
 
-30-35 minutes à 165°C dans un moule métalique.
+26-30 minutes à 165°C dans un moule métallique.
+Laisser tiédir longuement puis refroidir complètement avant de juger la
+texture.
 
 # Notes
 
-* Le Skyr porte le crémeux à la place du beurre, via un mécanisme différent :
-  gel protéique de caséines (comme quand il remplace la crème fraîche), pas
-  émulsion de gras. La mie est dense et riche, mais moins « fondante en
-  bouche » qu'un brownie classique au beurre.
-* Seules graisses présentes : ~ 30 g de beurre de cacao du chocolat + ~ 15 g
-  des jaunes d'oeufs. Pas d'huile ni beurre ajoutés.
-* Farine légèrement remontée (60 → 75 g) pour absorber l'eau supplémentaire
-  apportée par Skyr (~ 83 g) + compote (~ 97 g).
+* La vraie difficulté est le trio Skyr + compote + oeufs : beaucoup d'eau et
+  beaucoup de protéines, donc plus de risque de brownie serré ou un peu flan.
+  D'où la compote resserrée à 60 g, le Skyr étant déjà très hydratant à lui
+  seul.
+* Le Skyr doit être tempéré sinon il fige le chocolat en grumeaux.
+* Choisir de préférence un chocolat dessert autour de 50-55 % de cacao. Avec un
+  70 %, cette version devient vite austère.
 * Pas de levure chimique, dans l'esprit brownie : on accepte une mie dense.
-* Tempérer le Skyr (sortir du frigo 15-20 min avant) sinon il fige le
-  chocolat fondu en grumeaux.
-* Ordre conseillé : chocolat fondu → oeufs battus → Skyr + compote tempérés
-  → farine + sel. Mélanger doucement, ne pas fouetter (pas besoin d'aérer).
 * Test cure-dent : doit ressortir avec quelques miettes humides, pas liquide.
-* Si trop sec ou « gras manquant » au premier essai : ajouter 20-30 g d'huile
-  de colza la fois suivante (mie plus fondante, on perd un peu en pureté du
-  concept zéro gras ajouté).
-* Si trop dense ou caoutchouteux : ajouter ~ 3 g de levure chimique la fois
-  suivante (mais on glisse vers le gâteau).
+* Si tu veux plus fondant sans remettre de beurre, remplacer 10 g de farine par
+  15 g de poudre d'amande au prochain essai.
+* Si c'est encore trop dense ou caoutchouteux, cette piste confirme surtout
+  qu'on se rapproche plus d'un gâteau très humide que d'un vrai brownie.
