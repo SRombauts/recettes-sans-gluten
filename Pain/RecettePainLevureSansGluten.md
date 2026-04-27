@@ -31,3 +31,16 @@
 * Laisser refroidir sur grille four éteint pour bien sécher la mie.
 
 Refroidir 4 h sur grille avant de couper.
+
+## Analyse nutritionnelle pour 100 g
+
+Pain cuit (~ 1093 g cru → ~ 850 g cuit, ~ 22 % d'évaporation).
+
+* Énergie : 271 kcal
+* Matières grasses : 6,0 g
+  * dont acides gras saturés : 0,8 g
+* Glucides : 48,4 g
+  * dont sucres : 2,8 g
+* Fibres : 5,2 g
+* Protéines : 5,4 g
+* Sel : 0,95 g

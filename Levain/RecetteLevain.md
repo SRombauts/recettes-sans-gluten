@@ -23,3 +23,16 @@ Laisser reposer 3-4h à ~28°C
 Exemples:
 - 48 g de levain +  96 g d'eau +  96 g de farines
 - 30 g de levain + 105 g d'eau + 105 g de farines
+
+## Analyse nutritionnelle pour 100 g
+
+Levain rafraîchi 1:2:2 (~ 50 % farine, ~ 50 % eau).
+
+* Énergie : 179 kcal
+* Matières grasses : 1,7 g
+  * dont acides gras saturés : 0,3 g
+* Glucides : 36,7 g
+  * dont sucres : 0,6 g
+* Fibres : 2,9 g
+* Protéines : 4,9 g
+* Sel : 0 g

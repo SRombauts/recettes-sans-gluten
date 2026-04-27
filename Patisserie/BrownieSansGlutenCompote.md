@@ -28,6 +28,19 @@ un peu de sucrosité, mais le chocolat reste la principale source de richesse.
 Laisser refroidir 45-60 min avant de couper : la pâte se raffermit nettement en
 tiédissant.
 
+# Analyse nutritionnelle pour 100 g
+
+Brownie cuit, recette complète (noix, sucre vanillé, cannelle), chocolat 52 %.
+
+* Énergie : 390 kcal
+* Matières grasses : 24,6 g
+  * dont acides gras saturés : 9,0 g
+* Glucides : 32,9 g
+  * dont sucres : 21,2 g
+* Fibres : 4,5 g
+* Protéines : 8,5 g
+* Sel : 0,37 g
+
 # Notes
 
 * Le point critique est l'eau : une compote fluide donne vite un brownie humide
