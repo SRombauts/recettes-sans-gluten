@@ -33,3 +33,5 @@
 * Chocolat noir corsé pâtissier Nestlé dessert 65% 3,41€/205g = 17,05€/kg
 
 * Lait demi écrémé 1,27€/L
+
+* Whey protéine concentrée goût neutre Décathlon 29€/900g = 32,22€/kg
