@@ -18,15 +18,17 @@ Gâteau moelleux aéré, sans beurre ni sucre raffiné ajouté (hors sucre vanil
 1. Préchauffer le four à 170°C.
 2. Casser le chocolat en morceaux dans un bol, ajouter la compote, et faire
    chauffer au micro-ondes par tranches de 30 s en remuant à chaque fois,
-   jusqu'à ce que le chocolat soit complètement fondu et le mélange lisse
-   (sorte de ganache à la compote). Laisser tiédir.
-3. Ajouter les ingrédients secs progressivement, mélanger juste assez pour qu'il
-   n'y ait pas de grumeaux.
-4. Séparer les jaunes des blancs d'oeufs.
-5. Incorporer les jaunes d'oeufs.
-6. Monter les blancs en neige.
-7. Incorporer les blancs en neige soigneusement.
-8. Verser dans un moule métallique chemisé.
+   jusqu'à ce que le chocolat soit complètement fondu et le mélange lisse.
+   Laisser tiédir.
+3. Séparer les jaunes des blancs d'oeufs.
+4. Incorporer les jaunes à la base chocolat tiédie.
+5. Ajouter les ingrédients secs progressivement : farine, sucre vanillé, cannelle, sel, amandes en poudre, en terminant par la levure chimique.
+   Mélanger juste assez pour qu'il n'y ait pas de grumeaux.
+6. Monter les blancs en neige avec une pincée de sel.
+7. Incorporer les blancs délicatement à la maryse, en deux fois (1/3 pour détendre la pâte, puis 2/3).
+8. Ajouter les amandes concassées, en garder quelques unes pour la décoration.
+9. Verser dans un moule métallique chemisé.
+10. Déposer quelques amandes concassées en surface.
 
 # Cuisson
 
@@ -39,10 +41,10 @@ Gâteau moelleux aéré, sans beurre ni sucre raffiné ajouté (hors sucre vanil
 * Premier essai 22 min / 180°C → trop peu cuit en quelques endroits centre.
   La compote (200 g) apporte beaucoup d'eau.
   Second essai 30 min / 170°C → trop cuit, un peu sec, surface légèrement brunie.
-* Sans huile ni beurre : les seules graisses viennent du chocolat (~ 60 g de
-  beurre de cacao) et des 4 jaunes d'oeufs (~ 20 g). La compote compense en
-  hydratation mais pas en gras, donc bien respecter la cuisson pour ne pas
-  dessécher.
+* Sans huile ni beurre : les graisses viennent du chocolat (~ 60 g de beurre
+  de cacao), des 4 jaunes d'oeufs (~ 20 g) et des amandes en poudre le cas
+  échéant. La compote compense en hydratation mais pas en gras, donc bien
+  respecter la cuisson pour ne pas dessécher.
 * Levure chimique nécessaire car sans gras fouetté pour aérer la pâte. Le
   bicarbonate (~ 3 g) fonctionne aussi et réagit avec l'acidité de la compote.
 * Variante plus protéinée : ajouter 1 cuillère à soupe de poudre de protéine neutre.
