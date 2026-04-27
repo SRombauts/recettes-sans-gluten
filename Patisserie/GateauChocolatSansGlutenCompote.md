@@ -36,6 +36,17 @@ Gâteau moelleux aéré, sans beurre ni sucre raffiné ajouté (hors sucre vanil
 * Plonger un couteau pour vérifier que le coeur est cuit, légèrement humide mais non liquide.
 * Laisser tiédir dans le moule avant démoulage, la mie se raffermit.
 
+# Analyse nutritionnelle pour 100 g
+
+* Énergie : 328 kcal
+* Matières grasses : 20,0 g
+  * dont acides gras saturés : 7,6 g
+* Glucides : 26,5 g
+  * dont sucres : 11,8 g
+* Fibres : 5,5 g
+* Protéines : 9,3 g
+* Sel : 0,44 g
+
 # Notes
 
 * Premier essai 22 min / 180°C → trop peu cuit en quelques endroits centre.
