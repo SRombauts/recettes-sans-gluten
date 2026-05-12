@@ -1,6 +1,6 @@
 # Pain au levain sans gluten à la cocotte (≈1,2 kg cuit)
 
-## Ingrédients (pâte crue 1541 g)
+## Ingrédients (pâte crue 1511 g)
 
 * 540 g d'eau environ, selon les farines utilisées
   (le pâton doit être très souple et assez collant - hydratation 92 %)
@@ -9,7 +9,6 @@
 *   4 g gomme xanthane
 
 * 240 g levain actif (≈33 % du poids des farines)
-*  30 g miel
 *  14 g huile d'olive
 
 * 600 g [mélange farines/fécules pour pain](MixFarinesPainSansGluten.md)
@@ -36,13 +35,13 @@ Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 
 ## Analyse nutritionnelle pour 100 g
 
-Pain cuit (~ 1541 g cru → ~ 1200 g cuit, ~ 22 % d'évaporation).
+Pain cuit (~ 1511 g cru → ~ 1175 g cuit, ~ 22 % d'évaporation).
 
-* Énergie : 273 kcal
-* Matières grasses : 6,0 g
+* Énergie : 271 kcal
+* Matières grasses : 6,1 g
   * dont acides gras saturés : 0,8 g
-* Glucides : 48,8 g
-  * dont sucres : 2,9 g
-* Fibres : 5,3 g
-* Protéines : 5,6 g
+* Glucides : 47,7 g
+  * dont sucres : 0,9 g
+* Fibres : 5,4 g
+* Protéines : 5,7 g
 * Sel : 1,0 g
