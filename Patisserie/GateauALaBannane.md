@@ -12,7 +12,7 @@ et les œufs entiers, parfumée à la cannelle et parsemée de pépites de choco
 *  90 mL de lait
 *   2 œufs
 *   1 sachet de levure chimique
-*  50 g de pépites de chocolat
+*  50 g de pépites de chocolat noir
 *   1 c. à c. de cannelle (~ 2 g)
 *   2 g de sel
 
@@ -56,10 +56,5 @@ non comptée).
 
 * Choisir des bananes bien mûres (peau tachetée) : plus sucrées et plus
   faciles à écraser, elles évitent d'ajouter du sucre.
-* La purée d'amandes peut être remplacée par 60 g d'huile neutre + 20 g d'eau,
-  mais on perd en protéines et en douceur.
 * Pour une version plus protéinée : remplacer 20-30 g de farine par de la
   whey neutre, voir [Notes/AugmenterTauxProteines](../Notes/AugmenterTauxProteines.md).
-* Variante moins sucrée : réduire à 3 bananes et compléter avec 100 g de
-  compote de pommes sans sucre ajouté.
-* Pépites de chocolat noir 50-70 % plutôt qu'au lait pour limiter le sucre.
