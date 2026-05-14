@@ -1,3 +1,9 @@
+---
+title: Gâteau chocolat compote (protéiné)
+parent: Pâtisserie
+nav_order: 6
+---
+
 # Gâteau au chocolat sans gluten à la compote, version protéinée
 
 Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompote.md),

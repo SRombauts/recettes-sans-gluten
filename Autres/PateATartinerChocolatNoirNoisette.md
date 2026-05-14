@@ -1,3 +1,9 @@
+---
+title: Pâte à tartiner chocolat noir et noisette
+parent: Autres
+nav_order: 1
+---
+
 # Pâte à tartiner chocolat noir et noisette
 
 ## Ingrédients

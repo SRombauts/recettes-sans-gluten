@@ -1,3 +1,9 @@
+---
+title: Brownie compote
+parent: Pâtisserie
+nav_order: 4
+---
+
 # Brownie sans gluten à la compote de pommes
 
 Variante plus légère du [Brownie sans gluten](BrownieSansGluten.md), sans

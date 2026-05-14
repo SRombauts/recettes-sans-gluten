@@ -1,3 +1,9 @@
+---
+title: Pâte à tartiner chocolat au lait et amande
+parent: Autres
+nav_order: 3
+---
+
 # Pâte à tartiner chocolat au lait et amande
 
 ## Ingrédients

@@ -1,3 +1,9 @@
+---
+title: Pâte à tartiner chocolat au lait et noisette
+parent: Autres
+nav_order: 2
+---
+
 # Pâte à tartiner chocolat au lait et noisette
 
 ## Ingrédients

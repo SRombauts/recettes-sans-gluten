@@ -1,3 +1,9 @@
+---
+title: Brownie classique
+parent: Pâtisserie
+nav_order: 3
+---
+
 # Brownie sans gluten
 
 * 205 g chocolat dessert noir

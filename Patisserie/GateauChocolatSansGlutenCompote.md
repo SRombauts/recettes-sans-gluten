@@ -1,3 +1,9 @@
+---
+title: Gâteau chocolat compote
+parent: Pâtisserie
+nav_order: 5
+---
+
 # Gâteau au chocolat sans gluten à la compote de pommes
 
 Gâteau moelleux aéré, sans beurre ni sucre raffiné ajouté (hors sucre vanillé éventuel). La compote apporte sucrosité naturelle et fibres. 4 oeufs et une farine généreuse donnent une mie type gâteau (non-brownie).

@@ -1,3 +1,9 @@
+---
+title: Mix farines pour pain
+parent: Pain
+nav_order: 1
+---
+
 # Mix farines et fécules pour pain
 
 * 25% farine de riz demi-complet

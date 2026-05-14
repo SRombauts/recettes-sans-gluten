@@ -1,3 +1,9 @@
+---
+title: Mix farines pour levain
+parent: Levain
+nav_order: 2
+---
+
 # Mix farines sans gluten pour levain
 
 * 30% farine de riz demi-complet

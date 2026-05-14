@@ -1,3 +1,9 @@
+---
+title: Augmenter le taux de fibres
+parent: Notes
+nav_order: 2
+---
+
 # Augmenter le taux de fibres en pâtisserie
 
 État actuel des recettes :

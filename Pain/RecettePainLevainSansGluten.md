@@ -1,3 +1,9 @@
+---
+title: Pain au levain ~1,0 kg
+parent: Pain
+nav_order: 2
+---
+
 # Pain au levain sans gluten à la cocotte (≈1,0 kg cuit)
 
 ## Ingrédients (pâte crue ≈1259 g)

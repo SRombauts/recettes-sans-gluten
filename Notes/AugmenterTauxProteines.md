@@ -1,3 +1,9 @@
+---
+title: Augmenter le taux de protéines
+parent: Notes
+nav_order: 1
+---
+
 # Augmenter le taux de protéines en pâtisserie
 
 Objectif n° 3 du projet : indice glycémique modéré grâce à un taux élevé de

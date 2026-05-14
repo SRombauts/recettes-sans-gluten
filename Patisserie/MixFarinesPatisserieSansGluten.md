@@ -1,3 +1,9 @@
+---
+title: Mix farines pour pâtisserie
+parent: Pâtisserie
+nav_order: 1
+---
+
 # Mix farines pour pâtisserie
 
 * 30 % farine de riz demi-complet

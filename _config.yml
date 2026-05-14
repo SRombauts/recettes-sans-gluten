@@ -1,0 +1,56 @@
+title: Recettes sans gluten
+description: >-
+  Mélanges de farines, pains, pâtisseries et autres recettes sans gluten,
+  avec analyses nutritionnelles pour 100 g.
+lang: fr
+url: ""
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+heading_anchors: true
+
+aux_links:
+  Code source GitHub:
+    - "https://github.com/SRombauts/recettes-sans-gluten"
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Haut de page"
+
+footer_content: >-
+  Recettes sans gluten —
+  <a href="https://github.com/SRombauts/recettes-sans-gluten">SRombauts/recettes-sans-gluten</a>.
+  Mise à jour automatique des analyses nutritionnelles pour 100 g.
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+relative_links:
+  enabled: true
+  collections: true
+
+exclude:
+  - CLAUDE.md
+  - AGENTS.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github
+  - node_modules
+  - "*.gemspec"

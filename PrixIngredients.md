@@ -1,3 +1,9 @@
+---
+title: Prix des ingrédients
+nav_order: 7
+permalink: /PrixIngredients
+---
+
 # Prix ingrédients sans gluten
 
 * Farine de chataîgnes 9.15€/500g = 18.30€/kg

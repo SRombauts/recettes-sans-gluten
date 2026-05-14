@@ -1,3 +1,9 @@
+---
+title: Recette du levain
+parent: Levain
+nav_order: 1
+---
+
 # Levain sans gluten
 
 Levain chef conservé au réfrigérateur
