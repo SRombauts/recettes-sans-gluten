@@ -27,6 +27,9 @@ protéines visé pour un indice glycémique modéré.
   / 100 g.
 - [Gâteau chocolat compote café](GateauChocolatSansGlutenCompoteCafe.md) —
   variante avec café soluble dissous dans la compote pour rehausser le chocolat.
+- [Tarte rhubarbe Skyr compote](TarteRhubarbeSkyrCompote.md) — garniture sans
+  sucre raffiné (compote de pomme) et au Skyr à la place de la crème fraîche,
+  ~ 3,4 g de protéines / 100 g, ~ 4,6 g de sucres / 100 g.
 
 Voir aussi les sections [Notes]({{ '/Notes/' | relative_url }}) sur
 l'augmentation des fibres et des protéines en pâtisserie.
