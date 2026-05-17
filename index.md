@@ -10,6 +10,8 @@ permalink: /
 Mélanges de farines, pains, pâtisseries et autres recettes sans gluten,
 pensées pour la consultation rapide depuis un smartphone en cuisine.
 
+![Pain au levain sans gluten coupé, mie alvéolée aux graines]({{ '/Photos/PXL_20260227_080205554_PainCoupe.jpg' | relative_url }})
+
 ## Objectifs des recettes
 
 Par ordre de priorité décroissante :
@@ -47,3 +49,13 @@ automatiquement à chaque changement d'ingrédients.
   en quelques lettres.
 - Les recettes se relient entre elles (par exemple un pain renvoie vers son
   mix de farines).
+
+## Quelques recettes en images
+
+[Gâteau au chocolat sans gluten à la compote]({{ '/Patisserie/GateauChocolatSansGlutenCompote' | relative_url }}) — moelleux, sans beurre ni sucre raffiné, parsemé d'amandes concassées :
+
+![Gâteau au chocolat sans gluten à la compote, parsemé d'amandes concassées]({{ '/Photos/PXL_20260423_184810552_GateauChocolatCompoteAmandes1.jpg' | relative_url }})
+
+[Tarte à la rhubarbe au Skyr et compote]({{ '/Patisserie/TarteRhubarbeSkyrCompote' | relative_url }}) — garniture sans sucre raffiné, ici décorée de fraises fraîches :
+
+![Tarte à la rhubarbe au Skyr décorée de fraises fraîches]({{ '/Photos/PXL_20260412_161106291_TarteRhubarbeFraises.jpg' | relative_url }})

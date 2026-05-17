@@ -6,6 +6,8 @@ nav_order: 2
 
 # Pain au levain sans gluten à la cocotte (≈1,0 kg cuit)
 
+![Pain au levain sans gluten cuit à la cocotte, croûte scarifiée](../Photos/PXL_20260328_083811648_PainCuit.jpg)
+
 ## Ingrédients (pâte crue ≈1259 g)
 
 * 450 g d'eau environ, selon les farines utilisées

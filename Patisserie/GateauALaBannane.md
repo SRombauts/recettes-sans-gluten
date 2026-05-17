@@ -11,6 +11,8 @@ sucrosité, les amandes (poudre + purée) apportent gras doux, fibres et
 protéines pour modérer l'indice glycémique. Mie aérée par la levure chimique
 et les œufs entiers, parfumée à la cannelle et parsemée de pépites de chocolat.
 
+![Gâteau à la banane sans gluten en moule à cake, banane fendue sur le dessus avant cuisson](../Photos/PXL_20260512_192826674_GateauBananeCru.jpg)
+
 * 4 bananes mûres écrasées (~ 440 g de chair) + 1 banane optionnelle coupée en deux pour la déco
 * 150 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
 *  80 g d'amandes en poudre

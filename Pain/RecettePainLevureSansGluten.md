@@ -6,6 +6,8 @@ nav_order: 4
 
 # Pain à la levure sans gluten à la cocotte (≈0,85 kg cuit)
 
+![Pain à la levure sans gluten en tranches, prêt pour le petit-déjeuner](../Photos/PXL_20260326_140145076_PainTranches.jpg)
+
 ## Ingrédients (pâte crue 1078 g)
 
 * 475 g d'eau environ, selon les farines utilisées (le pâton doit être très souple et assez collant)

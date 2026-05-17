@@ -8,6 +8,8 @@ nav_order: 1
 
 Levain chef conservé au réfrigérateur
 
+![Levain chef sans gluten en bocal, bullé et actif après rafraîchi](../Photos/PXL_20251008_093805776_Levain.jpg)
+
 ## Entretien 1:5:5 une fois par semaine
 
 Bien nourrir le levain pour l'entretien, assez de farine pour qu'il tienne une semaine.

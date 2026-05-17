@@ -6,7 +6,11 @@ nav_order: 5
 
 # Gâteau au chocolat sans gluten à la compote de pommes
 
+![Gâteau au chocolat sans gluten à la compote, parsemé d'amandes concassées](../Photos/PXL_20260423_184810552_GateauChocolatCompoteAmandes1.jpg)
+
 Gâteau moelleux aéré, sans beurre ni sucre raffiné ajouté (hors sucre vanillé éventuel). La compote apporte sucrosité naturelle et fibres. 4 oeufs et une farine généreuse donnent une mie type gâteau (non-brownie).
+
+![Vue de la mie aérée du gâteau au chocolat à la compote](../Photos/PXL_20260423_184827371_GateauChocolatCompoteAmandes2.jpg)
 
 * 205 g chocolat noir corsé pâtissier Nestlé dessert 65% cacao
 * 200 g compote de pommes sans sucre ajouté

@@ -6,6 +6,8 @@ nav_order: 8
 
 # Tarte à la rhubarbe au Skyr et compote de pommes (garniture sans gluten)
 
+![Tarte à la rhubarbe au Skyr et compote, décorée de fraises fraîches](../Photos/PXL_20260412_161106291_TarteRhubarbeFraises.jpg)
+
 Adaptation à faible teneur en sucre raffiné et plus protéinée de la
 [tarte à la rhubarbe rapide de Marmiton](https://www.marmiton.org/recettes/recette_tarte-a-la-rhubarbe-rapide_22715.aspx) :
 

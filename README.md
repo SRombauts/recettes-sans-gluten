@@ -3,6 +3,8 @@
 Mélanges de farines, pains, pâtisseries et autres recettes sans gluten, avec
 analyse nutritionnelle pour 100 g sur chaque recette.
 
+![Pain au levain sans gluten coupé, mie alvéolée aux graines](Photos/PXL_20260227_080205554_PainCoupe.jpg)
+
 ## Site web
 
 Les recettes sont publiées en ligne pour une consultation simple depuis un
@@ -28,6 +30,16 @@ Le déploiement est automatique via GitHub Actions à chaque push sur `master`
 - [Autres](Autres/) — pâtes à tartiner et autres préparations.
 - [Notes](Notes/) — fiches transversales (protéines, fibres).
 - [Prix des ingrédients](PrixIngredients.md) — table de référence.
+
+## Quelques recettes en images
+
+[Gâteau au chocolat sans gluten à la compote](Patisserie/GateauChocolatSansGlutenCompote.md) — moelleux, sans beurre ni sucre raffiné, parsemé d'amandes concassées :
+
+![Gâteau au chocolat sans gluten à la compote, mie aérée et amandes concassées](Photos/PXL_20260423_184810552_GateauChocolatCompoteAmandes1.jpg)
+
+[Tarte à la rhubarbe au Skyr et compote](Patisserie/TarteRhubarbeSkyrCompote.md) — garniture sans sucre raffiné, ici décorée de fraises fraîches :
+
+![Tarte à la rhubarbe au Skyr décorée de fraises fraîches](Photos/PXL_20260412_161106291_TarteRhubarbeFraises.jpg)
 
 ## Objectifs des recettes
 
