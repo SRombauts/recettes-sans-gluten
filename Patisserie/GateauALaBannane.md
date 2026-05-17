@@ -46,6 +46,8 @@ et les œufs entiers, parfumée à la cannelle et parsemée de pépites de choco
   miettes humides (les bananes apportent beaucoup d'eau).
 * Laisser tiédir dans le moule avant démoulage, la mie se raffermit.
 
+![Gâteau à la banane sans gluten cuit dans son moule à cake, croûte dorée et bananes fondues](../Photos/IMG_20260517_162610_GateauBanane.jpg)
+
 # Analyse nutritionnelle pour 100 g
 
 Gâteau cuit, recette complète (pépites de chocolat noir, banane décorative
