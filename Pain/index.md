@@ -8,6 +8,8 @@ permalink: /Pain/
 
 # Pain
 
+![Pain au levain sans gluten cuit à la cocotte, croûte scarifiée]({{ '/Photos/PXL_20260328_083811648_PainCuit.jpg' | relative_url }})
+
 Pains sans gluten cuits en cocotte fonte. Toutes les recettes partagent le
 même [mélange de farines pour pain](MixFarinesPainSansGluten.md) à base de
 riz demi-complet, sorgho, millet, sarrasin et fécules de tapioca et maïs.

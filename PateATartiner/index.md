@@ -1,15 +1,16 @@
 ---
-title: Autres
+title: Pâtes à tartiner
 layout: default
 nav_order: 5
 has_children: true
-permalink: /Autres/
+permalink: /PateATartiner/
 ---
 
-# Autres préparations
+# Pâtes à tartiner
 
-Préparations qui ne relèvent ni du pain, ni du levain, ni de la pâtisserie
-au sens classique.
+Pâtes à tartiner maison à base de chocolat et de purée d'oléagineux
+(noisettes ou amandes), à teneur réduite en sucre par rapport aux versions
+industrielles.
 
 ## Recettes disponibles
 

@@ -8,6 +8,8 @@ permalink: /Levain/
 
 # Levain
 
+![Levain chef sans gluten en bocal, bullé et actif après rafraîchi]({{ '/Photos/PXL_20251008_093805776_Levain.jpg' | relative_url }})
+
 Levain chef sans gluten conservé au réfrigérateur, à entretenir une fois par
 semaine et à rafraîchir avant chaque utilisation.
 

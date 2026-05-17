@@ -8,6 +8,8 @@ permalink: /Patisserie/
 
 # Pâtisserie
 
+![Gâteau à la banane sans gluten cuit dans son moule à cake]({{ '/Photos/IMG_20260517_162610_GateauBanane.jpg' | relative_url }})
+
 Pâtisseries sans gluten ni sucre raffiné (ou très peu), avec un taux de
 protéines visé pour un indice glycémique modéré.
 

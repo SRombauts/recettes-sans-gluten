@@ -1,6 +1,6 @@
 ---
 title: Pâte à tartiner chocolat noir et noisette
-parent: Autres
+parent: Pâtes à tartiner
 nav_order: 1
 ---
 

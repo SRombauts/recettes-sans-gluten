@@ -1,6 +1,6 @@
 ---
 title: Pâte à tartiner chocolat au lait et amande
-parent: Autres
+parent: Pâtes à tartiner
 nav_order: 3
 ---
 
