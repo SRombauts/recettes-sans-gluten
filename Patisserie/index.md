@@ -34,6 +34,8 @@ protéines visé pour un indice glycémique modéré.
   ~ 3,4 g de protéines / 100 g, ~ 4,6 g de sucres / 100 g.
 - [Crêpes sans gluten](CrepesSansGluten.md) — pâte au lait et au mélange
   farines pâtisserie, reposée au froid, ~ 5,7 g de protéines / 100 g.
+- [Gaufres sans gluten](GaufresSansGluten.md) — pâte levée aux blancs en
+  neige, croustillantes à l'extérieur, ~ 5,8 g de protéines / 100 g.
 
 Voir aussi les sections [Notes]({{ '/Notes/' | relative_url }}) sur
 l'augmentation des fibres et des protéines en pâtisserie.
