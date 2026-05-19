@@ -32,7 +32,7 @@ automatiquement à chaque changement d'ingrédients.
   de farines pour pain.
 - [Levain]({{ '/Levain/' | relative_url }}) — entretien et rafraîchi du levain
   chef, mix de farines associé.
-- [Pâtisserie]({{ '/Patisserie/' | relative_url }}) — brownies, gâteaux,
+- [Pâtisserie]({{ '/Patisserie/' | relative_url }}) — brownies, gâteaux, crêpes,
   variantes protéinées et mix de farines pour pâtisserie.
 - [Pâtes à tartiner]({{ '/PateATartiner/' | relative_url }}) — pâtes à
   tartiner chocolat-noisette ou chocolat-amande.

@@ -1,7 +1,7 @@
 ---
 title: Tarte rhubarbe Skyr compote
 parent: Pâtisserie
-nav_order: 8
+nav_order: 9
 ---
 
 # Tarte à la rhubarbe au Skyr et compote de pommes (garniture sans gluten)
