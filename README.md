@@ -19,7 +19,7 @@ Le site est généré avec [Jekyll](https://jekyllrb.com/) et le thème
 - une recherche plein texte ;
 - une présentation lisible sur mobile.
 
-Le déploiement est automatique via GitHub Actions à chaque push sur `master`
+Le déploiement est automatique via GitHub Actions à chaque push sur `main`
 (voir [`.github/workflows/pages.yml`](.github/workflows/pages.yml)).
 
 ## Sections
