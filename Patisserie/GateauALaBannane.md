@@ -68,3 +68,29 @@ non comptée).
   faciles à écraser, elles évitent d'ajouter du sucre.
 * Pour une version plus protéinée : remplacer 20-30 g de farine par de la
   whey neutre, voir [Notes/AugmenterTauxProteines](../Notes/AugmenterTauxProteines.md).
+
+## Atténuer le goût d'amande
+
+La recette contient 160 g d'amandes (80 g poudre + 80 g purée) sur ~ 870 g
+de pâte : l'arôme amande peut couvrir la banane. Plusieurs leviers, du plus
+léger au plus radical :
+
+* **Remplacer la purée d'amande par de la purée de cajou** (80 g) : profil
+  gras et texture quasi identiques, mais goût beaucoup plus neutre. Solution
+  la plus simple et la plus efficace.
+* **Ou par 60 g de Skyr nature + 20 mL d'huile neutre** : abaisse les graisses
+  et augmente les protéines, goût lacté discret qui s'efface derrière la
+  banane.
+* **Réduire la poudre d'amande à 40 g**, compensée par 40 g de
+  [mélange farines patisserie](MixFarinesPatisserieSansGluten.md)
+  supplémentaire (texture un peu moins riche mais plus de banane).
+* **Renforcer les arômes concurrents** plutôt qu'enlever l'amande :
+  - 1 c. à c. d'extrait de vanille (ou 2 sachets de sucre vanillé en
+    remplacement d'autant de farine),
+  - 1 c. à s. de rhum brun (classique banane),
+  - porter la cannelle à 3-4 g,
+  - 50 → 80 g de pépites de chocolat noir.
+* **Variante chocolat-banane** : pour une bascule complète, voir
+  [Gâteau chocolat banane](GateauChocolatSansGlutenBanane.md), qui utilise
+  les bananes comme source de sucrosité dans une base chocolat sans amande
+  dominante.
