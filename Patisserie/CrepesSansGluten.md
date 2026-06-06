@@ -1,7 +1,7 @@
 ---
 title: Crêpes sans gluten
 parent: Pâtisserie
-nav_order: 10
+nav_order: 15
 ---
 
 # Crêpes sans gluten

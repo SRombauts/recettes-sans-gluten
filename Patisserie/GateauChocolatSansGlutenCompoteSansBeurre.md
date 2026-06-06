@@ -1,10 +1,12 @@
 ---
 title: Gâteau chocolat compote sans beurre
 parent: Pâtisserie
-nav_order: 5
+nav_order: 7
 ---
 
 # Gâteau au chocolat sans gluten à la compote de pommes (sans beurre)
+
+*Variante avec beurre : [Gâteau chocolat compote](GateauChocolatSansGlutenCompote.md).*
 
 ![Gâteau au chocolat sans gluten à la compote, parsemé d'amandes concassées](../Photos/PXL_20260423_184810552_GateauChocolatCompoteAmandes1.jpg)
 

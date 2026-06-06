@@ -1,10 +1,12 @@
 ---
 title: Gâteau à la banane sans beurre
 parent: Pâtisserie
-nav_order: 2
+nav_order: 3
 ---
 
 # Gâteau à la banane sans gluten (sans beurre)
+
+*Variante avec beurre : [Gâteau à la banane](GateauALaBannane.md).*
 
 Gâteau moelleux sans sucre raffiné ajouté : les bananes mûres apportent la
 sucrosité, les amandes (poudre + purée) apportent gras doux, fibres et

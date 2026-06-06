@@ -1,7 +1,7 @@
 ---
 title: Brownie sans beurre
 parent: Pâtisserie
-nav_order: 4
+nav_order: 5
 ---
 
 # Brownie sans gluten sans beurre (à la compote de pommes)

@@ -1,10 +1,12 @@
 ---
 title: Gâteau chocolat banane sans beurre
 parent: Pâtisserie
-nav_order: 8
+nav_order: 13
 ---
 
 # Gâteau au chocolat sans gluten à la banane (sans beurre)
+
+*Variante avec beurre : [Gâteau chocolat banane](GateauChocolatSansGlutenBanane.md).*
 
 Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompoteSansBeurre.md)
 où la compote de pommes est remplacée par des bananes mûres écrasées. La

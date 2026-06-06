@@ -1,10 +1,12 @@
 ---
 title: Gâteau chocolat compote café sans beurre
 parent: Pâtisserie
-nav_order: 7
+nav_order: 11
 ---
 
 # Gâteau au chocolat sans gluten à la compote et café (sans beurre)
+
+*Variante avec beurre : [Gâteau chocolat compote café](GateauChocolatSansGlutenCompoteCafe.md).*
 
 Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompoteSansBeurre.md),
 avec un peu de café soluble pour rehausser le chocolat (effet « moka »). À très

@@ -1,10 +1,12 @@
 ---
 title: Gâteau chocolat compote protéiné sans beurre
 parent: Pâtisserie
-nav_order: 6
+nav_order: 9
 ---
 
 # Gâteau au chocolat sans gluten à la compote, version protéinée (sans beurre)
+
+*Variante avec beurre : [Gâteau chocolat compote protéiné](GateauChocolatSansGlutenCompoteProteine.md).*
 
 Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompoteSansBeurre.md),
 avec ~ 12 % de protéines (vs 9,3 % en version de base) grâce à 25 g de whey

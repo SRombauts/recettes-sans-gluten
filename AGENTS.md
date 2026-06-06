@@ -1,16 +1,32 @@
 Ce projet contient des mélanges de farines et des recettes de boulangerie et de patisserie sans gluten.
 
+> **Note :** `CLAUDE.md` n'est qu'un lien symbolique vers ce fichier `AGENTS.md`.
+> Éditer l'un revient à éditer l'autre, et `CLAUDE.md` n'apparaît donc jamais
+> comme modifié dans `git status` (git suit le lien, pas son contenu).
+
 ## Objectifs
 
 Par orde de priorité décroissante
 
 * goût agréable, doux mais riche, subtil
 * texture, consistance, légèreté, aération
+* sans sucre raffiné ajouté autant que possible : la sucrosité vient des fruits
+  (banane, compote) ou reste minimale
 * augmenter les taux de protéines pour
   * obtenir un indice glycémique (IG) modéré, en prévention du diabète de type 2
   * soutenir la pratique d'une activité physique régulière
 * limiter les graisses saturées, en prévention du cholesterol
 * prix contenu
+
+## Deux variantes pour les pâtisseries
+
+Pour les pâtisseries, proposer quand c'est pertinent deux variantes :
+
+* **avec beurre** — plus gourmande, pour les enfants (nom de fichier de base) ;
+* **sans beurre** — plus santé, gras issu de purées d'oléagineux, de compote ou
+  du chocolat (suffixe `SansBeurre` dans le nom de fichier).
+
+Les deux restent sans sucre raffiné ajouté. Chaque fiche renvoie vers sa variante.
 
 ## Analyse nutritionelle pour 100g
 
