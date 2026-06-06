@@ -6,6 +6,8 @@ nav_order: 3
 
 # Brownie sans gluten
 
+*Variante sans beurre : [Brownie sans beurre](BrownieSansGlutenSansBeurre.md).*
+
 * 205 g chocolat dessert noir
 * 110 g beurre
 *  60 g sucre + sachet sucre vanillé

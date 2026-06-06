@@ -1,12 +1,12 @@
 ---
-title: Gâteau chocolat compote café
+title: Gâteau chocolat compote café sans beurre
 parent: Pâtisserie
 nav_order: 7
 ---
 
-# Gâteau au chocolat sans gluten à la compote et café
+# Gâteau au chocolat sans gluten à la compote et café (sans beurre)
 
-Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompote.md),
+Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompoteSansBeurre.md),
 avec un peu de café soluble pour rehausser le chocolat (effet « moka »). À très
 petite dose, le café n'est pas perceptible en bouche mais intensifie le cacao ;
 à dose plus marquée, on obtient un vrai goût café-chocolat.
@@ -64,7 +64,7 @@ Gâteau cuit, recette complète (amandes, sucre vanillé), 4 g de café soluble.
 
 L'apport de 4 g de café soluble sur ~ 870 g de pâte (~ 750 g cuits) est
 nutritionnellement négligeable : profil quasi identique à la
-[version sans café](GateauChocolatSansGlutenCompote.md).
+[version sans café](GateauChocolatSansGlutenCompoteSansBeurre.md).
 
 # Notes
 
@@ -75,6 +75,6 @@ nutritionnellement négligeable : profil quasi identique à la
   - 2-3 g : chocolat « approfondi », café imperceptible.
   - 4-5 g : note moka discrète, équilibre chocolat-café.
   - 7-8 g : vrai goût café-chocolat type opéra.
-* Compatible avec la [version protéinée](GateauChocolatSansGlutenCompoteProteine.md) :
+* Compatible avec la [version protéinée](GateauChocolatSansGlutenCompoteProteineSansBeurre.md) :
   ajouter simplement 4 g de café soluble dissous dans la compote, sans autre
   ajustement.

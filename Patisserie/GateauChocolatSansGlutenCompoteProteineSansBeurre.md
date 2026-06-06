@@ -1,12 +1,12 @@
 ---
-title: Gâteau chocolat compote (protéiné)
+title: Gâteau chocolat compote protéiné sans beurre
 parent: Pâtisserie
 nav_order: 6
 ---
 
-# Gâteau au chocolat sans gluten à la compote, version protéinée
+# Gâteau au chocolat sans gluten à la compote, version protéinée (sans beurre)
 
-Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompote.md),
+Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompoteSansBeurre.md),
 avec ~ 12 % de protéines (vs 9,3 % en version de base) grâce à 25 g de whey
 concentrée et au remplacement d'une partie de la farine par du cacao en poudre
 non sucré, qui renforce l'arôme chocolat et apporte aussi des fibres. Reste
@@ -66,7 +66,7 @@ concentrée Décathlon goût neutre.
 
 # Notes
 
-* Comparé à la [version de base](GateauChocolatSansGlutenCompote.md) :
+* Comparé à la [version de base](GateauChocolatSansGlutenCompoteSansBeurre.md) :
   + 2,3 g de protéines / 100 g (9,3 → 11,6 g, soit + 25 %), + 0,4 g de fibres,
   − 1,7 g de glucides, profil énergétique et gras pratiquement inchangé.
 * Pour viser ~ 13 % de protéines : porter la whey à 35 g et la poudre

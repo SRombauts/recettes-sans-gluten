@@ -1,12 +1,12 @@
 ---
-title: Gâteau chocolat banane
+title: Gâteau chocolat banane sans beurre
 parent: Pâtisserie
 nav_order: 8
 ---
 
-# Gâteau au chocolat sans gluten à la banane
+# Gâteau au chocolat sans gluten à la banane (sans beurre)
 
-Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompote.md)
+Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompoteSansBeurre.md)
 où la compote de pommes est remplacée par des bananes mûres écrasées. La
 banane apporte plus de sucrosité et un arôme tropical qui se marie naturellement
 au chocolat noir. Sans beurre ni sucre raffiné ajouté, mie aérée.
@@ -64,7 +64,7 @@ sucre vanillé, cannelle).
 * Sel : 0,44 g
 
 Par rapport à la
-[version compote](GateauChocolatSansGlutenCompote.md) : + 9 kcal,
+[version compote](GateauChocolatSansGlutenCompoteSansBeurre.md) : + 9 kcal,
 + 0,5 g de sucres et + 2,3 g de glucides (la banane apporte plus de
 matière sèche sucrée que la compote sans sucre ajouté), + 0,2 g de
 fibres, + 0,2 g de protéines, profil gras inchangé.
@@ -85,6 +85,6 @@ fibres, + 0,2 g de protéines, profil gras inchangé.
   de pépites de chocolat noir (banane-chocolat type banana bread chocolaté).
 * Variante protéinée : ajouter 25 g de whey neutre et 15 g de cacao non
   sucré en remplacement d'autant de farine, comme dans la
-  [version protéinée de la recette à la compote](GateauChocolatSansGlutenCompoteProteine.md).
+  [version protéinée de la recette à la compote](GateauChocolatSansGlutenCompoteProteineSansBeurre.md).
 * Variante moka : 4 g de café soluble dissous dans la purée de banane
-  avant le chocolat (cf. [version café](GateauChocolatSansGlutenCompoteCafe.md)).
+  avant le chocolat (cf. [version café](GateauChocolatSansGlutenCompoteCafeSansBeurre.md)).

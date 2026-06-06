@@ -1,10 +1,10 @@
 ---
-title: Gâteau à la banane
+title: Gâteau à la banane sans beurre
 parent: Pâtisserie
 nav_order: 2
 ---
 
-# Gâteau à la banane sans gluten
+# Gâteau à la banane sans gluten (sans beurre)
 
 Gâteau moelleux sans sucre raffiné ajouté : les bananes mûres apportent la
 sucrosité, les amandes (poudre + purée) apportent gras doux, fibres et
@@ -91,6 +91,6 @@ léger au plus radical :
   - porter la cannelle à 3-4 g,
   - 50 → 80 g de pépites de chocolat noir.
 * **Variante chocolat-banane** : pour une bascule complète, voir
-  [Gâteau chocolat banane](GateauChocolatSansGlutenBanane.md), qui utilise
+  [Gâteau chocolat banane](GateauChocolatSansGlutenBananeSansBeurre.md), qui utilise
   les bananes comme source de sucrosité dans une base chocolat sans amande
   dominante.

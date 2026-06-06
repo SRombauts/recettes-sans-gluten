@@ -1,10 +1,12 @@
 ---
-title: Brownie compote
+title: Brownie sans beurre
 parent: Pâtisserie
 nav_order: 4
 ---
 
-# Brownie sans gluten à la compote de pommes
+# Brownie sans gluten sans beurre (à la compote de pommes)
+
+*Variante avec beurre : [Brownie classique](BrownieSansGluten.md).*
 
 Variante plus légère du [Brownie sans gluten](BrownieSansGluten.md), sans
 beurre et sans sucre ajouté hors sucre vanillé éventuel. Ici la compote ne

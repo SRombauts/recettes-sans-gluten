@@ -52,7 +52,7 @@ automatiquement à chaque changement d'ingrédients.
 
 ## Quelques recettes en images
 
-[Gâteau au chocolat sans gluten à la compote]({{ '/Patisserie/GateauChocolatSansGlutenCompote' | relative_url }}) — moelleux, sans beurre ni sucre raffiné, parsemé d'amandes concassées :
+[Gâteau au chocolat sans gluten à la compote]({{ '/Patisserie/GateauChocolatSansGlutenCompoteSansBeurre' | relative_url }}) — moelleux, sans beurre ni sucre raffiné, parsemé d'amandes concassées :
 
 ![Gâteau au chocolat sans gluten à la compote, parsemé d'amandes concassées]({{ '/Photos/PXL_20260423_184810552_GateauChocolatCompoteAmandes1.jpg' | relative_url }})
 

@@ -33,7 +33,7 @@ Le déploiement est automatique via GitHub Actions à chaque push sur `main`
 
 ## Quelques recettes en images
 
-[Gâteau au chocolat sans gluten à la compote](Patisserie/GateauChocolatSansGlutenCompote.md) — moelleux, sans beurre ni sucre raffiné, parsemé d'amandes concassées :
+[Gâteau au chocolat sans gluten à la compote](Patisserie/GateauChocolatSansGlutenCompoteSansBeurre.md) — moelleux, sans beurre ni sucre raffiné, parsemé d'amandes concassées :
 
 ![Gâteau au chocolat sans gluten à la compote, mie aérée et amandes concassées](Photos/PXL_20260423_184810552_GateauChocolatCompoteAmandes1.jpg)
 

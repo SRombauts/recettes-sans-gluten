@@ -17,21 +17,21 @@ protéines visé pour un indice glycémique modéré.
 
 - [Mix farines pour pâtisserie](MixFarinesPatisserieSansGluten.md) — base
   commune avec gomme xanthane.
-- [Gâteau à la banane](GateauALaBannane.md) — sans sucre raffiné, sucrosité
-  des bananes mûres, ~ 7,8 g de protéines / 100 g.
+- [Gâteau à la banane sans beurre](GateauALaBannaneSansBeurre.md) — sans sucre
+  raffiné, sucrosité des bananes mûres, ~ 7,8 g de protéines / 100 g.
 - [Brownie classique](BrownieSansGluten.md) — beurre + chocolat noir + noix.
-- [Brownie compote](BrownieSansGlutenCompote.md) — variante plus légère,
+- [Brownie sans beurre](BrownieSansGlutenSansBeurre.md) — variante plus légère,
   sans beurre ni sucre ajouté.
-- [Gâteau chocolat compote](GateauChocolatSansGlutenCompote.md) — mie aérée
-  aux blancs en neige, sans beurre, ~ 9,3 g de protéines / 100 g.
-- [Gâteau chocolat compote, version protéinée](GateauChocolatSansGlutenCompoteProteine.md)
+- [Gâteau chocolat compote sans beurre](GateauChocolatSansGlutenCompoteSansBeurre.md)
+  — mie aérée, sans beurre, ~ 9,3 g de protéines / 100 g.
+- [Gâteau chocolat compote, version protéinée sans beurre](GateauChocolatSansGlutenCompoteProteineSansBeurre.md)
   — variante avec whey concentrée et cacao non sucré, ~ 11,6 g de protéines
   / 100 g.
-- [Gâteau chocolat compote café](GateauChocolatSansGlutenCompoteCafe.md) —
-  variante avec café soluble dissous dans la compote pour rehausser le chocolat.
-- [Gâteau chocolat banane](GateauChocolatSansGlutenBanane.md) — variante
-  avec bananes mûres écrasées à la place de la compote, plus sucrée et
-  fruitée, ~ 9,5 g de protéines / 100 g.
+- [Gâteau chocolat compote café sans beurre](GateauChocolatSansGlutenCompoteCafeSansBeurre.md)
+  — variante avec café soluble dissous dans la compote pour rehausser le chocolat.
+- [Gâteau chocolat banane sans beurre](GateauChocolatSansGlutenBananeSansBeurre.md)
+  — variante avec bananes mûres écrasées à la place de la compote, plus sucrée
+  et fruitée, ~ 9,5 g de protéines / 100 g.
 - [Tarte rhubarbe Skyr compote](TarteRhubarbeSkyrCompote.md) — garniture sans
   sucre raffiné (compote de pomme) et au Skyr à la place de la crème fraîche,
   ~ 3,4 g de protéines / 100 g, ~ 4,6 g de sucres / 100 g.
