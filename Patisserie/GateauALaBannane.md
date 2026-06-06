@@ -15,7 +15,7 @@ chimique et les œufs entiers, parfumée à la cannelle et parsemée de pépites
 chocolat.
 
 * 4 bananes mûres écrasées (~ 440 g de chair) + 1 banane optionnelle coupée en deux pour la déco
-* 150 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
+* 150 g [mélange de farines patisserie](MixFarinesPatisserie.md)
 *  80 g d'amandes en poudre
 *  90 g de beurre fondu
 *  60 mL de lait
@@ -77,4 +77,4 @@ moins de saturés, préférer la version sans beurre.
 * Pour atténuer le goût d'amande, renforcer la vanille, le rhum brun ou les
   pépites de chocolat : voir les pistes détaillées dans la
   [version sans beurre](GateauALaBannaneSansBeurre.md).
-* Variante chocolat-banane : voir [Gâteau chocolat banane](GateauChocolatSansGlutenBanane.md).
+* Variante chocolat-banane : voir [Gâteau chocolat banane](GateauChocolatBanane.md).

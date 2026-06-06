@@ -99,7 +99,7 @@ ou réorganisation, dans chaque section touchée :
 ### Liens internes et `baseurl`
 
 * Entre recettes : chemin Markdown relatif,
-  ex. `[Mix farines](MixFarinesPatisserieSansGluten.md)`.
+  ex. `[Mix farines](MixFarinesPatisserie.md)`.
 * Depuis l'`index.md` racine (page « home » Jekyll) et pour **toutes** les
   images : `{{ '/chemin' | relative_url }}` pour respecter le `baseurl`
   GitHub Pages.

@@ -16,7 +16,7 @@ et les œufs entiers, parfumée à la cannelle et parsemée de pépites de choco
 ![Gâteau à la banane sans gluten en moule à cake, banane fendue sur le dessus avant cuisson](../Photos/PXL_20260512_192826674_GateauBananeCru.jpg)
 
 * 4 bananes mûres écrasées (~ 440 g de chair) + 1 banane optionnelle coupée en deux pour la déco
-* 150 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
+* 150 g [mélange de farines patisserie](MixFarinesPatisserie.md)
 *  80 g d'amandes en poudre
 *  80 g de purée d'amandes
 *  90 mL de lait
@@ -84,7 +84,7 @@ léger au plus radical :
   et augmente les protéines, goût lacté discret qui s'efface derrière la
   banane.
 * **Réduire la poudre d'amande à 40 g**, compensée par 40 g de
-  [mélange farines patisserie](MixFarinesPatisserieSansGluten.md)
+  [mélange farines patisserie](MixFarinesPatisserie.md)
   supplémentaire (texture un peu moins riche mais plus de banane).
 * **Renforcer les arômes concurrents** plutôt qu'enlever l'amande :
   - 1 c. à c. d'extrait de vanille (ou 2 sachets de sucre vanillé en
@@ -93,6 +93,6 @@ léger au plus radical :
   - porter la cannelle à 3-4 g,
   - 50 → 80 g de pépites de chocolat noir.
 * **Variante chocolat-banane** : pour une bascule complète, voir
-  [Gâteau chocolat banane](GateauChocolatSansGlutenBananeSansBeurre.md), qui utilise
+  [Gâteau chocolat banane](GateauChocolatBananeSansBeurre.md), qui utilise
   les bananes comme source de sucrosité dans une base chocolat sans amande
   dominante.

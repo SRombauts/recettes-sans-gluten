@@ -11,18 +11,18 @@ permalink: /Pain/
 ![Pain au levain sans gluten cuit à la cocotte, croûte scarifiée]({{ '/Photos/PXL_20260328_083811648_PainCuit.jpg' | relative_url }})
 
 Pains sans gluten cuits en cocotte fonte. Toutes les recettes partagent le
-même [mélange de farines pour pain](MixFarinesPainSansGluten.md) à base de
+même [mélange de farines pour pain](MixFarinesPain.md) à base de
 riz demi-complet, sorgho, millet, sarrasin et fécules de tapioca et maïs.
 
 ## Recettes disponibles
 
-- [Mix farines et fécules pour pain](MixFarinesPainSansGluten.md) — base
+- [Mix farines et fécules pour pain](MixFarinesPain.md) — base
   commune des pains, ~ 357 kcal et 6,5 g de protéines / 100 g.
-- [Pain au levain (~1,0 kg)](RecettePainLevainSansGluten.md) — recette
+- [Pain au levain (~1,0 kg)](RecettePainLevain.md) — recette
   principale, hydratation 92 %, ~ 10 h.
-- [Pain au levain (~1,2 kg)](RecettePainLevainSansGluten1200g.md) —
+- [Pain au levain (~1,2 kg)](RecettePainLevain1200g.md) —
   proportions augmentées pour un gros pain.
-- [Pain à la levure (~0,85 kg)](RecettePainLevureSansGluten.md) — version
+- [Pain à la levure (~0,85 kg)](RecettePainLevure.md) — version
   plus rapide (~ 4 h) à la levure boulangère.
 
 Voir aussi la section [Levain]({{ '/Levain/' | relative_url }}) pour

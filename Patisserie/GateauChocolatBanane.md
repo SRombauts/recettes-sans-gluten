@@ -1,14 +1,14 @@
 ---
 title: Gâteau chocolat banane
 parent: Pâtisserie
-nav_order: 12
+nav_order: 10
 ---
 
 # Gâteau au chocolat sans gluten à la banane (avec beurre)
 
-*Variante sans beurre : [Gâteau chocolat banane sans beurre](GateauChocolatSansGlutenBananeSansBeurre.md).*
+*Variante sans beurre : [Gâteau chocolat banane sans beurre](GateauChocolatBananeSansBeurre.md).*
 
-Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatSansGlutenCompote.md)
+Variante de [Gâteau au chocolat sans gluten à la compote](GateauChocolatCompote.md)
 (avec beurre) où la compote est remplacée par des bananes mûres écrasées. La
 banane apporte sucrosité et un arôme qui se marie naturellement au chocolat noir,
 le beurre apporte le fondant gourmand. Sans sucre raffiné ajouté.
@@ -16,7 +16,7 @@ le beurre apporte le fondant gourmand. Sans sucre raffiné ajouté.
 * 205 g chocolat noir corsé pâtissier Nestlé dessert 65% cacao
 * 130 g beurre
 *  80 g bananes mûres écrasées (~ 1 banane moyenne, peau bien tachetée)
-* 140 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
+* 140 g [mélange de farines patisserie](MixFarinesPatisserie.md)
 *   4 oeufs
 *   1/2 sachet levure chimique
 *   1 sachet sucre vanillé (optionnel, renforce le couple banane-vanille)
@@ -65,7 +65,7 @@ sucre vanillé, cannelle).
 * Protéines : 9,4 g
 * Sel : 0,44 g
 
-Par rapport à la [version sans beurre](GateauChocolatSansGlutenBananeSansBeurre.md) :
+Par rapport à la [version sans beurre](GateauChocolatBananeSansBeurre.md) :
 + 102 kcal et + 8,4 g de saturés (le beurre). Pour un profil plus santé,
 préférer la version sans beurre.
 
@@ -76,7 +76,7 @@ préférer la version sans beurre.
 * Pour pousser le côté gourmand : remplacer les amandes concassées par 80 g de
   pépites de chocolat noir.
 * Variante moka : 4 g de café soluble dissous dans la purée de banane avant le
-  chocolat (cf. [version café](GateauChocolatSansGlutenCompoteCafe.md)).
+  chocolat (cf. [version café](GateauChocolatCompoteCafeSansBeurre.md)).
 * Variante protéinée : ajouter 25 g de whey neutre et 15 g de cacao non sucré en
   remplacement d'autant de farine, comme dans la
-  [version protéinée à la compote](GateauChocolatSansGlutenCompoteProteine.md).
+  [version protéinée à la compote](GateauChocolatCompoteProteineSansBeurre.md).

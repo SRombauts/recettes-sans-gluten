@@ -6,7 +6,7 @@ nav_order: 6
 
 # Gâteau au chocolat sans gluten à la compote de pommes (avec beurre)
 
-*Variante sans beurre : [Gâteau chocolat compote sans beurre](GateauChocolatSansGlutenCompoteSansBeurre.md).*
+*Variante sans beurre : [Gâteau chocolat compote sans beurre](GateauChocolatCompoteSansBeurre.md).*
 
 Version gourmande, pour les enfants : le beurre fondu avec le chocolat donne un
 moelleux/fondant plus riche. Toujours **sans sucre raffiné ajouté** (hors sucre
@@ -16,7 +16,7 @@ d'humidité.
 * 205 g chocolat noir corsé pâtissier Nestlé dessert 65% cacao
 * 130 g beurre
 *  70 g compote de pommes sans sucre ajouté
-* 140 g [mélange de farines patisserie](MixFarinesPatisserieSansGluten.md)
+* 140 g [mélange de farines patisserie](MixFarinesPatisserie.md)
 *   4 oeufs
 *   1/2 sachet levure chimique
 *   1 sachet sucre vanillé (optionnel, complète le chocolat et donne un petit coup de pouce sucré)
@@ -58,7 +58,7 @@ Gâteau cuit, recette complète (amandes, sucre vanillé, cannelle).
 * Protéines : 9,4 g
 * Sel : 0,44 g
 
-Par rapport à la [version sans beurre](GateauChocolatSansGlutenCompoteSansBeurre.md) :
+Par rapport à la [version sans beurre](GateauChocolatCompoteSansBeurre.md) :
 + 113 kcal et + 8,6 g d'acides gras saturés (130 g de beurre remplacent le gros
 de la compote). C'est un vrai fondant gourmand ; pour un profil plus santé,
 préférer la version sans beurre.
@@ -68,6 +68,6 @@ préférer la version sans beurre.
 * Le beurre prend le rôle de matière grasse principale : inutile de chercher à
   dessécher, surveiller plutôt la cuisson pour garder le fondant.
 * Levure chimique nécessaire sans blancs en neige pour aérer la pâte.
-* Variantes : [café](GateauChocolatSansGlutenCompoteCafe.md),
-  [banane](GateauChocolatSansGlutenBanane.md),
-  [protéinée](GateauChocolatSansGlutenCompoteProteine.md).
+* Variantes : [café](GateauChocolatCompoteCafeSansBeurre.md),
+  [banane](GateauChocolatBanane.md),
+  [protéinée](GateauChocolatCompoteProteineSansBeurre.md).
