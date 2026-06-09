@@ -4,7 +4,9 @@ parent: Pâtisserie
 nav_order: 13
 ---
 
-# Clafoutis aux cerises sans gluten
+# Clafoutis aux cerises sans gluten (avec beurre)
+
+*Variante sans beurre : [Clafoutis aux cerises sans beurre](ClafoutisCerisesSansBeurre.md).*
 
 Version traditionnelle, avec quelques ajustements légers conformes aux objectifs du projet :
 
@@ -92,11 +94,9 @@ Classées selon les objectifs du projet.
 
 ### Limiter les graisses saturées
 
-* **Variante sans beurre** : un clafoutis se passe très bien de beurre. Le
-  remplacer par 30-40 g de **purée d'amandes** (gras insaturés + protéines +
-  goût) ou simplement l'omettre (le clafoutis reste moelleux grâce aux œufs
-  et au lait). Ce serait la version « sans beurre » du projet — à créer si
-  la version avec beurre est validée.
+* **Variante sans beurre** déjà disponible :
+  [Clafoutis aux cerises sans beurre](ClafoutisCerisesSansBeurre.md) — purée
+  d'amande à la place du beurre et moitié skyr (AGS ÷ ~ 3, protéines + 38 %).
 * **Lait écrémé** à la place du demi-écrémé déjà retenu : grappille encore un
   peu d'AGS, au prix d'une pâte un rien moins riche.
 
