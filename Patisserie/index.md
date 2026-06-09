@@ -20,9 +20,9 @@ ajouté.
 
 - [Mix farines pour pâtisserie](MixFarinesPatisserie.md) — base
   commune avec gomme xanthane.
-- [Gâteau à la banane](GateauALaBannane.md) — avec beurre, gourmand,
+- [Gâteau à la banane](GateauBanane.md) — avec beurre, gourmand,
   ~ 6,1 g de protéines / 100 g.
-- [Gâteau à la banane sans beurre](GateauALaBannaneSansBeurre.md) — purée
+- [Gâteau à la banane sans beurre](GateauBananeSansBeurre.md) — purée
   d'amandes, ~ 7,8 g de protéines / 100 g.
 - [Brownie classique](Brownie.md) — avec beurre, chocolat noir + noix.
 - [Brownie sans beurre](BrownieSansBeurre.md) — variante plus légère,

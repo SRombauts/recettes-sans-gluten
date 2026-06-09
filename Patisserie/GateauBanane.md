@@ -6,7 +6,7 @@ nav_order: 2
 
 # Gâteau à la banane sans gluten (avec beurre)
 
-*Variante sans beurre : [Gâteau à la banane sans beurre](GateauALaBannaneSansBeurre.md).*
+*Variante sans beurre : [Gâteau à la banane sans beurre](GateauBananeSansBeurre.md).*
 
 Version gourmande, pour les enfants : le beurre remplace la purée d'amandes et
 apporte un moelleux plus classique de cake. Toujours **sans sucre raffiné
@@ -64,7 +64,7 @@ non comptée).
 * Protéines : 6,1 g
 * Sel : 0,42 g
 
-Par rapport à la [version sans beurre](GateauALaBannaneSansBeurre.md) : + 22 kcal,
+Par rapport à la [version sans beurre](GateauBananeSansBeurre.md) : + 22 kcal,
 + 4,9 g d'acides gras saturés (le beurre à la place de la purée d'amandes), et
 − 1,7 g de protéines / − 0,8 g de fibres (perte des amandes). Le beurre rend la
 texture plus gourmande au prix du profil santé : pour viser plus de protéines et
@@ -76,5 +76,5 @@ moins de saturés, préférer la version sans beurre.
   faciles à écraser, elles évitent d'ajouter du sucre.
 * Pour atténuer le goût d'amande, renforcer la vanille, le rhum brun ou les
   pépites de chocolat : voir les pistes détaillées dans la
-  [version sans beurre](GateauALaBannaneSansBeurre.md).
+  [version sans beurre](GateauBananeSansBeurre.md).
 * Variante chocolat-banane : voir [Gâteau chocolat banane](GateauChocolatBanane.md).
