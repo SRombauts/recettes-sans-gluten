@@ -42,6 +42,8 @@ ajouté.
 - [Tarte rhubarbe Skyr compote](TarteRhubarbeSkyrCompote.md) — garniture sans
   sucre raffiné (compote de pomme) et au Skyr à la place de la crème fraîche,
   ~ 3,4 g de protéines / 100 g, ~ 4,6 g de sucres / 100 g.
+- [Clafoutis aux cerises](ClafoutisCerises.md) — adaptation sans gluten du
+  clafoutis traditionnel, ~ 4,1 g de protéines / 100 g.
 - [Crêpes sans gluten](Crepes.md) — pâte au lait et au mélange
   farines pâtisserie, reposée au froid, ~ 5,7 g de protéines / 100 g.
 - [Gaufres sans gluten](Gaufres.md) — pâte levée aux blancs en
