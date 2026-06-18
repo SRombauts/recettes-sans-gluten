@@ -10,13 +10,14 @@ permalink: /PateATartiner/
 
 Pâtes à tartiner maison à base de chocolat et de purée d'oléagineux
 (noisettes ou amandes), à teneur réduite en sucre par rapport aux versions
-industrielles.
+industrielles. Toutes sont sans lait frais (anhydres), donc se conservent à
+température ambiante.
 
 ## Recettes disponibles
 
 - [Pâte à tartiner chocolat noir et noisette](PateATartinerChocolatNoirNoisette.md)
-  — riche en cacao (~ 28 %), purée de noisettes.
+  — riche en cacao (~ 27 %), purée de noisettes, sans whey.
 - [Pâte à tartiner chocolat au lait et noisette](PateATartinerChocolatLaitNoisette.md)
-  — version au lait, plus douce.
+  — « au lait » via whey, enrichie en protéines.
 - [Pâte à tartiner chocolat au lait et amande](PateATartinerChocolatLaitAmande.md)
-  — version amande, plus économique que la noisette.
+  — « au lait » via whey, la plus riche en protéines et la plus économique.

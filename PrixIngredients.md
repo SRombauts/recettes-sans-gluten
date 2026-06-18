@@ -34,10 +34,11 @@ permalink: /PrixIngredients
 * Purée de noisettes Senfas 26€/700g = 37,27€/kg
 * Purée d'amandes complètes Senfas 19,64€/700g = 28,07€/kg
 
-* Chocolat lait pâtissier Nestlé dessert 39% 3,23€/170g = 19,53€/kg
 * Chocolat noir pâtissier Nestlé dessert 52% 14,37€/kg en lot de 2
-* Chocolat noir corsé pâtissier Nestlé dessert 65% 3,41€/205g = 17,05€/kg
+* Chocolat noir corsé pâtissier Nestlé dessert 65% 3,41€/200g = 17,05€/kg
 
 * Lait demi écrémé 1,27€/L
 
 * Whey protéine concentrée goût neutre Décathlon 29€/900g = 32,22€/kg
+
+* Sucre vanillé 1,65€/5 sachets de 7,5g (37,5g) = 44,0€/kg
