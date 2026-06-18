@@ -16,7 +16,7 @@ température ambiante.
 ## Recettes disponibles
 
 - [Pâte à tartiner chocolat noir et noisette](PateATartinerChocolatNoirNoisette.md)
-  — riche en cacao (~ 27 %), purée de noisettes, sans whey.
+  — la plus cacaotée (~ 31 %), sans whey ni sucre ajouté.
 - [Pâte à tartiner chocolat au lait et noisette](PateATartinerChocolatLaitNoisette.md)
   — « au lait » via whey, enrichie en protéines.
 - [Pâte à tartiner chocolat au lait et amande](PateATartinerChocolatLaitAmande.md)
