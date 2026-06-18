@@ -21,26 +21,29 @@ identique.
 ## Ingrédients (pour 8 personnes)
 
 * 600 g de cerises dénoyautées (soit ~ 650 g de cerises entières)
-*  40 g de purée d'amande (à la place du beurre)
+*  10 g de beurre pour le moule
 * 100 g [mélange de farines pâtisserie](MixFarinesPatisserie.md)
+*  40 g de sucre en poudre
+*   1 sachet de sucre vanillé (~ 7,5 g)
+*   1 g de sel
 *   4 œufs
 * 100 mL de lait demi-écrémé
 * 100 g de skyr nature
-*  40 g de sucre en poudre
-*   1 sachet de sucre vanillé (~ 7,5 g)
-*   1 pincée de sel
-*   Un peu d'huile neutre (ou de purée d'amande) pour le moule
+*  40 g de purée d'amande (à la place du beurre)
 
 ## Préparation
 
-1. Préchauffer le four à **180°C** (pas de coup de chaud à 210°C ici : le
-   skyr, acide, risquerait de trancher). Laver les cerises, les équeuter, les
+1. Préchauffer le four à **180°C** (pas de coup de chaud à 210°C ici : le skyr,
+   acide, risquerait de trancher).
+2. Laver rapidement les cerises sous un filet d'eau fraîche, les équeuter, les
    dénoyauter et bien les égoutter.
-2. Mélanger dans un grand bol la farine, le sucre, le sucre vanillé et le sel.
-3. Fouetter les œufs, puis ajouter le lait, le skyr et la purée d'amande.
-   Bien lisser (la purée d'amande se délaye plus facilement avec un peu de
-   liquide d'abord). Incorporer les secs progressivement, sans grumeaux.
-4. Huiler le plat, y ranger les cerises, puis verser la pâte par-dessus.
+3. Beurrer le plat et y ranger les cerises.
+4. Mélanger dans un grand bol la farine, le sucre, le sucre vanillé et le sel.
+5. Fouetter les œufs avec le lait, le skyr et la purée d'amande jusqu'à obtenir
+   un mélange lisse (la purée d'amande se délaye plus facilement dans les
+   liquides).
+6. Incorporer le mélange sec progressivement, sans grumeaux.
+7. Verser l'appareil sur les cerises.
 
 ## Cuisson
 
@@ -53,7 +56,7 @@ identique.
 ## Analyse nutritionnelle pour 100 g
 
 Clafoutis cuit, recette telle qu'écrite (purée d'amande, moitié lait
-demi-écrémé / moitié skyr, sucre 40 g ; huile du moule non comptée).
+demi-écrémé / moitié skyr, sucre 40 g ; beurre du moule non compté).
 Hypothèse : ~ 10 % d'eau évaporée à la cuisson (masse cuite estimée
 ~ 1070 g).
 

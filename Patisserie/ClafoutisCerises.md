@@ -24,28 +24,27 @@ bas, en [Notes](#notes--pistes-damélioration).
 ## Ingrédients (pour 8 personnes)
 
 * 600 g de cerises dénoyautées (soit ~ 650 g de cerises entières)
-*  40 g de beurre demi-sel + 10 g pour le moule
+*  10 g de beurre pour le moule
 * 100 g [mélange de farines pâtisserie](MixFarinesPatisserie.md)
-   (à la place de la farine de blé)
-*   4 œufs
-* 200 mL de lait demi-écrémé
 *  40 g de sucre en poudre
 *   1 sachet de sucre vanillé (~ 7,5 g)
-*   1 pincée de sel
+*   1 g de sel
+*   4 œufs
+* 200 mL de lait demi-écrémé
+*  40 g de beurre demi-sel
 
 ## Préparation
 
-1. Préchauffer le four à 210°C. Laver rapidement les cerises sous un filet
-   d'eau fraîche, les équeuter, les dénoyauter et les égoutter (dénoyautées,
-   elles rendent un peu plus de jus : bien les égoutter).
-2. Faire fondre les 40 g de beurre dans une petite casserole à fond épais,
+1. Préchauffer le four à 210°C.
+2. Laver rapidement les cerises sous un filet d'eau fraîche, les équeuter, les
+   dénoyauter et bien les égoutter.
+3. Beurrer le plat et y ranger les cerises.
+4. Mélanger dans un grand bol la farine, le sucre, le sucre vanillé et le sel.
+5. Faire fondre les 40 g de beurre dans une petite casserole à fond épais, le
    laisser tiédir.
-3. Mélanger dans un grand bol la farine, le sucre, le sucre vanillé et le
-   sel.
-4. Incorporer les œufs un à un, puis le lait petit à petit en fouettant pour
-   éviter les grumeaux. Ajouter le beurre fondu tiédi.
-5. Beurrer le plat (les 10 g restants), y ranger les cerises, puis verser la
-   pâte par-dessus.
+6. Incorporer les œufs un à un au mélange sec, puis le lait petit à petit en
+   fouettant pour éviter les grumeaux, enfin le beurre fondu tiédi.
+7. Verser l'appareil sur les cerises.
 
 ## Cuisson
 
