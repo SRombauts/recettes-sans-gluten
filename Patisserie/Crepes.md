@@ -21,19 +21,17 @@ assouplit la pâte et facilite l'étalement à la poêle.
 
 1. Verser le lait dans un saladier ou un bol de mixeur.
 2. Ajouter les œufs, fouetter pour homogénéiser.
-3. Incorporer le mélange de farines et le sel, mélanger jusqu'à disparition
+3. Ajouter l'huile d'olive puis le beurre fondu tiédi, mélanger à nouveau.
+4. Incorporer le mélange de farines et le sel, mélanger jusqu'à disparition
    des grumeaux.
-4. Ajouter l'huile d'olive puis le beurre fondu tiédi, mélanger à nouveau.
 5. Couvrir et laisser reposer au moins 2 h au réfrigérateur avant de cuire.
 
 # Cuisson
 
-* Poêle chaude, légèrement huilée si besoin (la pâte contient déjà un peu de
-  matière grasse).
+* Poêle chaude, légèrement huilée pour démarrer: ensuite, la pâte contient déjà un peu de
+  matières grasses.
 * Verser une louche fine, étaler en mouvement circulaire, cuire 1 à 2 min par
   face jusqu'à coloration légère.
-* Empiler les crêpes au fur et à mesure ; les réchauffer à la poêle ou au
-  four si elles ont refroidi.
 
 # Analyse nutritionnelle pour 100 g
 
@@ -56,6 +54,11 @@ quantité indiquée.
   les farines peuvent se déposer.
 * Pour des crêpes plus fines, diluer avec 50 à 100 mL de lait supplémentaire
   après le repos.
+
+* Ajout optionnel de 8 g de sucre de canne complet, une dosee assez faible
+  pour rester **neutre**, donc utilisable aussi pour les crêpes salées.
+  Il sert de **rehausteur de goût** et donne une **couleur dorée / caramel**
+  à la cuisson (Maillard + caramélisation).
 * Pour une version plus protéinée : remplacer 50 à 100 g de farine par de la
   whey neutre et compenser en liquide si la pâte épaissit, voir
   [Notes/AugmenterTauxProteines](../Notes/AugmenterTauxProteines.md).
