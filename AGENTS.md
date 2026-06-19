@@ -6,7 +6,7 @@ Ce projet contient des mélanges de farines et des recettes de boulangerie et de
 
 ## Objectifs
 
-Par orde de priorité décroissante
+Par ordre de priorité décroissante :
 
 * goût agréable, doux mais riche, subtil
 * texture, consistance, légèreté, aération
@@ -28,16 +28,27 @@ Pour les pâtisseries, proposer quand c'est pertinent deux variantes :
 
 Les deux restent sans sucre raffiné ajouté. Chaque fiche renvoie vers sa variante.
 
-## Analyse nutritionelle pour 100g
+## Analyse nutritionnelle pour 100g
 
-Chaque recette doit être accompagnée d'une analyse nutritionelle, à mettre à jour lors de changements d'ingrédients.
+Chaque recette doit être accompagnée d'une analyse nutritionnelle, à mettre à jour lors de changements d'ingrédients.
 
 ## Workflow
 
-N'hesite pas à éditer directement les fichiers, en créer de nouveaux.
+N'hésite pas à éditer directement les fichiers, en créer de nouveaux.
 Corrige systématiquement sans demander les erreurs évidentes, les erreurs de calcul et oublis de mise à jour.
-Met à jour les analyse nutritionnelles automatiquement.
+Mets à jour les analyses nutritionnelles automatiquement.
 Effectue systématiquement le commit à ma place immédiatement, en gardant un message court.
+
+Skills à charger (`.claude/skills/`) :
+
+* [`agent-response-style`](.claude/skills/agent-response-style/SKILL.md) — ton et
+  posture critique calibrée, en début de toute tâche.
+* [`fiche-recette`](.claude/skills/fiche-recette/SKILL.md) — pour rédiger ou
+  réviser une fiche : structure du corps, section « Notes » par objectif, calcul
+  de l'analyse nutritionnelle pour 100 g.
+* [`humanizer`](.claude/skills/humanizer/SKILL.md) — pour relire la prose d'une
+  fiche et retirer les tournures artificielles (tells surtout structurels en
+  français : tirets cadratins, listes en gras, rule-of-three, emojis).
 
 ## Site Jekyll et navigation (`nav_order`)
 

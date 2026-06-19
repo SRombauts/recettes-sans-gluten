@@ -13,9 +13,10 @@ description: >-
 # Rédiger / réviser une fiche recette
 
 Conventions du **corps** d'une fiche (le front matter YAML, `nav_order`, liens
-`relative_url` et photos sont dans `AGENTS.md`, section Jekyll/Photos). Objectifs
-du projet, par priorité : goût → texture → sans sucre raffiné → protéines (IG
-modéré) → moins d'AGS → prix.
+`relative_url` et photos sont dans `AGENTS.md`, section Jekyll/Photos). Les
+objectifs du projet et leur priorité — qui gouvernent tous les arbitrages
+ci-dessous — sont la source unique dans `AGENTS.md`, section « Objectifs » ; s'y
+référer plutôt que de les recopier.
 
 ## Squelette d'une fiche
 
@@ -72,9 +73,9 @@ Chiffrer l'impact quand c'est simple (« ~ +1 g de sucres / 100 g, négligeable 
 
 ## Variantes avec / sans beurre
 
-Deux variantes **quand c'est pertinent** (cf. objectif du projet) : fichier de
-base = avec beurre, suffixe `SansBeurre` = gras issu de purées d'oléagineux,
-compote ou chocolat. Les deux restent sans sucre raffiné.
+Politique des deux variantes (quand les créer, suffixe `SansBeurre`, gras de
+substitution, pas de sucre raffiné) : voir `AGENTS.md`, section « Deux
+variantes ». Côté craft de la fiche :
 
 * Se **renvoient mutuellement** par une ligne en italique sous le titre.
 * L'`index.md` de section liste les deux avec leurs chiffres clés
