@@ -38,12 +38,17 @@ identique.
 2. Laver rapidement les cerises sous un filet d'eau fraîche, les équeuter, les
    dénoyauter et bien les égoutter.
 3. Beurrer le plat et y ranger les cerises.
+
+![Cerises dénoyautées rangées dans le plat beurré, avant l'appareil](../Photos/PXL_20260618_184420839_ClafoutisCerises_1_Cerises.jpg)
+
 4. Mélanger dans un grand bol la farine, le sucre, le sucre vanillé et le sel.
 5. Fouetter les œufs avec le lait, le skyr et la purée d'amande jusqu'à obtenir
    un mélange lisse (la purée d'amande se délaye plus facilement dans les
    liquides).
 6. Incorporer le mélange sec progressivement, sans grumeaux.
 7. Verser l'appareil sur les cerises.
+
+![Appareil à clafoutis (œufs, lait, skyr, purée d'amande) versé sur les cerises avant cuisson](../Photos/PXL_20260618_204608585_ClafoutisCerises_2_Appareil.jpg)
 
 ## Cuisson
 
@@ -52,6 +57,8 @@ identique.
   doré ; le centre tremble à peine en fin de cuisson.
 * Laisser tiédir : la texture flan se raffermit en refroidissant. Servir
   tiède de préférence.
+
+![Clafoutis aux cerises sans beurre cuit, surface dorée et prise](../Photos/PXL_20260619_051157929_ClafoutisCerises_3_Cuit.jpg)
 
 ## Analyse nutritionnelle pour 100 g
 
