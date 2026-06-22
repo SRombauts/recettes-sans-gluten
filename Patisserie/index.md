@@ -48,8 +48,8 @@ ajouté.
   d'amande + moitié skyr, ~ 5,8 g de protéines / 100 g, AGS ÷ ~ 3.
 - [Crêpes sans gluten](Crepes.md) — pâte au lait et au mélange
   farines pâtisserie, reposée au froid, ~ 5,7 g de protéines / 100 g.
-- [Gaufres sans gluten](Gaufres.md) — pâte levée aux blancs en
-  neige, croustillantes à l'extérieur, ~ 5,8 g de protéines / 100 g.
+- [Gaufres sans gluten](Gaufres.md) — base traditionnelle, pâte levée
+  aux blancs en neige, croustillantes à l'extérieur, ~ 5,3 g de protéines / 100 g.
 
 Voir aussi les sections [Notes]({{ '/Notes/' | relative_url }}) sur
 l'augmentation des fibres et des protéines en pâtisserie.
