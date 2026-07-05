@@ -13,7 +13,7 @@ Levain chef conservé au réfrigérateur
 ## Entretien 1:5:5 une fois par semaine
 
 Bien nourrir le levain pour l'entretien, assez de farine pour qu'il tienne une semaine.
-Laisser reposer <1h à ~28°C le temps que la fermentation démarre avant de le remettre au frigo.
+Laisser reposer 1-2h à ~28°C le temps que la fermentation démarre avant de le remettre au frigo.
 
 ## Rafraîchir 1:2:2 avant utilisation
 
@@ -31,6 +31,21 @@ Laisser reposer 3-4h à ~28°C
 Exemples:
 - 48 g de levain +  96 g d'eau +  96 g de farines
 - 30 g de levain + 105 g d'eau + 105 g de farines
+
+## Rafraîchî 1:8:8 avant de l'abandonner au frigo plusieurs semaines
+
+Bien nourrir le levain, assez de farine pour qu'il tienne plusieurs semaines.
+Laisser reposer 1h à ~28°C avant de le remettre au frigo.
+
+## Deux ou trois relances 1:5:5 si abandonné au frigo plusieurs semaines
+
+Après le retour de vacances, faire plusieurs rafraichî profonds pour bien diluer l'aciditer
+et relancer les levures, espacés de 24h environ.
+
+## Troubleshooting
+
+L'apparition d'un liquide en surface signal la fin de la consommation des dernières ressources,
+le levain est affamé.
 
 ## Analyse nutritionnelle pour 100 g
 
