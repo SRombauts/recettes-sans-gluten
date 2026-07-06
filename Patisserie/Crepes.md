@@ -6,6 +6,9 @@ nav_order: 15
 
 # Crêpes sans gluten
 
+*Variante au levain : [Crêpes au levain sans gluten](CrepesLevain.md), pour
+écouler un levain en excès.*
+
 Pâte fine et souple au [mélange de farines pâtisserie](MixFarinesPatisserie.md),
 laitée et légèrement enrichie en beurre et huile d'olive. Le repos au froid
 assouplit la pâte et facilite l'étalement à la poêle.
