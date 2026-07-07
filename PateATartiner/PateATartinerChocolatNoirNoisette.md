@@ -61,3 +61,19 @@ souplesse, moins pour une pâte plus dense.
 | Sel fin | 1 g | 0,01 € |
 | **Total (~436 g)** | | **10,24 €** |
 | **Prix au kg** | | **23,5 €** |
+
+## Notes
+
+### Variante avec chocolat noir 52 % (Nestlé Dessert « Noir »)
+
+Remplacer la tablette Corsé 65 % par du Nestlé Dessert Noir 52 %, à quantité
+égale, est possible mais modifie sensiblement le profil :
+
+- **Goût** : plus sucré et moins intense ; le cacao tombe de ~30 % à ~24 %. Va
+  un peu à l'encontre de l'objectif « sucre minimal » du projet.
+- **Texture** : le Noir 52 % contient moins de beurre de cacao et fige moins
+  dur que le Corsé. La pâte sera plus souple : redescendre l'huile vers
+  ~40-45 g et réévaluer après cristallisation.
+- **Nutrition (pour 100 g, estimation)** : sucres ~17 → ~22 g (+5), glucides
+  +~4 g, acides gras saturés ~14 → ~13 g (−1), protéines ~10,3 → ~9,7 g,
+  énergie quasi inchangée (~645 kcal).
