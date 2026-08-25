@@ -52,6 +52,9 @@ ajouté.
   levain en excès à la place d'une partie de la farine, ~ 5,5 g de protéines / 100 g.
 - [Gaufres sans gluten](Gaufres.md) — base traditionnelle, pâte levée
   aux blancs en neige, croustillantes à l'extérieur, ~ 5,3 g de protéines / 100 g.
+- [Muffins aux pépites de chocolat](MuffinsPepitesChocolat.md) : recette Marmiton
+  avec beurre, ajustée à 15 muffins et à un paquet de 125 g de pépites,
+  ~ 5,4 g de protéines / 100 g.
 
 Voir aussi les sections [Notes]({{ '/Notes/' | relative_url }}) sur
 l'augmentation des fibres et des protéines en pâtisserie.
