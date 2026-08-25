@@ -36,8 +36,8 @@ automatiquement à chaque changement d'ingrédients.
   chef, mix de farines associé.
 - [Pâtisserie]({{ '/Patisserie/' | relative_url }}) — brownies, gâteaux, crêpes,
   variantes protéinées et mix de farines pour pâtisserie.
-- [Cuisine]({{ '/Cuisine/' | relative_url }}) — plats salés, dont la
-  ratatouille.
+- [Cuisine]({{ '/Cuisine/' | relative_url }}) — plats salés et biscuits
+  apéritifs au levain.
 - [Pâtes à tartiner]({{ '/PateATartiner/' | relative_url }}) — pâtes à
   tartiner chocolat-noisette ou chocolat-amande.
 - [Notes]({{ '/Notes/' | relative_url }}) — fiches transversales sur

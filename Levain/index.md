@@ -21,4 +21,5 @@ semaine et à rafraîchir avant chaque utilisation.
   complètes (riz demi-complet, sarrasin, sorgho, millet).
 
 Voir aussi la section [Pain]({{ '/Pain/' | relative_url }}) qui utilise ce
-levain pour les recettes de pain au levain.
+levain pour les recettes de pain au levain. Pour écouler un excédent, consulter
+les [biscuits apéritifs au levain](../Cuisine/BiscuitsAperitifsLevain.md).

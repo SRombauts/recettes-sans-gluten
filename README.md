@@ -27,7 +27,7 @@ Le déploiement est automatique via GitHub Actions à chaque push sur `main`
 - [Pain](Pain/) — pains au levain et à la levure, mix de farines.
 - [Levain](Levain/) — entretien et rafraîchi du levain chef.
 - [Pâtisserie](Patisserie/) — brownies, gâteaux, variantes protéinées.
-- [Cuisine](Cuisine/) — plats salés, dont la ratatouille.
+- [Cuisine](Cuisine/) — plats salés et biscuits apéritifs au levain.
 - [Pâtes à tartiner](PateATartiner/) — pâtes à tartiner chocolat-noisette ou chocolat-amande.
 - [Notes](Notes/) — fiches transversales (protéines, fibres).
 - [Prix des ingrédients](PrixIngredients.md) — table de référence.
