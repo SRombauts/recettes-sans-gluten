@@ -27,6 +27,7 @@ Le déploiement est automatique via GitHub Actions à chaque push sur `main`
 - [Pain](Pain/) — pains au levain et à la levure, mix de farines.
 - [Levain](Levain/) — entretien et rafraîchi du levain chef.
 - [Pâtisserie](Patisserie/) — brownies, gâteaux, variantes protéinées.
+- [Cuisine](Cuisine/) — plats salés, dont la ratatouille.
 - [Pâtes à tartiner](PateATartiner/) — pâtes à tartiner chocolat-noisette ou chocolat-amande.
 - [Notes](Notes/) — fiches transversales (protéines, fibres).
 - [Prix des ingrédients](PrixIngredients.md) — table de référence.
@@ -47,10 +48,12 @@ Par ordre de priorité décroissante :
 
 1. Goût agréable, doux mais riche, subtil.
 2. Texture, consistance, légèreté, aération.
-3. Augmenter les taux de protéines pour un indice glycémique modéré
+3. Éviter autant que possible le sucre raffiné ajouté et privilégier la
+   sucrosité naturelle des fruits.
+4. Augmenter les taux de protéines pour un indice glycémique modéré
    (prévention du diabète de type 2) et soutenir l'activité physique.
-4. Limiter les graisses saturées (prévention du cholestérol).
-5. Prix contenu.
+5. Limiter les graisses saturées (prévention du cholestérol).
+6. Prix contenu.
 
 ## Développement local du site
 

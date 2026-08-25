@@ -18,10 +18,12 @@ Par ordre de priorité décroissante :
 
 1. **Goût** agréable, doux mais riche, subtil.
 2. **Texture** : consistance, légèreté, aération.
-3. **Protéines** élevées pour un indice glycémique modéré (prévention du diabète
+3. **Sans sucre raffiné ajouté** autant que possible, en privilégiant la
+   sucrosité naturelle des fruits.
+4. **Protéines** élevées pour un indice glycémique modéré (prévention du diabète
    de type 2) et le soutien d'une activité physique régulière.
-4. **Limiter les graisses saturées** (prévention du cholestérol).
-5. **Prix** contenu.
+5. **Limiter les graisses saturées** (prévention du cholestérol).
+6. **Prix** contenu.
 
 Chaque recette comporte une **analyse nutritionnelle pour 100 g** mise à jour
 automatiquement à chaque changement d'ingrédients.
@@ -34,6 +36,8 @@ automatiquement à chaque changement d'ingrédients.
   chef, mix de farines associé.
 - [Pâtisserie]({{ '/Patisserie/' | relative_url }}) — brownies, gâteaux, crêpes,
   variantes protéinées et mix de farines pour pâtisserie.
+- [Cuisine]({{ '/Cuisine/' | relative_url }}) — plats salés, dont la
+  ratatouille.
 - [Pâtes à tartiner]({{ '/PateATartiner/' | relative_url }}) — pâtes à
   tartiner chocolat-noisette ou chocolat-amande.
 - [Notes]({{ '/Notes/' | relative_url }}) — fiches transversales sur
