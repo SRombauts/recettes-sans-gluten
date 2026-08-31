@@ -12,7 +12,7 @@ nav_order: 2
 
 * 450 g d'eau environ, selon les farines utilisées
   (le pâton doit être très souple et assez collant - hydratation 92 %)
-*  70 g de graines (mélanges lin, sésame, pavot, tournesol etc)
+* [70 g de graines (mélanges lin, sésame, pavot, tournesol etc) - optionnel]
 *  14 g psyllium blond
 *   3 g gomme xanthane
 
@@ -22,16 +22,22 @@ nav_order: 2
 * 500 g [mélange farines/fécules pour pain](MixFarinesPain.md)
 *  10 g sel
 
-## Préparation (~10h)
+## Préparation (~ 10 h)
 
-* Rafraichir le levain (40 g / 80 g / 80 g) environ 3-4h à ~28 °C.
-* Faire tremper les graines de lin dans l'eau au moins 2h avant.
-* Mélanger le psyllium et la gomme xanthane avec l’eau, laisser gélifier 5 min.
-* Ajouter le levain et l'huile.
-* Ajouter mélange farines/fécules et sel.
-* Façonner une boule bien lisse.
-* Laisser fermenter (pointage) 4 h à 28 °C, gonflement ~50 %.
-* Fariner, scarifier et enfourner immédiatement dans la cocotte brulante.
+1. Suivre le [cycle de rafraîchi et de renouvellement du
+   chef](../Levain/RecetteLevain.md) :
+   50 g de chef, 105 g d'eau et 105 g de mix donnent 60 g de nouveau chef et
+   200 g pour le pain. Utiliser ces 200 g au voisinage du pic, éventuellement
+   juste avant le maximum.
+2. [Optionel: le cas échéant, faire tremper les graines dans l'eau pendant que le levain fermente.]
+3. Mélanger le psyllium et la gomme xanthane avec l'eau, puis laisser gélifier
+   5 minutes.
+4. Ajouter le levain et l'huile.
+5. Ajouter le mélange de farines et fécules, puis le sel.
+6. Façonner une boule bien lisse.
+7. Laisser fermenter (pointage) 4 h à 28 °C, jusqu'à un gonflement d'environ
+   50 %.
+8. Fariner, scarifier et enfourner immédiatement dans la cocotte brûlante.
 
 ## Cuisson (55 min)
 
