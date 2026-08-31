@@ -8,7 +8,7 @@ nav_order: 3
 
 ![Pain à la levure sans gluten en tranches, prêt pour le petit-déjeuner](../Photos/PXL_20260326_140145076_PainTranches.jpg)
 
-## Ingrédients (pâte crue 1078 g)
+## Ingrédients (pâte crue 1093 g)
 
 * 475 g d'eau environ, selon les farines utilisées (le pâton doit être très souple et assez collant)
 * 60 g de graines (mélanges lin, sésame, pavot, tournesol etc)
@@ -45,10 +45,10 @@ Refroidir 4 h sur grille avant de couper.
 Pain cuit (~ 1093 g cru → ~ 850 g cuit, ~ 22 % d'évaporation).
 
 * Énergie : 271 kcal
-* Matières grasses : 6,0 g
+* Matières grasses : 5,8 g
   * dont acides gras saturés : 0,8 g
-* Glucides : 48,4 g
+* Glucides : 49,5 g
   * dont sucres : 2,8 g
-* Fibres : 5,2 g
-* Protéines : 5,4 g
+* Fibres : 5,0 g
+* Protéines : 4,9 g
 * Sel : 0,95 g

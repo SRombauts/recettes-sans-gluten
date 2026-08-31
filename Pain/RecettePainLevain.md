@@ -52,10 +52,10 @@ Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 Pain cuit (~ 1259 g cru → ~ 979 g cuit, ~ 22 % d'évaporation).
 
 * Énergie : 271 kcal
-* Matières grasses : 6,2 g
+* Matières grasses : 6,0 g
   * dont acides gras saturés : 0,8 g
-* Glucides : 47,8 g
+* Glucides : 48,8 g
   * dont sucres : 0,9 g
-* Fibres : 5,4 g
-* Protéines : 5,7 g
+* Fibres : 5,2 g
+* Protéines : 5,2 g
 * Sel : 1,0 g
