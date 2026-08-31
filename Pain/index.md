@@ -20,8 +20,6 @@ riz demi-complet, sorgho, millet, sarrasin et fécules de tapioca et maïs.
   commune des pains, ~ 357 kcal et 6,5 g de protéines / 100 g.
 - [Pain au levain (~1,0 kg)](RecettePainLevain.md) — recette
   principale, hydratation 92 %, ~ 10 h.
-- [Pain au levain (~1,2 kg)](RecettePainLevain1200g.md) —
-  proportions augmentées pour un gros pain.
 - [Pain à la levure (~0,85 kg)](RecettePainLevure.md) — version
   plus rapide (~ 4 h) à la levure boulangère.
 
