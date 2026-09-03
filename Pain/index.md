@@ -19,7 +19,7 @@ riz demi-complet, sorgho, millet, sarrasin et fécules de tapioca et maïs.
 - [Mix farines et fécules pour pain](MixFarinesPain.md) — base
   commune des pains, ~ 357 kcal et 5,6 g de protéines / 100 g.
 - [Pain au levain (~1,0 kg)](RecettePainLevain.md) — recette
-  principale, hydratation 92 %, ~ 10 h.
+  principale, hydratation 92 % sans graines, ~ 10 h.
 - [Pain à la levure (~0,85 kg)](RecettePainLevure.md) — version
   plus rapide (~ 4 h) à la levure boulangère.
 
