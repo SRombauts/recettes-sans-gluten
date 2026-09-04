@@ -56,11 +56,13 @@ sont pas comptées comme de la farine.
 9. Transférer délicatement le pâton sans le refaçonner, fariner, scarifier
    et enfourner immédiatement dans la cocotte brûlante.
 
-## Cuisson (55 min)
+## Cuisson (65 min)
 
 * Four et cocotte préchauffés pendant 40 à 45 minutes pour atteindre 240 °C
 * Cuire 35 min couvercle fermé à 240 °C
 * Poursuivre 20 min couvercle ouvert à 210 °C
+* Sortir le pain de la cocotte et prolonger 10 min directement sur la grille
+  du four à 190 à 200 °C pour mieux sécher la mie sans trop colorer la croûte
 
 Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 
@@ -68,7 +70,8 @@ Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 
 Estimation sans les graines optionnelles ni la farine de fleurage :
 1192 g crus, environ 930 g cuits avec une perte de masse supposée de 22 %.
-La masse cuite reste à mesurer, notamment avec le nouveau dosage de psyllium.
+La masse cuite reste à mesurer, notamment avec le nouveau dosage de psyllium
+et les 10 minutes de finition hors de la cocotte.
 Avec 70 g de graines et 480 g d'eau ajoutée, la pâte pèse 1292 g et donnerait
 environ 1008 g de pain à perte de masse identique ; les valeurs ci-dessous
 ne s'appliquent pas à cette variante.
