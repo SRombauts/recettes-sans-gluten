@@ -54,13 +54,13 @@ avec le café. La pomme reste présente mais en arrière-plan.
 Gâteau cuit, recette complète (amandes, sucre vanillé), 4 g de café soluble.
 
 * Énergie : 328 kcal
-* Matières grasses : 20,0 g
-  * dont acides gras saturés : 7,6 g
-* Glucides : 26,4 g
-  * dont sucres : 11,8 g
-* Fibres : 5,5 g
-* Protéines : 9,3 g
-* Sel : 0,44 g
+* Matières grasses : **20,0** g
+  * dont acides gras saturés : **7,6** g
+* Glucides : **26,4** g
+  * dont sucres : **11,8** g
+* Fibres : **5,5** g
+* Protéines : **9,3** g
+* Sel : **0,44** g
 
 L'apport de 4 g de café soluble sur ~ 870 g de pâte (~ 750 g cuits) est
 nutritionnellement négligeable : profil quasi identique à la

@@ -57,13 +57,13 @@ Gâteau cuit, recette complète (amandes en poudre, pépites de chocolat,
 sucre vanillé, cannelle).
 
 * Énergie : 439 kcal
-* Matières grasses : 33,0 g
-  * dont acides gras saturés : 16,0 g
-* Glucides : 25,5 g
-  * dont sucres : 10,0 g
-* Fibres : 5,4 g
-* Protéines : 9,4 g
-* Sel : 0,44 g
+* Matières grasses : **33,0** g
+  * dont acides gras saturés : **16,0** g
+* Glucides : **25,5** g
+  * dont sucres : **10,0** g
+* Fibres : **5,4** g
+* Protéines : **9,4** g
+* Sel : **0,44** g
 
 Par rapport à la [version sans beurre](GateauChocolatBananeSansBeurre.md) :
 + 102 kcal et + 8,4 g de saturés (le beurre). Pour un profil plus santé,

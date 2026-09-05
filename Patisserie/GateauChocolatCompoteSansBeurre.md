@@ -50,13 +50,13 @@ Gâteau moelleux aéré, sans beurre ni sucre raffiné ajouté (hors sucre vanil
 Gâteau cuit, recette complète (amandes, sucre vanillé, cannelle).
 
 * Énergie : 328 kcal
-* Matières grasses : 20,0 g
-  * dont acides gras saturés : 7,6 g
-* Glucides : 26,5 g
-  * dont sucres : 11,8 g
-* Fibres : 5,5 g
-* Protéines : 9,3 g
-* Sel : 0,44 g
+* Matières grasses : **20,0** g
+  * dont acides gras saturés : **7,6** g
+* Glucides : **26,5** g
+  * dont sucres : **11,8** g
+* Fibres : **5,5** g
+* Protéines : **9,3** g
+* Sel : **0,44** g
 
 # Notes
 

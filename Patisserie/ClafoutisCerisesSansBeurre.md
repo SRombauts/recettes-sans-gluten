@@ -68,13 +68,13 @@ Hypothèse : ~ 10 % d'eau évaporée à la cuisson (masse cuite estimée
 ~ 1070 g).
 
 * Énergie : 147 kcal
-* Matières grasses : 4,4 g
-  * dont acides gras saturés : 0,8 g
-* Glucides : 21,9 g
-  * dont sucres : 12,9 g
-* Fibres : 1,8 g
-* Protéines : 5,8 g
-* Sel : 0,11 g
+* Matières grasses : **4,4** g
+  * dont acides gras saturés : **0,8** g
+* Glucides : **21,9** g
+  * dont sucres : **12,9** g
+* Fibres : **1,8** g
+* Protéines : **5,8** g
+* Sel : **0,11** g
 
 Par rapport à la [version avec beurre](ClafoutisCerises.md) (148 kcal,
 2,7 g d'AGS, 4,2 g de protéines / 100 g) : énergie quasi identique, **acides

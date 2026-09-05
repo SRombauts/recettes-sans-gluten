@@ -19,10 +19,10 @@ nav_order: 1
 Mix sec, gomme xanthane comprise.
 
 * Énergie : 355 kcal
-* Matières grasses : 2,3 g
-  * dont acides gras saturés : 0,5 g
-* Glucides : 77,8 g
-  * dont sucres : 1,3 g
-* Fibres : 4,0 g
-* Protéines : 6,1 g
-* Sel : 0 g
+* Matières grasses : **2,3** g
+  * dont acides gras saturés : **0,5** g
+* Glucides : **77,8** g
+  * dont sucres : **1,3** g
+* Fibres : **4,0** g
+* Protéines : **6,1** g
+* Sel : **0** g

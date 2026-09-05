@@ -61,13 +61,13 @@ compté). Hypothèse : ~ 10 % d'eau évaporée à la cuisson (masse cuite estim�
 ~ 1075 g).
 
 * Énergie : 148 kcal
-* Matières grasses : 5,5 g
-  * dont acides gras saturés : 2,7 g
-* Glucides : 21,6 g
-  * dont sucres : 12,8 g
-* Fibres : 1,5 g
-* Protéines : 4,2 g
-* Sel : 0,16 g
+* Matières grasses : **5,5** g
+  * dont acides gras saturés : **2,7** g
+* Glucides : **21,6** g
+  * dont sucres : **12,8** g
+* Fibres : **1,5** g
+* Protéines : **4,2** g
+* Sel : **0,16** g
 
 Les sucres (12,8 g / 100 g) proviennent pour environ deux tiers des fruits et
 du lactose (~ 9 g) et un tiers du sucre ajouté (~ 4 g) ; c'est le principal

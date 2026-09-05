@@ -41,13 +41,13 @@ tiédissant.
 Brownie cuit, recette complète (noix, sucre vanillé, cannelle), chocolat 52 %.
 
 * Énergie : 390 kcal
-* Matières grasses : 24,6 g
-  * dont acides gras saturés : 9,0 g
-* Glucides : 32,9 g
-  * dont sucres : 21,2 g
-* Fibres : 4,5 g
-* Protéines : 8,5 g
-* Sel : 0,37 g
+* Matières grasses : **24,6** g
+  * dont acides gras saturés : **9,0** g
+* Glucides : **32,9** g
+  * dont sucres : **21,2** g
+* Fibres : **4,5** g
+* Protéines : **8,5** g
+* Sel : **0,37** g
 
 # Notes
 

@@ -57,13 +57,13 @@ Gâteau cuit, recette complète (amandes en poudre, pépites de chocolat,
 sucre vanillé, cannelle).
 
 * Énergie : 337 kcal
-* Matières grasses : 20,1 g
-  * dont acides gras saturés : 7,6 g
-* Glucides : 28,8 g
-  * dont sucres : 12,3 g
-* Fibres : 5,7 g
-* Protéines : 9,5 g
-* Sel : 0,44 g
+* Matières grasses : **20,1** g
+  * dont acides gras saturés : **7,6** g
+* Glucides : **28,8** g
+  * dont sucres : **12,3** g
+* Fibres : **5,7** g
+* Protéines : **9,5** g
+* Sel : **0,44** g
 
 Par rapport à la
 [version compote](GateauChocolatCompoteSansBeurre.md) : + 9 kcal,

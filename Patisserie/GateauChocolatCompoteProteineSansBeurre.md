@@ -56,13 +56,13 @@ Gâteau cuit, recette complète (amandes, sucre vanillé, cannelle), whey
 concentrée Décathlon goût neutre.
 
 * Énergie : 327 kcal
-* Matières grasses : 19,8 g
-  * dont acides gras saturés : 7,6 g
-* Glucides : 24,8 g
-  * dont sucres : 11,7 g
-* Fibres : 5,9 g
-* Protéines : 11,6 g
-* Sel : 0,44 g
+* Matières grasses : **19,8** g
+  * dont acides gras saturés : **7,6** g
+* Glucides : **24,8** g
+  * dont sucres : **11,7** g
+* Fibres : **5,9** g
+* Protéines : **11,6** g
+* Sel : **0,44** g
 
 # Notes
 

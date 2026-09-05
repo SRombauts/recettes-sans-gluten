@@ -50,13 +50,13 @@ d'humidité.
 Gâteau cuit, recette complète (amandes, sucre vanillé, cannelle).
 
 * Énergie : 441 kcal
-* Matières grasses : 33,3 g
-  * dont acides gras saturés : 16,2 g
-* Glucides : 24,9 g
-  * dont sucres : 10,3 g
-* Fibres : 5,3 g
-* Protéines : 9,4 g
-* Sel : 0,44 g
+* Matières grasses : **33,3** g
+  * dont acides gras saturés : **16,2** g
+* Glucides : **24,9** g
+  * dont sucres : **10,3** g
+* Fibres : **5,3** g
+* Protéines : **9,4** g
+* Sel : **0,44** g
 
 Par rapport à la [version sans beurre](GateauChocolatCompoteSansBeurre.md) :
 + 113 kcal et + 8,6 g d'acides gras saturés (130 g de beurre remplacent le gros

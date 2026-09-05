@@ -20,12 +20,12 @@ Soit 40% de fécules et 60% de farines.
 Mix sec.
 
 * Énergie : 357 kcal
-* Matières grasses : 2,0 g
-  * dont acides gras saturés : 0,4 g
-* Glucides : 79,6 g
-  * dont sucres : 1,3 g
-* Fibres : 3,7 g
-* Protéines : 5,6 g
-* Sel : 0 g
+* Matières grasses : **2,0** g
+  * dont acides gras saturés : **0,4** g
+* Glucides : **79,6** g
+  * dont sucres : **1,3** g
+* Fibres : **3,7** g
+* Protéines : **5,6** g
+* Sel : **0** g
 
 Voir la [recette du pain au levain](RecettePainLevain.md)

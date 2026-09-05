@@ -77,13 +77,13 @@ la cuisson finale évaporent au total ~ 30 % d'eau de la garniture. Masse
 cuite estimée ~ 870 g pour les quantités indiquées.
 
 * Énergie : 63 kcal
-* Matières grasses : 1,5 g
-  * dont acides gras saturés : 0,3 g
-* Glucides : 6,6 g
-  * dont sucres : 5,6 g
-* Fibres : 2,4 g
-* Protéines : 3,9 g
-* Sel : 0,06 g
+* Matières grasses : **1,5** g
+  * dont acides gras saturés : **0,3** g
+* Glucides : **6,6** g
+  * dont sucres : **5,6** g
+* Fibres : **2,4** g
+* Protéines : **3,9** g
+* Sel : **0,06** g
 
 Comparaison avec la garniture originale (sucre + crème fraîche, ~ 165 kcal
 / 100 g) : sucres divisés par ~ 4 (5,6 g vs ~ 22 g / 100 g), acides gras

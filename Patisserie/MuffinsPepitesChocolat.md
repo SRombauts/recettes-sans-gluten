@@ -42,13 +42,13 @@ Recette des [muffins aux pépites de chocolat de Marmiton](https://www.marmiton.
 Muffins cuits, calculés avec le mélange de farines sans gluten, des pépites de chocolat noir, de la cassonade et du lait entier. Le beurre éventuel des moules n'est pas compté. Hypothèse : 10 % d'eau évaporée à la cuisson, soit une masse cuite estimée à 1 090 g.
 
 * Énergie : 372 kcal
-* Matières grasses : 17,6 g
-  * dont acides gras saturés : 10,3 g
-* Glucides : 48,3 g
-  * dont sucres : 21,7 g
-* Fibres : 2,2 g
-* Protéines : 5,4 g
-* Sel : 0,20 g
+* Matières grasses : **17,6** g
+  * dont acides gras saturés : **10,3** g
+* Glucides : **48,3** g
+  * dont sucres : **21,7** g
+* Fibres : **2,2** g
+* Protéines : **5,4** g
+* Sel : **0,20** g
 
 ## Notes
 

@@ -60,13 +60,13 @@ sucre, rhum facultatif non compté, beurre du gaufrier non compté. Environ
 840 g de pâte pour la quantité indiquée.
 
 * Énergie : 238 kcal
-* Matières grasses : 10,2 g
-  * dont acides gras saturés : 5,6 g
-* Glucides : 31,7 g
-  * dont sucres : 8,9 g
-* Fibres : 1,2 g
-* Protéines : 5,3 g
-* Sel : 0,38 g
+* Matières grasses : **10,2** g
+  * dont acides gras saturés : **5,6** g
+* Glucides : **31,7** g
+  * dont sucres : **8,9** g
+* Fibres : **1,2** g
+* Protéines : **5,3** g
+* Sel : **0,38** g
 
 ## Notes
 

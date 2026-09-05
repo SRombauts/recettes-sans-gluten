@@ -56,13 +56,13 @@ Gâteau cuit, recette complète (pépites de chocolat noir, banane décorative
 non comptée).
 
 * Énergie : 287 kcal
-* Matières grasses : 16,6 g
-  * dont acides gras saturés : 7,2 g
-* Glucides : 31,2 g
-  * dont sucres : 10,4 g
-* Fibres : 3,4 g
-* Protéines : 6,1 g
-* Sel : 0,42 g
+* Matières grasses : **16,6** g
+  * dont acides gras saturés : **7,2** g
+* Glucides : **31,2** g
+  * dont sucres : **10,4** g
+* Fibres : **3,4** g
+* Protéines : **6,1** g
+* Sel : **0,42** g
 
 Par rapport à la [version sans beurre](GateauBananeSansBeurre.md) : + 22 kcal,
 + 4,9 g d'acides gras saturés (le beurre à la place de la purée d'amandes), et

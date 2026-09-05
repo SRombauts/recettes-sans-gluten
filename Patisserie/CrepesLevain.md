@@ -60,13 +60,13 @@ celle de la pâte. Hypothèses : levain à 100 % d'hydratation (valeurs de la
 Masse totale d'environ 1,87 kg.
 
 * Énergie : 156 kcal
-* Matières grasses : 4,9 g
-  * dont acides gras saturés : 1,7 g
-* Glucides : 22,5 g
-  * dont sucres : 2,5 g
-* Fibres : 1,3 g
-* Protéines : 5,5 g
-* Sel : 0,22 g
+* Matières grasses : **4,9** g
+  * dont acides gras saturés : **1,7** g
+* Glucides : **22,5** g
+  * dont sucres : **2,5** g
+* Fibres : **1,3** g
+* Protéines : **5,5** g
+* Sel : **0,22** g
 
 Profil quasi identique à la recette de base (162 kcal, 5,7 g de protéines). Le
 levain remplace de la farine par un ingrédient à moitié eau, d'où une énergie un

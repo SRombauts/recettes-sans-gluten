@@ -60,13 +60,13 @@ masse cuite estimée à 700 g. Cette dernière hypothèse est provisoire : peser
 prochaine fournée refroidie permettra de fiabiliser les valeurs.
 
 * Énergie : 441 kcal
-* Matières grasses : 20,8 g
-  * dont acides gras saturés : 3,2 g
-* Glucides : 57,4 g
-  * dont sucres : 0,9 g
-* Fibres : 4,3 g
-* Protéines : 6,3 g
-* Sel : 1,43 g
+* Matières grasses : **20,8** g
+  * dont acides gras saturés : **3,2** g
+* Glucides : **57,4** g
+  * dont sucres : **0,9** g
+* Fibres : **4,3** g
+* Protéines : **6,3** g
+* Sel : **1,43** g
 
 ## Notes
 

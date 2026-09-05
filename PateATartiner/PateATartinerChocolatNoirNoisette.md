@@ -21,13 +21,13 @@ ambiante.
 ## Analyse nutritionnelle pour 100 g
 
 - Énergie : 645 kcal
-- Matières grasses : 56,1 g
-  - dont acides gras saturés : 13,9 g
-- Glucides : 20,9 g
-  - dont sucres : 17,2 g
-- Fibres : 6,5 g
-- Protéines : 10,3 g
-- Sel : 0,29 g
+- Matières grasses : **56,1** g
+  - dont acides gras saturés : **13,9** g
+- Glucides : **20,9** g
+  - dont sucres : **17,2** g
+- Fibres : **6,5** g
+- Protéines : **10,3** g
+- Sel : **0,29** g
 
 ## Préparation
 

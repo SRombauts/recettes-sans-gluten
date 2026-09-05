@@ -50,13 +50,13 @@ Pâte à crêpes, recette complète (avant cuisson ; sans matière grasse ajout�
 quantité indiquée.
 
 * Énergie : 162 kcal
-* Matières grasses : 5,2 g
-  * dont acides gras saturés : 2,0 g
-* Glucides : 23,0 g
-  * dont sucres : 2,9 g
-* Fibres : 1,1 g
-* Protéines : 5,7 g
-* Sel : 0,24 g
+* Matières grasses : **5,2** g
+  * dont acides gras saturés : **2,0** g
+* Glucides : **23,0** g
+  * dont sucres : **2,9** g
+* Fibres : **1,1** g
+* Protéines : **5,7** g
+* Sel : **0,24** g
 
 ## Notes
 

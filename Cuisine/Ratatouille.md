@@ -69,13 +69,13 @@ renseignés, ne sont pas comptés. Les valeurs restent approximatives car
 l'évaporation dépend de la marmite et de la durée de cuisson.
 
 * Énergie : 46 kcal
-* Matières grasses : 2,3 g
-  * dont acides gras saturés : 0,4 g
-* Glucides : 4,4 g
-  * dont sucres : 3,4 g
-* Fibres : 2,0 g
-* Protéines : 1,1 g
-* Sel : 0,89 g
+* Matières grasses : **2,3** g
+  * dont acides gras saturés : **0,4** g
+* Glucides : **4,4** g
+  * dont sucres : **3,4** g
+* Fibres : **2,0** g
+* Protéines : **1,1** g
+* Sel : **0,89** g
 
 ## Notes
 

@@ -84,13 +84,13 @@ faute d'étiquettes des produits utilisés. Huile d'olive estimée à 900 kcal,
 aux seuils de quantification de la xanthane assimilées à zéro.
 
 * Énergie : 246 kcal
-* Matières grasses : 2,7 g
-  * dont acides gras saturés : 0,5 g
-* Glucides : 50,7 g
-  * dont sucres : 0,8 g
-* Fibres : 4,5 g
-* Protéines : 4,1 g
-* Sel : 1,08 g
+* Matières grasses : **2,7** g
+  * dont acides gras saturés : **0,5** g
+* Glucides : **50,7** g
+  * dont sucres : **0,8** g
+* Fibres : **4,5** g
+* Protéines : **4,1** g
+* Sel : **1,08** g
 
 ## Notes
 

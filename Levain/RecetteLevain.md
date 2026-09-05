@@ -67,10 +67,10 @@ Le cycle de panification conserve cette proportion : le chef de départ contient
 autant de farine que d'eau, auxquelles s'ajoutent 105 g de chaque.
 
 * Énergie : 179 kcal
-* Matières grasses : 1,7 g
-  * dont acides gras saturés : 0,3 g
-* Glucides : 36,7 g
-  * dont sucres : 0,6 g
-* Fibres : 2,9 g
-* Protéines : 4,9 g
-* Sel : 0 g
+* Matières grasses : **1,7** g
+  * dont acides gras saturés : **0,3** g
+* Glucides : **36,7** g
+  * dont sucres : **0,6** g
+* Fibres : **2,9** g
+* Protéines : **4,9** g
+* Sel : **0** g

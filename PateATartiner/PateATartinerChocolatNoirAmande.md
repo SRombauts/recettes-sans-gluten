@@ -24,13 +24,13 @@ conserve à température ambiante.
 ## Analyse nutritionnelle pour 100 g
 
 - Énergie : 625 kcal
-- Matières grasses : 52,3 g
-  - dont acides gras saturés : 13,5 g
-- Glucides : 19,2 g
-  - dont sucres : 16,2 g
-- Fibres : 8,3 g
-- Protéines : 14,0 g
-- Sel : 0,29 g
+- Matières grasses : **52,3** g
+  - dont acides gras saturés : **13,5** g
+- Glucides : **19,2** g
+  - dont sucres : **16,2** g
+- Fibres : **8,3** g
+- Protéines : **14,0** g
+- Sel : **0,29** g
 
 ## Préparation
 

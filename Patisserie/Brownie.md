@@ -25,10 +25,10 @@ nav_order: 4
 Brownie cuit, calculé avec noix et chocolat dessert noir 52 %.
 
 * Énergie : 493 kcal
-* Matières grasses : 35,7 g
-  * dont acides gras saturés : 16,6 g
-* Glucides : 34,8 g
-  * dont sucres : 26,5 g
-* Fibres : 3,4 g
-* Protéines : 7,4 g
-* Sel : 0,33 g
+* Matières grasses : **35,7** g
+  * dont acides gras saturés : **16,6** g
+* Glucides : **34,8** g
+  * dont sucres : **26,5** g
+* Fibres : **3,4** g
+* Protéines : **7,4** g
+* Sel : **0,33** g
