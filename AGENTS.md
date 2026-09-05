@@ -66,9 +66,15 @@ Skills à charger (`.claude/skills/`) :
 * [`fiche-recette`](.claude/skills/fiche-recette/SKILL.md) — pour rédiger ou
   réviser une fiche : structure du corps, section « Notes » par objectif, calcul
   de l'analyse nutritionnelle pour 100 g.
-* [`humanizer`](.claude/skills/humanizer/SKILL.md) — pour relire la prose d'une
-  fiche et retirer les tournures artificielles (tells surtout structurels en
-  français : tirets cadratins, listes en gras, rule-of-three, emojis).
+* [`boileau`](.claude/skills/boileau/SKILL.md) — pour relire la prose française
+  des fiches et retirer les tournures artificielles.
+
+`boileau` est une ressource externe provenant de
+[alxbd/boileau](https://github.com/alxbd/boileau). Ne jamais modifier,
+reformater, traduire, raccourcir ni adapter localement les fichiers de
+`.claude/skills/boileau/`. Seule une mise à jour par copie fidèle de la source
+amont est autorisée ; indiquer la version ou le commit amont dans le message
+de commit. Toute consigne propre au projet doit rester hors de ce dossier.
 
 ## Site Jekyll et navigation (`nav_order`)
 

@@ -14,7 +14,7 @@ description: >-
 Utiliser cette skill pour garder des réponses professionnelles, factuelles et
 neutres, tout en améliorant la qualité du raisonnement par une remise en
 question calibrée. Le ton vaut pour la conversation ; pour la qualité du **texte
-écrit dans les fiches**, voir la skill [`humanizer`](../humanizer/SKILL.md).
+écrit dans les fiches**, voir la skill [`boileau`](../boileau/SKILL.md).
 
 ## Contexte du projet
 
