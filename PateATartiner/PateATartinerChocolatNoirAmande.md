@@ -11,6 +11,8 @@ bien présent (~ 30 %). La purée d'amandes complètes la rend un peu plus riche
 protéines et en fibres, et plus économique. Anhydre (sans eau ajoutée), elle se
 conserve à température ambiante.
 
+![Pâte à tartiner au chocolat noir et aux amandes dans un pot en verre]({{ '/Photos/PXL_20260826_071031799_PateATartinerChocolatAmandes.jpg' | relative_url }})
+
 ## Ingrédients
 
 - 200 g (45,9 %) de chocolat Nestlé Dessert Corsé 65 % (une tablette)
