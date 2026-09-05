@@ -98,15 +98,21 @@ Toujours présente, **mise à jour à chaque changement d'ingrédient**. Méthod
 
 Ordre et libellés exacts du bloc (espace insécable avant `:` typographique FR) :
 
+Pour chaque quantité en grammes, mettre uniquement la valeur numérique en
+gras, virgule comprise ; laisser le libellé et l'unité `g` hors du gras. La
+règle vaut aussi pour les sous-puces et les valeurs nulles (`**0** g`).
+L'énergie en kcal reste sans gras. Voir `AGENTS.md`, section « Analyse
+nutritionnelle pour 100g ».
+
 ```markdown
 * Énergie : XXX kcal
-* Matières grasses : X,X g
-  * dont acides gras saturés : X,X g
-* Glucides : XX,X g
-  * dont sucres : X,X g
-* Fibres : X,X g
-* Protéines : X,X g
-* Sel : X,XX g
+* Matières grasses : **X,X** g
+  * dont acides gras saturés : **X,X** g
+* Glucides : **XX,X** g
+  * dont sucres : **X,X** g
+* Fibres : **X,X** g
+* Protéines : **X,X** g
+* Sel : **X,XX** g
 ```
 
 Repères de cohérence : œuf ≈ 50 g ; lait demi-écrémé ≈ 46 kcal, 1,6 g MG (dont
@@ -118,3 +124,6 @@ Repères de cohérence : œuf ≈ 50 g ; lait demi-écrémé ≈ 46 kcal, 1,6 g 
 Éditer directement, corriger sans demander les erreurs évidentes / de calcul /
 d'oubli de mise à jour, recalculer l'analyse, **committer immédiatement** avec un
 message court. Pour `nav_order`, liens et photos : voir `AGENTS.md`.
+Si la demande modifie les instructions puis les applique aux fiches, committer
+d'abord les instructions, puis leur application dans un second commit, selon
+la règle de séparation des sujets du workflow d'`AGENTS.md`.

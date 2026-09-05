@@ -32,12 +32,32 @@ Les deux restent sans sucre raffiné ajouté. Chaque fiche renvoie vers sa varia
 
 Chaque recette doit être accompagnée d'une analyse nutritionnelle, à mettre à jour lors de changements d'ingrédients.
 
+Dans les listes de valeurs nutritionnelles pour 100 g, mettre en **gras
+uniquement la valeur numérique des quantités exprimées en grammes**, virgule
+décimale comprise. L'unité `g` et le libellé restent hors du gras :
+`* Protéines : **5,7** g`, `  * dont sucres : **2,9** g`,
+`* Sel : **0,03** g`. Cette règle couvre tous les nutriments, y compris les
+sous-puces et les valeurs nulles (`**0** g`), pour les recettes et les mélanges
+de farines. Les kcal et les quantités d'ingrédients ne sont pas concernées.
+
 ## Workflow
 
 N'hésite pas à éditer directement les fichiers, en créer de nouveaux.
 Corrige systématiquement sans demander les erreurs évidentes, les erreurs de calcul et oublis de mise à jour.
 Mets à jour les analyses nutritionnelles automatiquement.
 Effectue systématiquement le commit à ma place immédiatement, en gardant un message court.
+
+Respecte la séparation des sujets (« separation of concerns ») : chaque commit
+doit correspondre à un changement cohérent. Lorsqu'une demande modifie les
+instructions et les applique au contenu, fais **deux commits séparés** :
+
+1. Les instructions (`AGENTS.md` et les skills concernés), une fois vérifiées.
+2. Leur application aux recettes et aux autres contenus concernés, une fois
+   vérifiée.
+
+Ne regroupe pas ces deux étapes dans un même commit, sauf demande explicite de
+l'utilisateur. Garde ensemble les changements indissociables d'un même sujet
+(par exemple une photo et sa référence dans la recette).
 
 Skills à charger (`.claude/skills/`) :
 
