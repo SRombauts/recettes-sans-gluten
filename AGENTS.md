@@ -40,7 +40,11 @@ Lire les skills applicables avant d'agir ; ne pas recopier leurs règles ici.
 | Créer ou réviser une recette, un mélange ou son analyse nutritionnelle | [fiche-recette](.claude/skills/fiche-recette/SKILL.md) |
 | Créer, déplacer ou renommer une page ; modifier navigation, index ou liens | [site-jekyll](.claude/skills/site-jekyll/SKILL.md) |
 | Ajouter, remplacer, préparer ou vérifier une photo avant `git add` | [photos-recettes](.claude/skills/photos-recettes/SKILL.md) |
-| Rédiger ou relire la prose française des fiches | [boileau](.claude/skills/boileau/SKILL.md) |
+| Réécrire substantiellement la prose française d'une fiche, ou sur demande explicite d'humanisation | [boileau](.claude/skills/boileau/SKILL.md) |
+
+Boileau ne se charge pas pour une simple mise à jour de quantités, de calculs,
+de liens, de mise en forme ou une correction ponctuelle de formulation. Le
+charger si la tâche comporte aussi une véritable réécriture de passages.
 
 ## Ressource externe
 
