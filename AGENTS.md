@@ -23,13 +23,7 @@ Par ordre de priorité décroissante :
   les erreurs évidentes, de calcul et les oublis de mise à jour.
 * Chaque recette et mélange doit avoir une analyse nutritionnelle pour 100 g,
   à actualiser lorsque sa composition change, selon `fiche-recette`.
-* Après vérification, effectuer le commit sans attendre, avec un message court.
-  Un commit correspond à un sujet cohérent ; garder ensemble les éléments
-  indissociables, par exemple une photo et ses références.
-* Si une demande modifie les instructions et les applique au contenu, faire
-  deux commits : d'abord les instructions et skills vérifiés, puis leur
-  application aux recettes ou autres contenus vérifiés. Ne les regrouper que
-  sur demande explicite.
+* Vérifier et commiter sans attendre selon `workflow-depot`.
 
 ## Skills à charger
 
@@ -38,6 +32,7 @@ Lire les skills applicables avant d'agir ; ne pas recopier leurs règles ici.
 | Quand | Skill |
 | --- | --- |
 | Début de toute tâche : ton et évaluation critique | [agent-response-style](.claude/skills/agent-response-style/SKILL.md) |
+| Modifier des fichiers, vérifier et préparer des commits | [workflow-depot](.claude/skills/workflow-depot/SKILL.md) |
 | Créer ou réviser une recette, un mélange ou son analyse nutritionnelle | [fiche-recette](.claude/skills/fiche-recette/SKILL.md) |
 | Créer, déplacer ou renommer une page ; modifier navigation, index ou liens | [site-jekyll](.claude/skills/site-jekyll/SKILL.md) |
 | Ajouter, remplacer, préparer ou vérifier une photo avant `git add` | [photos-recettes](.claude/skills/photos-recettes/SKILL.md) |

@@ -8,8 +8,9 @@ description: >-
 
 # Fiches de recettes et mélanges
 
-Les objectifs et le workflow commun sont définis dans
-[AGENTS.md](../../../AGENTS.md). Pour le front matter, les index et les liens,
+Les objectifs sont définis dans [AGENTS.md](../../../AGENTS.md), les vérifications
+et commits dans [workflow-depot](../workflow-depot/SKILL.md).
+Pour le front matter, les index et les liens,
 utiliser [site-jekyll](../site-jekyll/SKILL.md).
 
 ## Structure
