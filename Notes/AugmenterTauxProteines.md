@@ -19,20 +19,20 @@ Cible raisonnable pour une pâtisserie « protéinée » : 12-15 g / 100 g.
 
 ## Options classées par pertinence
 
-| Méthode | Apport prot / 100 g | Effets collatéraux | Texture | Prix |
-|---|---|---|---|---|
-| **Whey concentrée +20 g** | **+1,7 à +2,4 g** | + 1 g MG, + 1,4 g lactose | sèche si trop | bon (32 €/kg) |
-| Œuf entier supplémentaire | +0,7 à +0,9 g | + 0,5 g sat, moelleux | aération préservée | très bon |
-| 2 blancs d'œuf supplémentaires | +0,9 g | quasi 0 collatéral | aération | très bon |
-| Poudre d'amande +30 g | +0,8 g | + 0,5 g fibres, gras insaturés | moelleux | cher (28 €/kg pâte) |
-| Yaourt grec 50 g (substitution compote) | +0,5 à +0,7 g | acidité, moelleux | proche compote | très bon |
-| Cacao non sucré +15 g (recettes choco) | +0,4 g | + 0,6 g fibres, arôme | légère | bon |
-| Brownie aux haricots blancs mixés | +1,5 à +2 g | texture humide, goût masqué | très moelleux | très bon |
+| Méthode | Apport prot / 100 g | Effets collatéraux | Texture |
+|---|---|---|---|
+| **Whey concentrée +20 g** | **+1,7 à +2,4 g** | + 1 g MG, + 1,4 g lactose | sèche si trop |
+| Œuf entier supplémentaire | +0,7 à +0,9 g | + 0,5 g sat, moelleux | aération préservée |
+| 2 blancs d'œuf supplémentaires | +0,9 g | quasi 0 collatéral | aération |
+| Poudre d'amande +30 g | +0,8 g | + 0,5 g fibres, gras insaturés | moelleux |
+| Yaourt grec 50 g (substitution compote) | +0,5 à +0,7 g | acidité, moelleux | proche compote |
+| Cacao non sucré +15 g (recettes choco) | +0,4 g | + 0,6 g fibres, arôme | légère |
+| Brownie aux haricots blancs mixés | +1,5 à +2 g | texture humide, goût masqué | très moelleux |
 
 ## La méthode la plus efficace : whey concentrée
 
 C'est de loin le levier le plus puissant : 75-80 % de protéines pures en poudre.
-La whey concentrée Décathlon goût neutre (32 €/kg) est un bon choix.
+La whey concentrée Décathlon goût neutre est un bon choix.
 
 Valeurs approximatives pour 100 g de whey :
 

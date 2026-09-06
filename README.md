@@ -30,7 +30,6 @@ Le déploiement est automatique via GitHub Actions à chaque push sur `main`
 - [Cuisine](Cuisine/) — plats salés et biscuits apéritifs au levain.
 - [Pâtes à tartiner](PateATartiner/) — pâtes à tartiner chocolat-noisette ou chocolat-amande.
 - [Notes](Notes/) — fiches transversales (protéines, fibres).
-- [Prix des ingrédients](PrixIngredients.md) — table de référence.
 
 ## Quelques recettes en images
 

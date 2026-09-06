@@ -54,17 +54,6 @@ souplesse, moins pour une pâte plus dense.
 
 - Conserver à température ambiante, hors réfrigérateur.
 
-## Prix estimatif
-
-| Ingrédient | Quantité | Prix |
-|---|---|---|
-| Chocolat Nestlé Dessert Corsé | 200 g | 3,41 € |
-| Purée d'amandes complètes | 180 g | 5,05 € |
-| Huile de colza | 55 g | 0,11 € |
-| Sel fin | 1 g | 0,01 € |
-| **Total (~436 g)** | | **8,58 €** |
-| **Prix au kg** | | **19,7 €** |
-
 ## Notes
 
 ### Variante avec chocolat noir 52 % (Nestlé Dessert « Noir »)

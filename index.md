@@ -42,8 +42,6 @@ automatiquement à chaque changement d'ingrédients.
   tartiner chocolat-noisette ou chocolat-amande.
 - [Notes]({{ '/Notes/' | relative_url }}) — fiches transversales sur
   l'augmentation des fibres et des protéines.
-- [Prix des ingrédients]({{ '/PrixIngredients' | relative_url }}) — table de
-  référence des coûts au kilo.
 
 ## Comment naviguer
 

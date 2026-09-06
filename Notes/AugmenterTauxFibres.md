@@ -16,13 +16,13 @@ Cible raisonnable pour une pâtisserie : 6-8 g / 100 g.
 
 ## Options classées par pertinence
 
-| Méthode | Apport fibres | Apports collatéraux | Texture | Prix |
-|---|---|---|---|---|
-| Poudre d'amande +30 g | +0,4-0,6 g/100g | +0,8 g prot, gras insaturés | moelleux | cher |
-| Cacao non sucré +15 g (recettes choco) | +0,6 g/100g | +0,4 g prot, arôme chocolat | légère | bon |
-| Lin moulu +20 g | +0,7 g/100g | +0,5 g prot, oméga-3 | légèrement liée | très bon |
-| Psyllium +4 g | +0,6 g/100g | structurant, retient l'eau | élastique au-delà de 5 g | moyen |
-| Farine de coco +10 g | +0,4 g/100g | absorbe 4× son poids en eau | radicale | cher, + saturés |
+| Méthode | Apport fibres | Apports collatéraux | Texture |
+|---|---|---|---|
+| Poudre d'amande +30 g | +0,4-0,6 g/100g | +0,8 g prot, gras insaturés | moelleux |
+| Cacao non sucré +15 g (recettes choco) | +0,6 g/100g | +0,4 g prot, arôme chocolat | légère |
+| Lin moulu +20 g | +0,7 g/100g | +0,5 g prot, oméga-3 | légèrement liée |
+| Psyllium +4 g | +0,6 g/100g | structurant, retient l'eau | élastique au-delà de 5 g |
+| Farine de coco +10 g | +0,4 g/100g | absorbe 4× son poids en eau, + saturés | radicale |
 
 ## La méthode la plus courante
 

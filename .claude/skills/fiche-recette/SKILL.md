@@ -130,3 +130,11 @@ espace insécable avant `:` :
 * Protéines : **X,X** g
 * Sel : **X,XX** g
 ```
+
+## Prix internes
+
+Pour un calcul ou un choix de coût, charger uniquement la
+[référence des prix](references/prix-ingredients.md). Les prix d'achat et les
+tableaux de coûts restent dans cette référence, sans affichage sur le site ni
+dans le README. Ce sont des repères historiques, à actualiser sur demande ou
+avec un nouveau prix fourni, pas des tarifs à rechercher à chaque recette.
