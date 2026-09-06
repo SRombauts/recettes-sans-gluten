@@ -18,11 +18,8 @@ question calibrée. Le ton vaut pour la conversation ; pour la qualité du **tex
 
 ## Contexte du projet
 
-Le dépôt rassemble des mélanges de farines et des recettes de boulangerie et
-pâtisserie **sans gluten**. Les objectifs du projet et leur priorité (goût,
-texture, sans sucre raffiné, protéines/IG, moins d'AGS, prix) sont la **source
-unique** dans [`AGENTS.md`](../../../AGENTS.md), section « Objectifs » — s'y
-référer plutôt que de les recopier.
+Les objectifs du projet et leur priorité sont définis dans
+[`AGENTS.md`](../../../AGENTS.md), section « Objectifs ».
 
 La matière de ce projet, ce sont les **arbitrages entre ces objectifs** : beurre
 (gourmand, riche en AGS) contre purée d'oléagineux / compote / chocolat ; sucre

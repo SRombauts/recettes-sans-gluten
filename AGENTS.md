@@ -1,226 +1,53 @@
-Ce projet contient des mélanges de farines et des recettes de boulangerie et de patisserie sans gluten.
+# Recettes sans gluten
 
-> **Note :** `CLAUDE.md` n'est qu'un lien symbolique vers ce fichier `AGENTS.md`.
-> Éditer l'un revient à éditer l'autre, et `CLAUDE.md` n'apparaît donc jamais
-> comme modifié dans `git status` (git suit le lien, pas son contenu).
+Ce dépôt contient des mélanges de farines et des recettes de boulangerie,
+pâtisserie et cuisine sans gluten. Ce fichier porte les règles communes ;
+les skills ci-dessous portent les procédures et exemples.
 
 ## Objectifs
 
 Par ordre de priorité décroissante :
 
-* goût agréable, doux mais riche, subtil
-* texture, consistance, légèreté, aération
-* sans sucre raffiné ajouté autant que possible : la sucrosité vient des fruits
-  (banane, compote) ou reste minimale
-* augmenter les taux de protéines pour
-  * obtenir un indice glycémique (IG) modéré, en prévention du diabète de type 2
-  * soutenir la pratique d'une activité physique régulière
-* limiter les graisses saturées, en prévention du cholesterol
-* prix contenu
+1. Goût agréable, doux mais riche, subtil.
+2. Texture, consistance, légèreté et aération.
+3. Éviter autant que possible le sucre raffiné ajouté ; privilégier les fruits
+   (banane, compote) ou une sucrosité minimale.
+4. Augmenter les protéines, avec un objectif d'IG modéré en prévention du
+   diabète de type 2 et pour soutenir une activité physique régulière.
+5. Limiter les graisses saturées, en prévention du cholestérol.
+6. Garder un prix contenu.
 
-## Deux variantes pour les pâtisseries
+## Travail dans le dépôt
 
-Pour les pâtisseries, proposer quand c'est pertinent deux variantes :
+* Éditer et créer directement les fichiers nécessaires. Corriger sans demander
+  les erreurs évidentes, de calcul et les oublis de mise à jour.
+* Chaque recette et mélange doit avoir une analyse nutritionnelle pour 100 g,
+  à actualiser lorsque sa composition change, selon `fiche-recette`.
+* Après vérification, effectuer le commit sans attendre, avec un message court.
+  Un commit correspond à un sujet cohérent ; garder ensemble les éléments
+  indissociables, par exemple une photo et ses références.
+* Si une demande modifie les instructions et les applique au contenu, faire
+  deux commits : d'abord les instructions et skills vérifiés, puis leur
+  application aux recettes ou autres contenus vérifiés. Ne les regrouper que
+  sur demande explicite.
 
-* **avec beurre** — plus gourmande, pour les enfants (nom de fichier de base) ;
-* **sans beurre** — plus santé, gras issu de purées d'oléagineux, de compote ou
-  du chocolat (suffixe `SansBeurre` dans le nom de fichier).
+## Skills à charger
 
-Les deux restent sans sucre raffiné ajouté. Chaque fiche renvoie vers sa variante.
+Lire les skills applicables avant d'agir ; ne pas recopier leurs règles ici.
 
-## Analyse nutritionnelle pour 100g
+| Quand | Skill |
+| --- | --- |
+| Début de toute tâche : ton et évaluation critique | [agent-response-style](.claude/skills/agent-response-style/SKILL.md) |
+| Créer ou réviser une recette, un mélange ou son analyse nutritionnelle | [fiche-recette](.claude/skills/fiche-recette/SKILL.md) |
+| Créer, déplacer ou renommer une page ; modifier navigation, index ou liens | [site-jekyll](.claude/skills/site-jekyll/SKILL.md) |
+| Ajouter, remplacer, préparer ou vérifier une photo avant `git add` | [photos-recettes](.claude/skills/photos-recettes/SKILL.md) |
+| Rédiger ou relire la prose française des fiches | [boileau](.claude/skills/boileau/SKILL.md) |
 
-Chaque recette doit être accompagnée d'une analyse nutritionnelle, à mettre à jour lors de changements d'ingrédients.
+## Ressource externe
 
-Dans les listes de valeurs nutritionnelles pour 100 g, mettre en **gras
-uniquement la valeur numérique des quantités exprimées en grammes**, virgule
-décimale comprise. L'unité `g` et le libellé restent hors du gras :
-`* Protéines : **5,7** g`, `  * dont sucres : **2,9** g`,
-`* Sel : **0,03** g`. Cette règle couvre tous les nutriments, y compris les
-sous-puces et les valeurs nulles (`**0** g`), pour les recettes et les mélanges
-de farines. Les kcal et les quantités d'ingrédients ne sont pas concernées.
-
-## Workflow
-
-N'hésite pas à éditer directement les fichiers, en créer de nouveaux.
-Corrige systématiquement sans demander les erreurs évidentes, les erreurs de calcul et oublis de mise à jour.
-Mets à jour les analyses nutritionnelles automatiquement.
-Effectue systématiquement le commit à ma place immédiatement, en gardant un message court.
-
-Respecte la séparation des sujets (« separation of concerns ») : chaque commit
-doit correspondre à un changement cohérent. Lorsqu'une demande modifie les
-instructions et les applique au contenu, fais **deux commits séparés** :
-
-1. Les instructions (`AGENTS.md` et les skills concernés), une fois vérifiées.
-2. Leur application aux recettes et aux autres contenus concernés, une fois
-   vérifiée.
-
-Ne regroupe pas ces deux étapes dans un même commit, sauf demande explicite de
-l'utilisateur. Garde ensemble les changements indissociables d'un même sujet
-(par exemple une photo et sa référence dans la recette).
-
-Skills à charger (`.claude/skills/`) :
-
-* [`agent-response-style`](.claude/skills/agent-response-style/SKILL.md) — ton et
-  posture critique calibrée, en début de toute tâche.
-* [`fiche-recette`](.claude/skills/fiche-recette/SKILL.md) — pour rédiger ou
-  réviser une fiche : structure du corps, section « Notes » par objectif, calcul
-  de l'analyse nutritionnelle pour 100 g.
-* [`boileau`](.claude/skills/boileau/SKILL.md) — pour relire la prose française
-  des fiches et retirer les tournures artificielles.
-
-`boileau` est une ressource externe provenant de
+`.claude/skills/boileau/` est une copie de
 [alxbd/boileau](https://github.com/alxbd/boileau). Ne jamais modifier,
-reformater, traduire, raccourcir ni adapter localement les fichiers de
-`.claude/skills/boileau/`. Seule une mise à jour par copie fidèle de la source
-amont est autorisée ; indiquer la version ou le commit amont dans le message
-de commit. Toute consigne propre au projet doit rester hors de ce dossier.
-
-## Site Jekyll et navigation (`nav_order`)
-
-Site [Jekyll](https://jekyllrb.com/) + thème
-[Just the Docs](https://just-the-docs.com/), déployé sur GitHub Pages via
-[`.github/workflows/pages.yml`](.github/workflows/pages.yml) (push sur
-`main`). La barre latérale est entièrement pilotée par le front matter YAML
-de chaque `.md`.
-
-### Front matter d'une recette
-
-```yaml
----
-title: Crêpes sans gluten
-parent: Pâtisserie
-nav_order: 10
----
-```
-
-* `title` : libellé affiché dans la sidebar et la recherche.
-* `parent` : `title` exact (accents et espaces compris) de l'`index.md` de la
-  section : `Pâtisserie`, `Pain`, `Levain`, `Pâtes à tartiner`, `Notes`.
-* `nav_order` : entier ordonnant la recette **à l'intérieur de sa section**.
-
-Les `index.md` de section utilisent un autre front matter
-(`layout: default`, `has_children: true`, `permalink: /Section/`), ne pas le
-recopier dans une recette.
-
-### Règle d'or : `nav_order` unique par section
-
-Deux recettes d'une même section avec le même `nav_order` → ordre arbitraire
-dans la sidebar, **sans erreur de build** (piège silencieux). À chaque ajout
-ou réorganisation, dans chaque section touchée :
-
-1. Lister les `nav_order` déjà pris (remplacer `Patisserie` par la section
-   concernée, idem ci-dessous) :
-
-   ```powershell
-   Select-String -Path Patisserie\*.md -Pattern 'nav_order:' |
-     ForEach-Object { "{0,-50} {1}" -f $_.Filename, $_.Line.Trim() } |
-     Sort-Object
-   ```
-
-2. Choisir un entier libre à la position logique voulue. Si on insère au
-   milieu, **renuméroter** les suivants (pas de trou, pas de doublon).
-
-3. Vérifier l'absence de doublon (sortie attendue : vide) :
-
-   ```powershell
-   Select-String -Path Patisserie\*.md -Pattern 'nav_order:' |
-     ForEach-Object { ($_.Line -replace '.*nav_order:\s*','').Trim() } |
-     Group-Object | Where-Object Count -gt 1
-   ```
-
-4. Mettre à jour la liste « Recettes disponibles » de l'`index.md` de la
-   section dans le **même ordre** que les `nav_order`. Si pertinent,
-   référencer aussi depuis l'`index.md` racine et/ou le `README.md`.
-
-### Liens internes et `baseurl`
-
-* Entre recettes : chemin Markdown relatif,
-  ex. `[Mix farines](MixFarinesPatisserie.md)`.
-* Depuis l'`index.md` racine (page « home » Jekyll) et pour **toutes** les
-  images : `{{ '/chemin' | relative_url }}` pour respecter le `baseurl`
-  GitHub Pages.
-
-## Photos d'illustration
-
-Photos stockées dans `Photos/` à la racine, référencées par les recettes,
-l'`index.md` racine et le `README.md`.
-
-### Toujours redimensionner avant `git add`
-
-Pour garder le repo léger (cible `.git/` autour de quelques MB), **toute
-nouvelle photo doit être redimensionnée et recompressée avant commit**. Ne
-jamais commiter un JPEG brut de smartphone (typiquement 3-4 MB, 4000×3000 px).
-
-Paramètres standards (ne pas modifier sans raison) :
-
-* côté le plus long max : **1600 px**
-* qualité JPEG : **85**, `progressive=True`, `optimize=True`
-* `ImageOps.exif_transpose` puis strip EXIF (figer l'orientation, ne pas
-  publier les coordonnées GPS)
-
-Cible : ~250-500 KB par photo. **Signaler** toute photo > 1 MB après
-traitement.
-
-### Script `resize_photos.py`
-
-`python` (≥ 3.12) et `Pillow` (≥ 12) sont installés au niveau système (pas de
-venv ni de `pip install`), vérifiable avec :
-
-```powershell
-python -c "from PIL import Image; print('Pillow', Image.__version__)"
-```
-
-Recréer le script à la racine, l'exécuter, puis **le supprimer** (ne pas le
-commiter) :
-
-```python
-from pathlib import Path
-from PIL import Image, ImageOps
-
-MAX_SIDE = 1600
-JPEG_QUALITY = 85
-PHOTOS_DIR = Path(__file__).parent / "Photos"
-
-for jpg in sorted(PHOTOS_DIR.glob("*.jpg")):
-    before = jpg.stat().st_size
-    with Image.open(jpg) as img:
-        img = ImageOps.exif_transpose(img)
-        img.thumbnail((MAX_SIDE, MAX_SIDE), Image.Resampling.LANCZOS)
-        img.convert("RGB").save(
-            jpg, format="JPEG",
-            quality=JPEG_QUALITY, optimize=True, progressive=True,
-        )
-    after = jpg.stat().st_size
-    print(f"{jpg.name:<60} {before/1024:>6.0f} Ko -> {after/1024:>6.0f} Ko")
-```
-
-Si une seule photo est nouvelle, restreindre la boucle à ce fichier
-(traitement idempotent mais perd un peu de qualité à chaque passe).
-
-### Workflow d'ajout d'une nouvelle photo
-
-1. L'utilisateur dépose le JPEG brut dans `Photos/`.
-2. Exécuter `resize_photos.py` (ciblé sur le nouveau fichier).
-3. Vérifier le poids final :
-
-   ```powershell
-   Get-ChildItem Photos\*.jpg | Sort-Object Length -Descending |
-     Select-Object -First 5 Name, @{N='KB';E={[int]($_.Length/1KB)}}
-   ```
-
-4. Référencer la photo dans la/les recette(s) concernée(s), et selon le cas
-   dans l'`index.md` racine et/ou le `README.md`. Chemins :
-   * depuis une sous-section (`Pain/`, `Patisserie/`, …) : `../Photos/NOM.jpg`
-   * depuis le `README.md` (racine) : `Photos/NOM.jpg`
-   * depuis l'`index.md` racine (Jekyll) :
-     `{{ '/Photos/NOM.jpg' | relative_url }}` (cf. section Jekyll).
-
-5. Supprimer `resize_photos.py` puis commiter (photos + références `.md`).
-
-### Si une photo lourde a déjà été commitée par erreur
-
-Un commit correctif ne suffit pas : le blob lourd reste dans l'historique
-git. Procéder à une réécriture d'historique (reset + cherry-pick), puis
-`git gc --prune=now --aggressive`, et prévenir l'utilisateur qu'il faudra
-force-pusher (`git push --force-with-lease`).
+reformater, traduire, raccourcir ni adapter localement ses fichiers. Seule une
+mise à jour par copie fidèle de la source amont est autorisée ; indiquer la
+version ou le commit amont dans le message de commit. Toute consigne propre
+au projet doit rester hors de ce dossier.

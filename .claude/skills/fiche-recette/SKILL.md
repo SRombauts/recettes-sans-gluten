@@ -1,129 +1,114 @@
 ---
 name: fiche-recette
 description: >-
-  Rédiger, réviser ou maintenir une fiche recette du dépôt recettes-sans-gluten :
-  structure du corps de la fiche, section « Notes » organisée par objectif,
-  méthodologie de l'analyse nutritionnelle pour 100 g, et liens entre variantes
-  (avec / sans beurre). À utiliser dès qu'on ajoute une recette, qu'on en révise
-  une, ou qu'on recalcule une analyse nutritionnelle. Le front matter Jekyll, le
-  `nav_order`, les liens internes et les photos sont décrits dans `AGENTS.md` —
-  ne pas les dupliquer ici, s'y référer.
+  Créer, réviser ou maintenir une recette ou un mélange de farines du dépôt :
+  structure, notes, variantes avec ou sans beurre, calcul et présentation de
+  l'analyse nutritionnelle pour 100 g.
 ---
 
-# Rédiger / réviser une fiche recette
+# Fiches de recettes et mélanges
 
-Conventions du **corps** d'une fiche (le front matter YAML, `nav_order`, liens
-`relative_url` et photos sont dans `AGENTS.md`, section Jekyll/Photos). Les
-objectifs du projet et leur priorité — qui gouvernent tous les arbitrages
-ci-dessous — sont la source unique dans `AGENTS.md`, section « Objectifs » ; s'y
-référer plutôt que de les recopier.
+Les objectifs et le workflow commun sont définis dans
+[AGENTS.md](../../../AGENTS.md). Pour le front matter, les index et les liens,
+utiliser [site-jekyll](../site-jekyll/SKILL.md).
 
-## Squelette d'une fiche
+## Structure
 
-Un seul `#` (H1) par page ; les sections sont en `##`, les sous-points de Notes
-en `###`. La fiche la plus aboutie à recopier est `Patisserie/ClafoutisCerises.md`.
+Un seul titre `#` par page est la convention du projet. Utiliser `##` pour les
+sections et `###` pour les sous-sections de Notes. Adapter ce gabarit au type
+de fiche : un mélange sec n'a pas de cuisson, un levain peut avoir une section
+d'entretien. Toujours nommer la liste d'ingrédients et inclure l'analyse.
 
 ```markdown
-# <Titre> sans gluten[ (avec beurre)]
+# <Titre> sans gluten
 
-[*Variante sans beurre : [<Titre> sans beurre](XxxSansBeurre.md).*]
+*Variante sans beurre : [<Titre> sans beurre](XxxSansBeurre.md).*
 
-<1-2 phrases : ce qui caractérise la recette + écarts volontaires vs la version
-classique, motivés par les objectifs.>
+<Une ou deux phrases sur la recette et ses écarts volontaires au classique.>
 
-## Ingrédients[ (pour N personnes)]
+## Ingrédients (pour N personnes)
 
-* quantités alignées, lien vers `MixFarinesPatisserie.md` au premier usage
+* Quantités et lien vers la fiche du mélange de farines au premier usage.
 
 ## Préparation
 
-1. étapes numérotées
+1. Étapes numérotées.
 
 ## Cuisson
 
-* four/poêle, températures, durées, repères visuels
+* Four ou poêle, température, durée et repères visuels.
 
 ## Analyse nutritionnelle pour 100 g
 
 ## Notes
 ```
 
-Pièges déjà rencontrés :
+La ligne de variante n'est présente que si cette variante existe. Les recettes
+existantes illustrent des choix culinaires ; le gabarit fait référence pour
+la structure.
 
-* **Plusieurs `#` (H1) dans une page** = erreur Markdown ; les vieilles fiches
-  (`Crepes.md`, `Gaufres.md` à l'origine) en avaient, à corriger en `##`.
-* Liste d'**ingrédients sans en-tête** `## Ingrédients` : toujours l'ajouter.
+## Notes par objectif
 
-## Section « Notes » par objectif
+Commencer par les indications pratiques utiles (conservation, ajustements,
+première fournée à tester), puis les sous-sections pertinentes :
 
-Gabarit le plus utile (cf. Clafoutis / Crêpes) : d'abord quelques puces
-**pratiques** (conservation, ajustements, « première fournée = test »), puis des
-`###` classés **par objectif du projet** :
+* Réduire ou parfumer sans sucre raffiné : fruits, compote, vanille, zestes,
+  ou sucre complet en quantité minimale.
+* Limiter les graisses saturées : substitutions du beurre, lait écrémé.
+* Augmenter les protéines : whey neutre, skyr, fromage blanc, poudre
+  d'amandes ; renvoi vers `Notes/AugmenterTauxProteines.md` à la racine.
+* Variantes : autres fruits, salé, sans lactose ou végétal.
 
-* `### Réduire / Parfumer sans sucre raffiné` — sucre complet (rapadura,
-  muscovado : **non raffiné**, donne une teinte caramel via Maillard), vanille,
-  zestes, compote pour remplacer le sucre, etc.
-* `### Limiter les graisses saturées` — version sans beurre inline, beurre
-  noisette à gras égal, lait écrémé.
-* `### Augmenter les protéines / baisser l'IG` — whey neutre, Skyr/fromage
-  blanc, poudre d'amandes ; renvoyer vers `Notes/AugmenterTauxProteines.md`.
-* `### Variantes` — autres fruits, salé/sarrasin, sans lactose/végétal.
+Expliquer l'intérêt et le compromis des substitutions. Chiffrer leur impact
+nutritionnel quand le calcul est simple.
 
-Chiffrer l'impact quand c'est simple (« ~ +1 g de sucres / 100 g, négligeable »).
+## Variantes avec et sans beurre
 
-## Variantes avec / sans beurre
+Pour les pâtisseries, proposer deux variantes quand c'est pertinent :
 
-Politique des deux variantes (quand les créer, suffixe `SansBeurre`, gras de
-substitution, pas de sucre raffiné) : voir `AGENTS.md`, section « Deux
-variantes ». Côté craft de la fiche :
+* Avec beurre : plus gourmande, pour les enfants ; nom de fichier de base.
+* Sans beurre : variante visant moins de graisses saturées, avec purée
+  d'oléagineux, compote ou chocolat selon la recette ; suffixe `SansBeurre`.
 
-* Se **renvoient mutuellement** par une ligne en italique sous le titre.
-* L'`index.md` de section liste les deux avec leurs chiffres clés
-  (protéines / 100 g, parfois sucres ou AGS).
-* **Ne pas créer** de fichier `SansBeurre` quand le beurre est anecdotique
-  (ex. crêpes : 20 g) — le traiter en Note inline.
+Les deux restent sans sucre raffiné ajouté. Les fiches se renvoient
+mutuellement par une ligne en italique sous le titre. L'index de section
+liste les deux avec leurs chiffres clés (protéines pour 100 g, parfois
+sucres ou acides gras saturés).
+
+Quand le beurre est anecdotique (ex. 20 g dans les crêpes), expliquer la
+substitution dans les Notes plutôt que créer un fichier `SansBeurre`.
 
 ## Analyse nutritionnelle pour 100 g
 
-Toujours présente, **mise à jour à chaque changement d'ingrédient**. Méthode :
+1. Sommer chaque nutriment sur tous les ingrédients. Pour un mélange du
+   dépôt, lire sa fiche actuelle, par exemple
+   [Mix farines pâtisserie](../../../Patisserie/MixFarinesPatisserie.md) ;
+   ne pas maintenir une seconde copie de ses valeurs dans ce skill.
+2. Diviser les totaux par la masse du produit décrit (sec, cru ou cuit),
+   puis multiplier par 100.
+3. Préciser avant les valeurs : état cru ou cuit, masse retenue et hypothèse
+   de perte à la cuisson si elle est estimée, ingrédients comptés ou exclus
+   (ex. beurre du moule ou matière grasse de la poêle).
 
-1. Sommer chaque nutriment sur tous les ingrédients (utiliser
-   `MixFarinesPatisserie.md` pour le mix : 355 kcal, MG 2,3 / AGS 0,5, glucides
-   77,8 / sucres 1,3, fibres 4,0, prot 6,1, sel 0 pour 100 g).
-2. Diviser par la **masse totale** et ramener à 100 g.
-3. **Énoncer les hypothèses** juste avant le tableau : avant ou après cuisson,
-   % d'eau évaporée et masse cuite estimée, ce qui est **compté ou non**
-   (ex. « beurre du moule non compté », « hors matière grasse de la poêle »),
-   masse totale obtenue.
-
-Ordre et libellés exacts du bloc (espace insécable avant `:` typographique FR) :
-
-Pour chaque quantité en grammes, mettre uniquement la valeur numérique en
-gras, virgule comprise ; laisser le libellé et l'unité `g` hors du gras. La
-règle vaut aussi pour les sous-puces et les valeurs nulles (`**0** g`).
-L'énergie en kcal reste sans gras. Voir `AGENTS.md`, section « Analyse
-nutritionnelle pour 100g ».
+Pour les recettes et mélanges, mettre en gras uniquement les valeurs
+numériques exprimées en grammes, virgule comprise. Cela inclut les sous-puces
+et les zéros (`**0** g`). Libellés, unité `g`, kcal et quantités d'ingrédients
+restent hors de cette règle. Respecter cet ordre et ces libellés, avec une
+espace insécable avant `:` :
 
 ```markdown
-* Énergie : XXX kcal
-* Matières grasses : **X,X** g
-  * dont acides gras saturés : **X,X** g
-* Glucides : **XX,X** g
-  * dont sucres : **X,X** g
-* Fibres : **X,X** g
-* Protéines : **X,X** g
-* Sel : **X,XX** g
+* Énergie : XXX kcal
+* Matières grasses : **X,X** g
+  * dont acides gras saturés : **X,X** g
+* Glucides : **XX,X** g
+  * dont sucres : **X,X** g
+* Fibres : **X,X** g
+* Protéines : **X,X** g
+* Sel : **X,XX** g
 ```
 
-Repères de cohérence : œuf ≈ 50 g ; lait demi-écrémé ≈ 46 kcal, 1,6 g MG (dont
-~1 g AGS), 4,8 g sucres, 3,3 g prot / 100 mL ; beurre ≈ 81 g MG dont ~51 g AGS /
-100 g (donc 20 g de beurre ≈ 10 g AGS) ; huile ≈ 90 kcal/10 g.
-
-## Workflow (rappel `AGENTS.md`)
-
-Éditer directement, corriger sans demander les erreurs évidentes / de calcul /
-d'oubli de mise à jour, recalculer l'analyse, **committer immédiatement** avec un
-message court. Pour `nav_order`, liens et photos : voir `AGENTS.md`.
-Si la demande modifie les instructions puis les applique aux fiches, committer
-d'abord les instructions, puis leur application dans un second commit, selon
-la règle de séparation des sujets du workflow d'`AGENTS.md`.
+Repères de cohérence : œuf sans coquille environ 50 g ; lait demi-écrémé
+environ 46 kcal, 1,6 g de matières grasses dont 1 g d'acides gras saturés,
+4,8 g de sucres et 3,3 g de protéines pour 100 mL ; beurre environ 81 g de
+matières grasses dont 51 g d'acides gras saturés pour 100 g ; huile environ
+90 kcal pour 10 g. Ces repères ne remplacent pas les données des ingrédients.
