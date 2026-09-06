@@ -10,20 +10,20 @@ nav_order: 2
 
 Base sans graines pour les essais d'aération, avec graines en option.
 
-## Ingrédients (1192 g de pâte sans graines, 1292 g avec graines)
+## Ingrédients (1194 g de pâte sans graines, 1294 g avec graines)
 
 * Eau ajoutée, trempage compris :
   * 450 g sans graines (hydratation ≈92 %)
   * 480 g avec 70 g de graines (hydratation ≈97 %, dose à tester)
 *  70 g de graines, en option (lin, sésame, pavot, tournesol, etc.)
-*  17 g psyllium blond
-*   3 g gomme xanthane
+*  19 g psyllium blond
 
 * 200 g levain actif à 100 % d'hydratation
 *  12 g huile d'olive
 
 * 500 g [mélange farines/fécules pour pain](MixFarinesPain.md)
 *  10 g sel
+*   3 g gomme xanthane
 
 Les deux quantités d'eau sont des repères provisoires à affiner. Le pâton
 doit rester très souple et assez collant, tout en gardant sa forme. Les taux
@@ -40,11 +40,10 @@ sont pas comptées comme de la farine.
 2. Si les graines sont utilisées, les faire tremper pendant que le levain
    fermente, au moins 2 h pour le lin. Prélever l'eau de trempage sur les
    480 g prévus pour cette option et l'incorporer entièrement à la pâte.
-3. Mélanger le psyllium et la gomme xanthane avec l'eau, puis laisser gélifier
-   5 minutes.
+3. Mélanger le psyllium avec l'eau, puis laisser gélifier au moins 5 minutes.
 4. Ajouter le levain et l'huile.
-5. Ajouter le mélange de farines et fécules, puis le sel et les graines
-   éventuelles. Mélanger jusqu'à obtenir une pâte homogène.
+5. Ajouter le mélange de farines et fécules, puis le sel et la gomme xanthane.
+   Mélanger jusqu'à obtenir une pâte homogène.
 6. Noter l'heure de fin de mélange, point de départ du planning. Façonner
    une boule bien lisse et la placer dans son récipient de pousse.
 7. Laisser fermenter vers 27 à 29 °C. Pour le prochain essai, prévoir
