@@ -2,7 +2,7 @@
 name: fiche-recette
 description: >-
   Créer, réviser ou maintenir une recette ou un mélange de farines du dépôt :
-  structure, notes, variantes avec ou sans beurre, calcul et présentation de
+  structure, notes, adaptations facultatives, calcul et présentation de
   l'analyse nutritionnelle pour 100 g.
 ---
 
@@ -53,9 +53,10 @@ la structure.
 Commencer par les indications pratiques utiles (conservation, ajustements,
 première fournée à tester), puis les sous-sections pertinentes :
 
-* Réduire ou parfumer sans sucre raffiné : fruits, compote, vanille, zestes,
-  ou sucre complet en quantité minimale.
-* Limiter les graisses saturées : substitutions du beurre, lait écrémé.
+* Réduire le sucre ajouté lorsque la recette est trop dosée ; en option,
+  remplacer tout ou partie du sucre raffiné par compote, banane ou dattes.
+* Limiter les graisses saturées : réduire le beurre ou proposer une
+  substitution si elle est utile, sans imposer sa suppression.
 * Augmenter les protéines : whey neutre, skyr, fromage blanc, poudre
   d'amandes ; renvoi vers `Notes/AugmenterTauxProteines.md` à la racine.
 * Variantes : autres fruits, salé, sans lactose ou végétal.
@@ -63,21 +64,28 @@ première fournée à tester), puis les sous-sections pertinentes :
 Expliquer l'intérêt et le compromis des substitutions. Chiffrer leur impact
 nutritionnel quand le calcul est simple.
 
-## Variantes avec et sans beurre
+## Reprise fidèle et adaptations facultatives
 
-Pour les pâtisseries, proposer deux variantes quand c'est pertinent :
+Lors d'une reprise demandée telle quelle, conserver les ingrédients, quantités
+et étapes de la source. Ajouter la structure du dépôt, le lien vers la source
+et l'analyse nutritionnelle, sans reformuler la composition pour atteindre
+les objectifs. Signaler une incohérence de la source au lieu de la corriger
+silencieusement. Les suggestions éventuelles restent distinctes de la recette.
 
-* Avec beurre : plus gourmande, pour les enfants ; nom de fichier de base.
-* Sans beurre : variante visant moins de graisses saturées, avec purée
-  d'oléagineux, compote ou chocolat selon la recette ; suffixe `SansBeurre`.
+Ne pas proposer ou créer systématiquement de variante sans sucre ou sans beurre.
+Une petite quantité de beurre est compatible avec les objectifs ; le beurre du
+moule est accepté, y compris dans une variante dite « sans beurre ». Dans ce
+cas, préciser « sans beurre dans la pâte ; beurre pour le moule » : il s'agit
+d'un choix nutritionnel, pas d'une garantie d'absence d'allergènes.
 
-Les deux restent sans sucre raffiné ajouté. Les fiches se renvoient
-mutuellement par une ligne en italique sous le titre. L'index de section
-liste les deux avec leurs chiffres clés (protéines pour 100 g, parfois
-sucres ou acides gras saturés).
-
-Quand le beurre est anecdotique (ex. 20 g dans les crêpes), expliquer la
-substitution dans les Notes plutôt que créer un fichier `SansBeurre`.
+Si une adaptation est demandée ou utile, expliquer son intérêt et ses effets
+attendus sur le goût, la texture et la nutrition. Une suggestion simple suffit
+dans les Notes ; créer une fiche distincte seulement si elle est justifiée par
+la demande ou l'ampleur des changements. Pour une variante sans beurre dans la
+pâte, conserver le suffixe `SansBeurre`. Si deux fiches existent, les relier
+mutuellement par une ligne en italique sous le titre et les lister dans l'index
+avec leurs chiffres clés. Ne pas annoncer l'absence de sucre raffiné ajouté
+si les ingrédients en apportent, y compris le sucre vanillé ou le chocolat.
 
 ## Analyse nutritionnelle pour 100 g
 

@@ -10,12 +10,16 @@ Par ordre de priorité décroissante :
 
 1. Goût agréable, doux mais riche, subtil.
 2. Texture, consistance, légèreté et aération.
-3. Éviter autant que possible le sucre raffiné ajouté ; privilégier les fruits
-   (banane, compote) ou une sucrosité minimale.
+3. Limiter l'apport de sucre raffiné ajouté, en réduisant les quantités
+   excessives ; le remplacement par des fruits reste une option.
 4. Augmenter les protéines, avec un objectif d'IG modéré en prévention du
    diabète de type 2 et pour soutenir une activité physique régulière.
 5. Limiter les graisses saturées, en prévention du cholestérol.
 6. Garder un prix contenu.
+
+Ces objectifs guident les adaptations ; ils n'imposent ni suppression du sucre
+ou du beurre, ni création de variantes. Respecter une demande de reprise
+fidèle d'une recette, notamment depuis un site web.
 
 ## Travail dans le dépôt
 
