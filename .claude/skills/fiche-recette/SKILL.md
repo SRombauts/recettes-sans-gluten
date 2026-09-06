@@ -89,15 +89,30 @@ si les ingrédients en apportent, y compris le sucre vanillé ou le chocolat.
 
 ## Analyse nutritionnelle pour 100 g
 
-1. Sommer chaque nutriment sur tous les ingrédients. Pour un mélange du
-   dépôt, lire sa fiche actuelle, par exemple
-   [Mix farines pâtisserie](../../../Patisserie/MixFarinesPatisserie.md) ;
-   ne pas maintenir une seconde copie de ses valeurs dans ce skill.
-2. Diviser les totaux par la masse du produit décrit (sec, cru ou cuit),
-   puis multiplier par 100.
-3. Préciser avant les valeurs : état cru ou cuit, masse retenue et hypothèse
-   de perte à la cuisson si elle est estimée, ingrédients comptés ou exclus
-   (ex. beurre du moule ou matière grasse de la poêle).
+1. Lire les lignes utiles de la [référence nutritionnelle](references/nutrition.md).
+   Réutiliser les valeurs locales adaptées à l'ingrédient ; chercher une source
+   externe seulement si une donnée manque, si le produit diffère ou si une
+   actualisation est demandée. Enregistrer les nouvelles valeurs avec leur
+   source dans cette référence. Pour un mélange du dépôt, utiliser sa fiche
+   actuelle, sans recopier ses résultats dans la référence.
+2. Ramener chaque quantité à la base de sa donnée (100 g ou 100 mL), en comptant
+   la partie comestible. Consigner les conversions et ingrédients comptés ou
+   exclus. Calculer chaque contribution : quantité × valeur pour 100 / 100,
+   puis sommer par nutriment. Ne pas assimiler une donnée manquante à zéro.
+3. Diviser les totaux par la masse du produit décrit, puis multiplier par 100.
+   Indiquer avant les valeurs l'état sec, cru ou cuit et la masse retenue,
+   estimée ou mesurée. Conserver la masse de référence existante sauf nouvelle
+   mesure ou changement de recette ; ne pas imposer de pesée supplémentaire.
+4. Garder les décimales pendant le calcul, arrondir seulement à l'affichage.
+   Conserver dans la référence nutritionnelle les choix de données et
+   conversions propres à la fiche qui ne sont pas déjà explicités sur la page.
+5. Lorsqu'un ingrédient, une valeur de référence ou un mélange change, chercher
+   ses usages dans le dépôt (`rg`), puis recalculer les fiches concernées, y
+   compris les dépendances indirectes (mélange → levain → pain). Actualiser
+   aussi les chiffres repris dans les variantes, notes, index et comparaisons.
+   Vérifier les quantités, les unités et la concordance de ces reprises avant
+   le commit. Une nouvelle entrée de référence seule ne justifie pas de refaire
+   toutes les recettes ; signaler les données anciennes non encore vérifiées.
 
 Pour les recettes et mélanges, mettre en gras uniquement les valeurs
 numériques exprimées en grammes, virgule comprise. Cela inclut les sous-puces
@@ -115,9 +130,3 @@ espace insécable avant `:` :
 * Protéines : **X,X** g
 * Sel : **X,XX** g
 ```
-
-Repères de cohérence : œuf sans coquille environ 50 g ; lait demi-écrémé
-environ 46 kcal, 1,6 g de matières grasses dont 1 g d'acides gras saturés,
-4,8 g de sucres et 3,3 g de protéines pour 100 mL ; beurre environ 81 g de
-matières grasses dont 51 g d'acides gras saturés pour 100 g ; huile environ
-90 kcal pour 10 g. Ces repères ne remplacent pas les données des ingrédients.

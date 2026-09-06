@@ -12,8 +12,7 @@ Par ordre de priorité décroissante :
 2. Texture, consistance, légèreté et aération.
 3. Limiter l'apport de sucre raffiné ajouté, en réduisant les quantités
    excessives ; le remplacement par des fruits reste une option.
-4. Augmenter les protéines, avec un objectif d'IG modéré en prévention du
-   diabète de type 2 et pour soutenir une activité physique régulière.
+4. Augmenter les protéines pour soutenir une activité physique régulière.
 5. Limiter les graisses saturées, en prévention du cholestérol.
 6. Garder un prix contenu.
 
