@@ -10,13 +10,13 @@ nav_order: 2
 
 Base sans graines pour les essais d'aération, avec graines en option.
 
-## Ingrédients (1194 g de pâte sans graines, 1294 g avec graines)
+## Ingrédients (1193 g de pâte sans graines, 1293 g avec graines)
 
 * Eau ajoutée, trempage compris :
   * 450 g sans graines (hydratation ≈92 %)
   * 480 g avec 70 g de graines (hydratation ≈97 %, dose à tester)
 *  70 g de graines, en option (lin, sésame, pavot, tournesol, etc.)
-*  19 g psyllium blond
+*  18 g psyllium blond
 
 * 200 g levain actif à 100 % d'hydratation
 *  12 g huile d'olive
@@ -124,9 +124,9 @@ Noter la température, les horaires et le gonflement à l'enfournement. Les
 
 ### Améliorer la tenue sans trop raffermir la mie
 
-Les 17 g de psyllium représentent 3,4 % des 500 g de mix ajouté, contre
-2,8 % avec 14 g : c'est une hausse d'environ 21 %. En comptant les 100 g de
-farines du levain, le taux passe de 2,3 à 2,8 %. Ce palier peut améliorer la
+Les 18 g de psyllium représentent 3,6 % des 500 g de mix ajouté, contre
+2,8 % avec 14 g : c'est une hausse d'environ 29 %. En comptant les 100 g de
+farines du levain, le taux passe de 2,3 à 3 %. Ce palier peut améliorer la
 tenue du pâton, mais son effet sur l'aération reste à vérifier.
 
 Pour cet essai sans graines, conserver les 450 g d'eau, les 3 g de xanthane
