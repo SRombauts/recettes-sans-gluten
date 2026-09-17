@@ -18,5 +18,5 @@ conservent à température ambiante.
 - [Pâte à tartiner chocolat noir et noisette](PateATartinerChocolatNoirNoisette.md)
   — cacao ~ 30 %, 10,3 g de protéines / 100 g.
 - [Pâte à tartiner chocolat noir et amande](PateATartinerChocolatNoirAmande.md)
-  — cacao ~ 30 %, 14,0 g de protéines / 100 g, plus riche en fibres et plus
+  — cacao ~ 29 %, 14,5 g de protéines / 100 g, plus riche en fibres et plus
   économique.
