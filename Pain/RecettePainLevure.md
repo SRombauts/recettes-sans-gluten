@@ -1,7 +1,7 @@
 ---
 title: Pain à la levure ~0,85 kg
 parent: Pain
-nav_order: 3
+nav_order: 2
 ---
 
 # Pain à la levure sans gluten à la cocotte (≈0,85 kg cuit)

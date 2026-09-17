@@ -1,7 +1,7 @@
 ---
 title: Mix farines pour pain
 parent: Pain
-nav_order: 1
+nav_order: 3
 ---
 
 # Mix farines et fécules pour pain
