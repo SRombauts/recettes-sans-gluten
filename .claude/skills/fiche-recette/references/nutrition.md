@@ -99,8 +99,8 @@ Ne pas dupliquer les compositions, résultats des mélanges ou analyses finales.
   moyenne. La fiche exclut les sucres non renseignés des herbes. Ces
   correspondances sont documentées ici sans recalcul de la fiche historique.
 * `PateATartiner/PateATartinerChocolatNoirAmande.md` : purée d'amandes complètes
-  assimilée à l'amande avec peau 15000 ; huile de colza 17130. Les autres
-  contributions sont reprises de l'analyse historique de la fiche, faute de
-  traçabilité plus précise ; masse finale retenue : 451 g, sans perte.
+  assimilée à l'amande avec peau 15000 ; huile de colza 17130 ; sel 11017. Les
+  autres contributions sont reprises de l'analyse historique de la fiche, faute
+  de traçabilité plus précise ; masse finale retenue : 450,5 g, sans perte.
 * Autres fiches : provenance détaillée des calculs historiques non consignée.
   Compléter lors de leur prochaine révision, sans inventer leurs sources.

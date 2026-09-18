@@ -15,28 +15,29 @@ conserve à température ambiante.
 
 ## Ingrédients
 
-- 200 g (44,3 %) de chocolat Nestlé Dessert Corsé 65 % (une tablette)
-  - soit 28,8 % de cacao
-- 200 g (44,3 %) de purée d'amandes complètes
+- 200 g (44,4 %) de chocolat Nestlé Dessert Corsé 65 % (une tablette)
+  - soit 28,9 % de cacao
+- 200 g (44,4 %) de purée d'amandes complètes
 - 50 g (11,1 %) d'huile de colza
-- 1 g (0,2 %) de sel fin
+- 0,5 g (0,1 %) de sel très fin
 
 ## Analyse nutritionnelle pour 100 g
 
-Estimation pour la pâte finie, sur une masse de **451** g (sans perte).
+Estimation pour la pâte finie, sur une masse de **450,5** g (sans perte).
 
-- Énergie : 621 kcal
+- Énergie : 622 kcal
 - Matières grasses : **51,7** g
   - dont acides gras saturés : **13,1** g
 - Glucides : **19,0** g
   - dont sucres : **15,8** g
 - Fibres : **8,6** g
 - Protéines : **14,5** g
-- Sel : **0,28** g
+- Sel : **0,18** g
 
 ## Préparation
 
-1. Mélanger la purée d'amandes, l'huile de colza et le sel.
+1. Mélanger longuement la purée d'amandes, l'huile de colza et le sel pour bien
+   disperser celui-ci.
 2. Tiédir légèrement le mélange pour qu'il soit bien souple.
 3. Faire fondre doucement le chocolat.
 4. Incorporer le chocolat fondu en mélangeant vigoureusement jusqu'à obtenir une
@@ -65,6 +66,12 @@ facile à tartiner, conserver cette formule.
 - Conserver à température ambiante, hors réfrigérateur.
 
 ## Notes
+
+### Sel
+
+Cette pâte ne contient pas d'eau : le sel ne s'y dissout pas, même lorsqu'il est
+très fin. La dose de 1 g pouvait donc laisser quelques pointes salées. Elle est
+ramenée à 0,5 g pour un goût plus doux ; bien mélanger reste nécessaire.
 
 ### Variante avec chocolat noir 52 % (Nestlé Dessert « Noir »)
 
