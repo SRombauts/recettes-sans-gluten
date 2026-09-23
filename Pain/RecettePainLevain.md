@@ -1,10 +1,10 @@
 ---
-title: Pain au levain ~0,9 kg
+title: Pain au levain ~1,0 kg
 parent: Pain
 nav_order: 1
 ---
 
-# Pain au levain sans gluten à la cocotte (≈0,9 kg cuit)
+# Pain au levain sans gluten à la cocotte (≈1,0 kg cuit)
 
 ![Pain au levain sans gluten cuit à la cocotte, croûte scarifiée]({{ '/Photos/PXL_20260328_083811648_PainCuit.jpg' | relative_url }})
 
