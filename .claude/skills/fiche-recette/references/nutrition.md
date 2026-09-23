@@ -92,6 +92,15 @@ Pour chaque calcul nouveau ou révisé, ajouter ici une courte entrée par chemi
 avec les codes Ciqual/produits utilisés et les choix non visibles dans la fiche.
 Ne pas dupliquer les compositions, résultats des mélanges ou analyses finales.
 
+* `Pain/RecettePainLevain.md` : pour 1180 g de pâte sans graines, 500 g de mix
+  pour pain et 200 g de levain selon leurs fiches ; 17 g de psyllium assimilé
+  au produit Markal cité dans la recette (194 kcal, 2,2 g de glucides,
+  90 g de fibres et 0,8 g de protéines pour 100 g) ; 3 g de xanthane assimilés
+  à la fiche Cyranie citée (160 kcal, 80 g de fibres et 1,1 g de sel pour
+  100 g). Eau sans contribution nutritionnelle ; sel ajouté compté comme
+  10 g de sel. Masse cuite estimée à 78 % de la masse crue, soit 920,4 g.
+  Les valeurs sous les seuils de quantification de la xanthane sont assimilées
+  à zéro ; graines, huile facultative et farine de fleurage exclues.
 * `Cuisine/Ratatouille.md` : la fiche cite déjà Ciqual 2025 ; oignon 20034,
   aubergine 20053, poivron moyen 20041, courgette 20020, tomate moyenne 20385,
   huile d'olive 17270, herbes de Provence 11060 sont les correspondances
