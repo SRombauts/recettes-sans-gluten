@@ -65,11 +65,12 @@ Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 
 ## Analyse nutritionnelle pour 100 g
 
-Estimation sans graines ni farine de fleurage : 1180 g de pâte crue, environ
-920 g de pain cuit avec une perte de masse supposée de 22 %. La masse cuite
-reste à mesurer. Avec 70 g de graines et 480 g d'eau ajoutée, la pâte pèserait
-1280 g et donnerait environ 1000 g de pain cuit à perte de masse identique.
-Les valeurs ci-dessous concernent uniquement le pain sans graines.
+Pain sans graines : 1180 g de pâte crue d'après les ingrédients, puis 960 g
+de pain cuit pesé le lendemain après refroidissement. Le pain pesait 974 g,
+puis 970 g, encore chaud après la cuisson. La perte apparente entre la masse
+crue calculée et la masse refroidie est de 220 g, soit environ 18,6 % ;
+la pâte crue n'a pas été pesée. Les graines optionnelles et la farine de
+fleurage ne sont pas comprises dans le calcul nutritionnel ci-dessous.
 
 Calcul à partir des fiches du mix et du levain. Valeurs indicatives des
 liants : [psyllium à 90 % de fibres](https://www.markal.fr/en/product/psybtc350-blond-psyllium-husks-350)
@@ -77,14 +78,14 @@ et [xanthane à 80 % de fibres](https://cyranie.com/info/fiches/GOMXA-CA01-01000
 faute d'étiquettes des produits utilisés. Valeurs inférieures aux seuils de
 quantification de la xanthane assimilées à zéro.
 
-* Énergie : 237 kcal
-* Matières grasses : **1,5** g
+* Énergie : 227 kcal
+* Matières grasses : **1,4** g
   * dont acides gras saturés : **0,3** g
-* Glucides : **51,3** g
+* Glucides : **49,1** g
   * dont sucres : **0,8** g
-* Fibres : **4,6** g
-* Protéines : **4,1** g
-* Sel : **1,09** g
+* Fibres : **4,4** g
+* Protéines : **4,0** g
+* Sel : **1,05** g
 
 ## Notes
 

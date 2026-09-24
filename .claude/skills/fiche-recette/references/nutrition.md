@@ -98,7 +98,9 @@ Ne pas dupliquer les compositions, résultats des mélanges ou analyses finales.
   90 g de fibres et 0,8 g de protéines pour 100 g) ; 3 g de xanthane assimilés
   à la fiche Cyranie citée (160 kcal, 80 g de fibres et 1,1 g de sel pour
   100 g). Eau sans contribution nutritionnelle ; sel ajouté compté comme
-  10 g de sel. Masse cuite estimée à 78 % de la masse crue, soit 920,4 g.
+  10 g de sel. Masse cuite mesurée le lendemain après refroidissement : 960 g
+  (974 g, puis 970 g, encore chaud) ; masse crue de 1180 g calculée à partir
+  des ingrédients, non pesée.
   Les valeurs sous les seuils de quantification de la xanthane sont assimilées
   à zéro ; graines, huile facultative et farine de fleurage exclues.
 * `Cuisine/Ratatouille.md` : la fiche cite déjà Ciqual 2025 ; oignon 20034,
