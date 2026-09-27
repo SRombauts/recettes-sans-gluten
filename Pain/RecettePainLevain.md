@@ -10,7 +10,7 @@ nav_order: 1
 
 Pain sans graines, avec graines en option.
 
-## Ingrédients (1180 g de pâte sans graines, 1280 g avec graines)
+## Ingrédients (1180 g de pâte, 1280 g avec graines)
 
 * Eau ajoutée, trempage compris :
   * 450 g sans graines (hydratation ≈92 %)
@@ -65,12 +65,11 @@ Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 
 ## Analyse nutritionnelle pour 100 g
 
-Pain sans graines : 1180 g de pâte crue d'après les ingrédients, puis 960 g
-de pain cuit pesé le lendemain après refroidissement. Le pain pesait 974 g,
-puis 970 g, encore chaud après la cuisson. La perte apparente entre la masse
-crue calculée et la masse refroidie est de 220 g, soit environ 18,6 % ;
-la pâte crue n'a pas été pesée. Les graines optionnelles et la farine de
-fleurage ne sont pas comprises dans le calcul nutritionnel ci-dessous.
+Pain sans graines : 1180 g de pâte crue, puis 960 g de pain cuit pesé le
+lendemain après refroidissement. Le pain pesait 974 g encore chaud après la
+cuisson. La perte entre la masse crue calculée et la masse refroidie est de
+220 g, soit environ 18,6 %. 
+Les graines optionnelles ne sont pas comprises dans le calcul nutritionnel ci-dessous.
 
 Calcul à partir des fiches du mix et du levain. Valeurs indicatives des
 liants : [psyllium à 90 % de fibres](https://www.markal.fr/en/product/psybtc350-blond-psyllium-husks-350)
