@@ -40,16 +40,18 @@ sont pas comptées comme de la farine.
    480 g prévus pour cette option et l'incorporer entièrement à la pâte.
 3. Mélanger le psyllium avec l'eau, puis laisser gélifier au moins 5 minutes.
 4. Ajouter le levain.
-5. Ajouter le mélange de farines et fécules, puis le sel, la gomme xanthane et
-   les graines éventuelles. Mélanger jusqu'à obtenir une pâte homogène.
+5. Mélanger soigneusement le sel et la gomme xanthane aux farines et fécules
+   sèches avant de les incorporer au gel et au levain. Ajouter les graines
+   éventuelles. Mélanger très soigneusement, en raclant le fond et les parois,
+   jusqu'à obtenir une pâte homogène, sans amas de gel ni poches de farine.
 6. Noter l'heure de fin de mélange, point de départ du planning. Façonner
-   une boule bien lisse et la placer dans son récipient de pousse.
-7. Laisser fermenter vers 27 à 29 °C. Prévoir l'enfournement vers 4 h après
-   la fin du mélange, avec un gonflement visé
-   d'environ 50 %, sans chercher à dépasser 60 %.
-8. Allumer le four avec la cocotte à 3 h 15 après la fin du mélange.
-   Avec 40 à 45 minutes de chauffe, enfourner vers 3 h 55 à 4 h, dès que
-   le four atteint 240 °C. Voir la note sur le planning ci-dessous.
+   une boule bien lisse, sans introduire de farine dans les replis, puis la
+   placer dans le banneton. Garder la farine de fleurage à l'extérieur.
+7. Laisser fermenter à 28 à 30 °C pendant 4 h après la fin du mélange.
+8. À 4 h, allumer le four avec la cocotte. Laisser le pâton poursuivre sa
+   fermentation pendant les quelque 40 minutes de préchauffage jusqu'à
+   240 °C. Enfourner vers 4 h 40 de fermentation totale. Voir la note sur
+   le planning ci-dessous.
 9. Transférer délicatement le pâton sans le refaçonner, fariner, scarifier
    et enfourner immédiatement dans la cocotte brûlante.
 
@@ -96,15 +98,17 @@ l'analyse nutritionnelle ci-dessus.
 
 ### Caler la fermentation sur le préchauffage
 
-Le four met 40 à 45 minutes à atteindre 240 °C et ne doit pas attendre à vide.
-Fixer son heure d'allumage à l'avance d'après la température de fermentation
-et les fournées précédentes. Le repère actuel est 3 h 15 après la fin du
-mélange, pour une cuisson vers 4 h à 27 à 29 °C. Le préchauffage fait partie
-des 4 h de fermentation : il ne s'y ajoute pas.
+Procédure actuelle : allumer le four 4 h après la fin du mélange, avec une
+fermentation à 28 à 30 °C, puis enfourner après environ 40 minutes de
+préchauffage. Le pâton continue de fermenter pendant ce temps : la durée
+totale est donc d'environ 4 h 40.
 
-Le gonflement sert à vérifier puis à ajuster ce planning entre les fournées,
-pas à attendre le volume cible pour allumer le four. Si le pâton atteint
-régulièrement 50 à 60 % trop tôt, avancer l'allumage et l'enfournement au
-prochain pain ; s'il est insuffisamment développé, les décaler plus tard.
-Noter la température, les horaires et le gonflement à l'enfournement. Les
-4 h sont un point de départ pour ces conditions, pas une limite universelle.
+Fixer l'heure d'allumage à l'avance. Le gonflement, difficile à mesurer dans
+le banneton, ne sert pas à déclencher le préchauffage : la pâte peut encore
+évoluer rapidement pendant les 40 minutes suivantes. Noter la température,
+les heures d'allumage et d'enfournement, ainsi que l'aspect du pâton au transfert.
+Le gonflement et un éventuel affaissement servent de retour pour ajuster
+l'horaire de la fournée suivante.
+
+Ce planning décrit la pratique actuelle ; sa durée reste à évaluer selon
+la vigueur du levain, la température et le résultat après cuisson.
