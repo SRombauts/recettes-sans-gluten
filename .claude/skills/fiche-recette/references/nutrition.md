@@ -115,3 +115,24 @@ Ne pas dupliquer les compositions, résultats des mélanges ou analyses finales.
   de traçabilité plus précise ; masse finale retenue : 450,5 g, sans perte.
 * Autres fiches : provenance détaillée des calculs historiques non consignée.
   Compléter lors de leur prochaine révision, sans inventer leurs sources.
+
+## Graines : références produits consultées le 29 septembre 2026
+
+Valeurs pour 100 g de graines sèches, partie comestible, sans ajout de sel.
+Références de calcul en l'absence des étiquettes des produits réellement utilisés.
+
+| Produit Markal | kcal | Lipides | AGS | Glucides | Sucres | Fibres | Protéines | Sel |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| [Lin brun GRALBS20](https://www.markal.fr/produit/gralbs20-graines-de-lin-brun) | 498 | 40 | 3,7 | 1 | 1 | 28 | 20 | 0,09 |
+| [Lin doré GRALDC250, fiche du 22/02/2018](https://www.biodis.be/assets/a88ae797-3736-4a86-9bf2-345f77a6ddab/graldc250-graines-lin-dore-25.pdf) | 498 | 40 | 3,7 | 1 | 1 | 27,9 | 19,5 | 0,09 |
+| [Tournesol français GRATFRC200](https://www.markal.fr/produit/gratfrc200-graines-de-tournesol-francaises-200-bio-markal) | 628 | 53 | 6,2 | 10 | 2,6 | 6,4 | 25 | 0 |
+| [Sésame décortiqué SESDS3](https://www.markal.fr/produit/sesds3-sesame-decortique-bio) | 698 | 61 | 9 | 12 | 0 | 12 | 20 | 0 |
+| [Pavot GRAPC250](https://www.markal.fr/produit/GRAPC250-graines-de-pavot) | 520 | 42 | 4,5 | 8,6 | 3 | 20 | 18 | 0 |
+
+* `Pain/MixGrainesPain.md` : moyenne pondérée des cinq références ci-dessus,
+  sans perte de masse. Lin noir assimilé au lin brun, lin blond au lin doré ;
+  sésame assimilé au produit décortiqué, son type réel restant à confirmer.
+  La fiche du lin doré est une fiche fabricant ancienne hébergée par Biodis.
+  Les zéros de sel et de sucres sont ceux déclarés par le fabricant.
+  La fiche du pain au levain conserve son analyse sans graines ; l'ajout du
+  lien vers ce mélange optionnel ne modifie donc pas son calcul.

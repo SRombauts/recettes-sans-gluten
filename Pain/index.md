@@ -23,5 +23,8 @@ riz demi-complet, sorgho, millet, sarrasin et fécules de tapioca et maïs.
 - [Mix farines et fécules pour pain](MixFarinesPain.md) — base
   commune des pains, ~ 357 kcal et 5,6 g de protéines / 100 g.
 
+- [Mix graines pour pain](MixGrainesPain.md) — 50 % de lin, tournesol,
+  sésame et pavot ; dose actuelle de 70 g par pain au levain.
+
 Voir aussi la section [Levain]({{ '/Levain/' | relative_url }}) pour
 l'entretien et le rafraîchi du levain chef.

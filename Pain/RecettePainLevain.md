@@ -15,7 +15,7 @@ Pain sans graines, avec graines en option.
 * Eau ajoutée, trempage compris :
   * 450 g sans graines (hydratation ≈92 %)
   * 480 g avec 70 g de graines (hydratation ≈97 %)
-*  70 g de graines, en option (lin, sésame, pavot, tournesol, etc.)
+*  70 g de [mélange de graines pour pain](MixGrainesPain.md), en option
 *  17 g psyllium blond
 
 * 200 g levain actif à 100 % d'hydratation

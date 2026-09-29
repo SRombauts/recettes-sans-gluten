@@ -31,7 +31,7 @@ automatiquement à chaque changement d'ingrédients.
 ## Sections
 
 - [Pain]({{ '/Pain/' | relative_url }}) — pains au levain et à la levure, mix
-  de farines pour pain.
+  de farines et de graines pour pain.
 - [Levain]({{ '/Levain/' | relative_url }}) — entretien et rafraîchi du levain
   chef, mix de farines associé.
 - [Pâtisserie]({{ '/Patisserie/' | relative_url }}) — brownies, gâteaux, crêpes,
