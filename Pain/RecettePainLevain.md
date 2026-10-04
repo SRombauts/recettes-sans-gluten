@@ -10,13 +10,13 @@ nav_order: 1
 
 Pain sans graines, avec graines en option.
 
-## Ingrédients (1180 g de pâte, 1280 g avec graines)
+## Ingrédients (1182 g de pâte, 1282 g avec graines)
 
 * Eau ajoutée, trempage compris :
   * 450 g sans graines (hydratation ≈92 %)
   * 480 g avec 70 g de graines (hydratation ≈97 %)
 *  70 g de [mélange de graines pour pain](MixGrainesPain.md), en option
-*  17 g psyllium blond
+*  19 g psyllium blond
 
 * 200 g levain actif à 100 % d'hydratation
 
@@ -67,10 +67,11 @@ Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 
 ## Analyse nutritionnelle pour 100 g
 
-Pain sans graines : 1180 g de pâte crue, puis 960 g de pain cuit pesé le
-lendemain après refroidissement. Le pain pesait 974 g encore chaud après la
-cuisson. La perte entre la masse crue calculée et la masse refroidie est de
-220 g, soit environ 18,6 %. 
+Estimation pour le pain sans graines à 19 g de psyllium : 1182 g de pâte
+crue calculés. Le calcul conserve provisoirement la masse de référence de
+960 g cuits, mesurée le lendemain sur la version à 17 g de psyllium
+(1180 g de pâte crue calculés, 974 g de pain encore chaud). Cette ancienne
+fournée avait perdu 220 g, soit environ 18,6 % de sa masse crue.
 Les graines optionnelles ne sont pas comprises dans le calcul nutritionnel ci-dessous.
 
 Calcul à partir des fiches du mix et du levain. Valeurs indicatives des
@@ -79,16 +80,32 @@ et [xanthane à 80 % de fibres](https://cyranie.com/info/fiches/GOMXA-CA01-01000
 faute d'étiquettes des produits utilisés. Valeurs inférieures aux seuils de
 quantification de la xanthane assimilées à zéro.
 
-* Énergie : 227 kcal
+* Énergie : 228 kcal
 * Matières grasses : **1,4** g
   * dont acides gras saturés : **0,3** g
 * Glucides : **49,1** g
   * dont sucres : **0,8** g
-* Fibres : **4,4** g
+* Fibres : **4,6** g
 * Protéines : **4,0** g
 * Sel : **1,05** g
 
 ## Notes
+
+### Essai du 4 octobre 2026 : retour à 19 g de psyllium
+
+Après la baisse de 19 à 18 puis 17 g de psyllium en septembre, la mie
+présente des fissures et manque de cohésion, y compris sans graines.
+Un mélange soigneux et un façonnage sans farine dans les replis n'ont pas
+supprimé le défaut. La pâte sans graines reste très collante au façonnage.
+
+Pour le prochain essai, revenir directement à 19 g de psyllium avec
+450 g d'eau ajoutée, sans graines ni huile. Garder le reste du protocole
+et la durée de séchage actuellement utilisée pour comparer l'effet du
+psyllium. La variante avec graines reste hors de cet essai.
+
+Après refroidissement complet, comparer les fissures, la tenue des tranches
+et l'humidité de la mie. Ce retour à 19 g teste un manque de cohésion à
+l'hydratation actuelle ; son résultat reste à observer.
 
 ### Huile d'olive, en option
 
