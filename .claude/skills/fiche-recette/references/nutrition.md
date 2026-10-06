@@ -36,6 +36,7 @@ Les cellules vides sont représentées par `—`. Aucun des deux ne vaut zéro.
 
 | Code | Aliment | kcal | Lipides | AGS | Glucides | Sucres | Fibres | Protéines | Sel |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 2028 | Jus de citron, pur jus | 29,4 | 0,29 | 0,038 | 6,1 | 2,4 | 0,4 | 0,4 | 0,053 |
 | 4090 | Fécule de pomme de terre | 348 | 0,2 | 0,039 | 86,3 | - | 0,55 | 0 | 0,0094 |
 | 9510 | Amidon de maïs ou fécule de maïs | 365 | 0,05 | 0,009 | 90,4 | 0 | 0,9 | 0,26 | 0,023 |
 | 9520 | Farine de riz | 357 | 2,5 | 0,46 | 73,9 | 0,9 | 3,3 | 8 | < 0,13 |
@@ -70,6 +71,29 @@ Les cellules vides sont représentées par `—`. Aucun des deux ne vaut zéro.
 | 22002 | Oeuf, jaune (jaune d'oeuf), cru | 307 | 26,7 | 9,55 | 1,09 | 0,56 | 0 | 15,5 | 0,048 |
 | 31016 | Sucre blanc | 399 | 0 | 0 | 99,7 | 99,7 | 0 | 0 | 0,0054 |
 
+## Produits utilisés pour les pâtes de fruits
+
+Étiquettes fournies par l'utilisateur en octobre 2026 :
+
+* Gélifiant Sainte Lucie, sachet de 7 g : 65 % pectine E440i et 35 % saccharose.
+  Pour le calcul de `Confiserie/PatesDeFruits.md`, la fraction pectine est
+  comptée comme fibre et l'énergie est estimée avec les facteurs usuels de
+  2 kcal/g pour les fibres et 4 kcal/g pour le saccharose, soit environ
+  270 kcal pour 100 g de préparation gélifiante.
+* Purée pomme-banane Biofruits : 56 kcal, 0 g de lipides dont 0 g d'AGS,
+  13 g de glucides dont 12 g de sucres, 1,8 g de fibres, 0 g de protéines
+  et 0 g de sel pour 100 g.
+* Spécialité pomme-vanille sans sucres ajoutés : 55 kcal, < 0,5 g de lipides
+  dont < 0,1 g d'AGS, 12 g de glucides dont 11 g de sucres, 1,8 g de fibres,
+  < 0,5 g de protéines et < 0,01 g de sel pour 100 g.
+* Spécialité pomme-rhubarbe : pommes 45 %, rhubarbe 42 %, sucre, fibres de
+  citron et acide ascorbique ; 79 kcal, 0,2 g de lipides dont 0 g d'AGS,
+  17 g de glucides dont 17 g de sucres, 1,9 g de fibres, 0,5 g de protéines
+  et 0 g de sel pour 100 g.
+* Purée pomme-fraise-cassis Biofruits : 48 kcal, 0 g de lipides dont 0 g
+  d'AGS, 11 g de glucides dont 10 g de sucres, 1,8 g de fibres, 0 g de
+  protéines et 0 g de sel pour 100 g.
+
 ## Repères anciens non vérifiés
 
 Ces repères proviennent du dépôt avant cette extraction ; ils ne constituent
@@ -92,6 +116,12 @@ Pour chaque calcul nouveau ou révisé, ajouter ici une courte entrée par chemi
 avec les codes Ciqual/produits utilisés et les choix non visibles dans la fiche.
 Ne pas dupliquer les compositions, résultats des mélanges ou analyses finales.
 
+* `Confiserie/PatesDeFruits.md` : analyse de la base testée uniquement :
+  500 g de purée de pommes Ciqual 13187, 400 g de sucre blanc Ciqual 31016,
+  14 g de gélifiant Sainte Lucie décrit ci-dessus et 20 g de jus de citron
+  Ciqual 2028. Masse finale estimée à 650 g avant séchage et enrobage, faute
+  de pesée de la première fournée ; l'analyse est donc indicative. Les
+  variantes de purée ne sont pas incluses dans ce calcul.
 * `Pain/RecettePainLevain.md` : pour 1182 g de pâte sans graines, 500 g de mix
   pour pain et 200 g de levain selon leurs fiches ; 19 g de psyllium assimilé
   au produit Markal cité dans la recette (194 kcal, 2,2 g de glucides,

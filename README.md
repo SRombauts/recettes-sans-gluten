@@ -28,6 +28,7 @@ Le déploiement est automatique via GitHub Actions à chaque push sur `main`
 - [Levain](Levain/) — entretien et rafraîchi du levain chef.
 - [Pâtisserie](Patisserie/) — brownies, gâteaux, variantes protéinées.
 - [Cuisine](Cuisine/) — plats salés et biscuits apéritifs au levain.
+- [Confiserie](Confiserie/) — pâtes de fruits et autres confiseries maison.
 - [Pâtes à tartiner](PateATartiner/) — pâtes à tartiner chocolat-noisette ou chocolat-amande.
 - [Notes](Notes/) — fiches transversales (protéines, fibres).
 

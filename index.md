@@ -38,6 +38,8 @@ automatiquement à chaque changement d'ingrédients.
   variantes protéinées et mix de farines pour pâtisserie.
 - [Cuisine]({{ '/Cuisine/' | relative_url }}) — plats salés et biscuits
   apéritifs au levain.
+- [Confiserie]({{ '/Confiserie/' | relative_url }}) — pâtes de fruits et
+  autres confiseries maison.
 - [Pâtes à tartiner]({{ '/PateATartiner/' | relative_url }}) — pâtes à
   tartiner chocolat-noisette ou chocolat-amande.
 - [Notes]({{ '/Notes/' | relative_url }}) — fiches transversales sur
