@@ -7,7 +7,7 @@ nav_order: 2
 # Pâte à tartiner chocolat noir et amande
 
 Même esprit que la version noisette : ni whey, ni sucre ajouté, pour un cacao
-bien présent (~ 29 %). La purée d'amandes complètes la rend un peu plus riche en
+bien présent (~ 28 %). La purée d'amandes complètes la rend un peu plus riche en
 protéines et en fibres, et plus économique. Anhydre (sans eau ajoutée), elle se
 conserve à température ambiante.
 
@@ -15,23 +15,23 @@ conserve à température ambiante.
 
 ## Ingrédients
 
-- 200 g (44,4 %) de chocolat Nestlé Dessert Corsé 65 % (une tablette)
-  - soit 28,9 % de cacao
-- 200 g (44,4 %) de purée d'amandes complètes
-- 50 g (11,1 %) d'huile de colza
+- 200 g (43,4 %) de chocolat Nestlé Dessert Corsé 65 % (une tablette)
+  - soit environ 28,2 % de cacao
+- 200 g (43,4 %) de purée d'amandes complètes
+- 60 g (13,0 %) d'huile de colza
 - 0,5 g (0,1 %) de sel très fin
 
 ## Analyse nutritionnelle pour 100 g
 
-Estimation pour la pâte finie, sur une masse de **450,5** g (sans perte).
+Estimation pour la pâte finie, sur une masse de **460,5** g (sans perte).
 
-- Énergie : 622 kcal
-- Matières grasses : **51,7** g
-  - dont acides gras saturés : **13,1** g
-- Glucides : **19,0** g
-  - dont sucres : **15,8** g
-- Fibres : **8,6** g
-- Protéines : **14,5** g
+- Énergie : 628 kcal
+- Matières grasses : **52,7** g
+  - dont acides gras saturés : **13,0** g
+- Glucides : **18,6** g
+  - dont sucres : **15,5** g
+- Fibres : **8,4** g
+- Protéines : **14,2** g
 - Sel : **0,18** g
 
 ## Préparation
@@ -49,9 +49,10 @@ Estimation pour la pâte finie, sur une masse de **450,5** g (sans perte).
 Le Corsé 65 %, riche en beurre de cacao, fige dur en cristallisant : c'est
 l'huile de colza qui l'empêche de durcir complètement. Un premier essai avec
 35 g d'huile donnait une pâte trop ferme après quelques jours. La quantité a
-ensuite été portée à 55 g, puis à 60 g.
+ensuite été augmentée progressivement jusqu'à 60 g pour conserver une pâte
+plus fluide plus longtemps.
 
-Cette version revient à 50 g d'huile et porte la purée d'amandes de 180 à 200 g.
+Cette version retient 60 g d'huile et 200 g de purée d'amandes complètes.
 La purée est fluide à température ambiante et dilue elle aussi le chocolat. Elle
 apporte davantage de goût, de protéines et de fibres, mais ses particules
 d'amande peuvent épaissir la pâte. Son effet ne sera pas identique à celui de
@@ -78,7 +79,7 @@ ramenée à 0,5 g pour un goût plus doux ; bien mélanger reste nécessaire.
 Remplacer la tablette Corsé 65 % par du Nestlé Dessert Noir 52 %, à quantité
 égale, est possible mais modifie sensiblement le profil :
 
-- **Goût** : plus sucré et moins intense ; le cacao tombe de ~29 % à ~24 %. Va
+- **Goût** : plus sucré et moins intense ; le cacao tombe de ~28 % à ~24 %. Va
   un peu à l'encontre de l'objectif « sucre minimal » du projet.
 - **Texture** : le Noir 52 % contient moins de beurre de cacao et fige moins
   dur que le Corsé. La pâte sera plus souple : commencer avec 40 g d'huile et
