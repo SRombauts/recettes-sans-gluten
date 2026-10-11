@@ -10,12 +10,12 @@ nav_order: 1
 
 Pain sans graines, avec graines en option.
 
-## Ingrédients (1182 g de pâte, 1282 g avec graines)
+## Ingrédients (1182 g de pâte, 1262 g avec graines)
 
 * Eau ajoutée, trempage compris :
   * 450 g sans graines (hydratation ≈92 %)
-  * 480 g avec 70 g de graines (hydratation ≈97 %)
-*  70 g de [mélange de graines pour pain](MixGrainesPain.md), en option
+  * 480 g avec 50 g de graines (hydratation ≈97 %)
+*  50 g de [mélange de graines pour pain](MixGrainesPain.md), en option
 *  19 g psyllium blond
 
 * 200 g levain actif à 100 % d'hydratation
@@ -90,22 +90,6 @@ quantification de la xanthane assimilées à zéro.
 * Sel : **1,05** g
 
 ## Notes
-
-### Essai du 4 octobre 2026 : retour à 19 g de psyllium
-
-Après la baisse de 19 à 18 puis 17 g de psyllium en septembre, la mie
-présente des fissures et manque de cohésion, y compris sans graines.
-Un mélange soigneux et un façonnage sans farine dans les replis n'ont pas
-supprimé le défaut. La pâte sans graines reste très collante au façonnage.
-
-Pour le prochain essai, revenir directement à 19 g de psyllium avec
-450 g d'eau ajoutée, sans graines ni huile. Garder le reste du protocole
-et la durée de séchage actuellement utilisée pour comparer l'effet du
-psyllium. La variante avec graines reste hors de cet essai.
-
-Après refroidissement complet, comparer les fissures, la tenue des tranches
-et l'humidité de la mie. Ce retour à 19 g teste un manque de cohésion à
-l'hydratation actuelle ; son résultat reste à observer.
 
 ### Huile d'olive, en option
 
