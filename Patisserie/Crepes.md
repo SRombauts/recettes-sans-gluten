@@ -22,10 +22,10 @@ faible pour rester neutre, reste possible en option (voir [Notes](#notes)).
 
 * 1 L de lait demi-écrémé
 * 6 œufs
-* 500 g de [mélange de farines pâtisserie](MixFarinesPatisserie.md)
-* 2 g de sel
 * 20 g d'huile d'olive
 * 20 g de beurre fondu
+* 500 g de [mélange de farines pâtisserie](MixFarinesPatisserie.md)
+* 2 g de sel
 
 ## Préparation
 
