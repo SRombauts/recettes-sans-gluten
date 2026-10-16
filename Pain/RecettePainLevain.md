@@ -10,7 +10,7 @@ nav_order: 1
 
 Pain sans graines, avec graines en option.
 
-## Ingrédients (1182 g de pâte, 1262 g avec graines)
+## Ingrédients (1194 g de pâte, 1274 g avec graines)
 
 * Eau ajoutée, trempage compris :
   * 450 g sans graines (hydratation ≈92 %)
@@ -19,6 +19,7 @@ Pain sans graines, avec graines en option.
 *  19 g psyllium blond
 
 * 200 g levain actif à 100 % d'hydratation
+*  12 g huile d'olive
 
 * 500 g [mélange farines/fécules pour pain](MixFarinesPain.md)
 *  10 g sel
@@ -39,7 +40,7 @@ sont pas comptées comme de la farine.
    fermente, au moins 2 h pour le lin. Prélever l'eau de trempage sur les
    480 g prévus pour cette option et l'incorporer entièrement à la pâte.
 3. Mélanger le psyllium avec l'eau, puis laisser gélifier au moins 5 minutes.
-4. Ajouter le levain.
+4. Ajouter le levain et l'huile d'olive.
 5. Mélanger soigneusement le sel et la gomme xanthane aux farines et fécules
    sèches avant de les incorporer au gel et au levain. Ajouter les graines
    éventuelles. Mélanger très soigneusement, en raclant le fond et les parois,
@@ -67,35 +68,36 @@ Refroidir 4 h sur grille pour bien sécher la mie avant de couper.
 
 ## Analyse nutritionnelle pour 100 g
 
-Estimation pour le pain sans graines à 19 g de psyllium : 1182 g de pâte
-crue calculés. Le calcul conserve provisoirement la masse de référence de
-960 g cuits, mesurée le lendemain sur la version à 17 g de psyllium
-(1180 g de pâte crue calculés, 974 g de pain encore chaud). Cette ancienne
-fournée avait perdu 220 g, soit environ 18,6 % de sa masse crue.
-Les graines optionnelles ne sont pas comprises dans le calcul nutritionnel ci-dessous.
+Estimation pour le pain sans graines à 19 g de psyllium et 12 g d'huile :
+1194 g de pâte crue calculés. Masse cuite provisoirement estimée à 972 g,
+en ajoutant les 12 g d'huile aux 960 g mesurés le lendemain sur la version
+sans huile à 17 g de psyllium (1180 g de pâte crue calculés, 974 g de pain
+encore chaud). Cette ancienne fournée avait perdu 220 g à la cuisson.
+La masse du pain avec huile reste à mesurer ; les graines optionnelles ne
+sont pas comprises dans le calcul nutritionnel ci-dessous.
 
 Calcul à partir des fiches du mix et du levain. Valeurs indicatives des
 liants : [psyllium à 90 % de fibres](https://www.markal.fr/en/product/psybtc350-blond-psyllium-husks-350)
 et [xanthane à 80 % de fibres](https://cyranie.com/info/fiches/GOMXA-CA01-01000.pdf),
 faute d'étiquettes des produits utilisés. Valeurs inférieures aux seuils de
-quantification de la xanthane assimilées à zéro.
+quantification de la xanthane assimilées à zéro. Huile d'olive estimée à
+900 kcal, 100 g de lipides et 14 g d'acides gras saturés pour 100 g.
 
-* Énergie : 228 kcal
-* Matières grasses : **1,4** g
-  * dont acides gras saturés : **0,3** g
-* Glucides : **49,1** g
+* Énergie : 236 kcal
+* Matières grasses : **2,6** g
+  * dont acides gras saturés : **0,4** g
+* Glucides : **48,5** g
   * dont sucres : **0,8** g
-* Fibres : **4,6** g
-* Protéines : **4,0** g
-* Sel : **1,05** g
+* Fibres : **4,5** g
+* Protéines : **3,9** g
+* Sel : **1,03** g
 
 ## Notes
 
-### Huile d'olive, en option
+### Huile d'olive
 
-L'ancienne version contenait 12 g d'huile d'olive. Pour retrouver une mie un
-peu plus souple, l'ajouter avec le levain ; elle n'est pas comprise dans
-l'analyse nutritionnelle ci-dessus.
+Après trois semaines d'essais sans huile, réintroduction des 12 g d'huile
+d'olive : la mie est plus souple avec huile.
 
 ### Caler la fermentation sur le préchauffage
 
